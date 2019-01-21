@@ -107,6 +107,7 @@ class WordVecCnnLstm(object):
         weight_file_path = self.get_weight_file_path(model_dir_path)
 
         checkpoint = ModelCheckpoint(weight_file_path)
+        # print(self.model.fit)
 
         history = self.model.fit(x=x_train, y=y_train, batch_size=batch_size, epochs=epochs,
                                  validation_data=[x_test, y_test], callbacks=[checkpoint],

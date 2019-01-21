@@ -109,9 +109,14 @@ class ResumeParser(object):
         return None
 
     def parse(self, texts, print_line=False):
-        self.raw = texts
+        self.raw = [text.replace('\t',' ') for text in texts]
+        
         for p in texts:
-            if len(p) > 10:
+            # p=p.replace('\t',' ')
+            p=p.replace('-'," ")
+            # print('line -->',p)
+            if len(p) > 1: #originally >10
+                # print('line <->',p)
                 s = word_tokenize(p.lower())
                 line_label = self.line_label_classifier.predict_class(sentence=p)
                 line_type = self.line_type_classifier.predict_class(sentence=p)
@@ -121,10 +126,18 @@ class ResumeParser(object):
                 sex = extract_sex(s, p)
                 race = extract_ethnicity(s, p)
                 education = self.extract_education(line_label, p)
+                if education is None:
+                    extract_education(s,p)
                 project = self.extract_project(line_label, p)
+                if project is None:
+                    extract_project(s,p)
                 experience = self.extract_experience(line_label, p)
+                if experience is None:
+                    extract_experience(s,p)
                 objective = extract_objective(s, p)
                 knowledge = self.extract_knowledge(line_label, p)
+                if knowledge is None:
+                    extract_knowledge(s,p)
                 mobile = extract_mobile(s, p)
                 if name is not None:
                     self.name = name

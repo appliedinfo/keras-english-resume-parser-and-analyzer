@@ -57,7 +57,7 @@ class WordVecLstmSigmoid(object):
         self.model.add(LSTM(units=64, dropout=0.2, recurrent_dropout=0.2))
         self.model.add(Dense(1, activation='sigmoid'))
 
-        self.model.compile(optimizer='rmsprop', loss='binary_crossentropy', metrics=['accuracy'])
+        self.model.compile(optimizer='rmsprop', loss='categorical_crossentropy', metrics=['accuracy'])
 
     def fit(self, text_data_model, text_label_pairs, model_dir_path, batch_size=None, epochs=None,
             test_size=None, random_state=None):
@@ -128,7 +128,7 @@ class WordVecLstmSigmoid(object):
         xs.append(wid)
         x = pad_sequences(xs, self.max_len)
         output = self.model.predict(x)[0]
-        return [1-output[0], output[0]]
+        return [1 - output[0], output[0]]
 
     def predict_class(self, sentence):
         predicted = self.predict(sentence)
@@ -137,8 +137,8 @@ class WordVecLstmSigmoid(object):
 
     def test_run(self, sentence):
         print(self.predict(sentence))
-        
-        
+
+
 class WordVecLstmSoftmax(object):
     model_name = 'lstm_softmax'
 
@@ -266,8 +266,8 @@ class WordVecLstmSoftmax(object):
 
     def test_run(self, sentence):
         print(self.predict(sentence))
-        
-        
+
+
 class WordVecBidirectionalLstmSoftmax(object):
     model_name = 'bidirectional_lstm_softmax'
 

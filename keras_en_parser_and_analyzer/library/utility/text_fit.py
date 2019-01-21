@@ -18,7 +18,13 @@ def fit_text(data_dir_path, max_vocab_size=None, label_type=None):
             file = open(data_file_path, mode='rt', encoding='utf8')
 
             for line in file:
-                line_type, line_label, sentence = line.strip().split('\t')
+                line_type = line.strip().split('\t')[0]
+                line_label = line.strip().split('\t')[1]
+                sent = line.strip().split('\t')[2:]
+                sentence = ''
+                for x in sent:
+                    if x.strip() != '':
+                        sentence = sentence + x + ' '
                 tokens = [x.lower() for x in word_tokenize(sentence)]
                 for token in tokens:
                     counter[token] += 1
