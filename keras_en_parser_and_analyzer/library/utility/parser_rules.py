@@ -39,6 +39,20 @@ def extract_education(parts, line):
             break
     return education
 
+def extract_summary(parts, line):
+    found = False
+    summary = None
+    for w in parts:
+        # print(w)
+
+        if 'summary' in w :
+            found = True
+            continue
+        if found and ':' not in w:
+            summary = w
+            break
+    return summary
+
 def extract_knowledge(parts, line):
     found = False
     knowledge = None
@@ -83,11 +97,11 @@ def extract_mobile(parts, line):
         # match=re.search(r'[\d]{10,15}', w)
         # if match is not None:
         #     f=True
-        if w.find('mobile') != -1 or w.find('phone') != -1: 
-            # print(mobile,'--',parts[i])
-            found = True
-            # mobile=w
-            continue
+        # if w.find('mobile') != -1 or w.find('phone') != -1: 
+        #     # print(mobile,'--',parts[i])
+        #     found = True
+        #     # mobile=w
+        #     continue
         # if found: # and ':' not in w:
             # match = re.search(r'[\d]{10,15}', w)
             # if match is not None:

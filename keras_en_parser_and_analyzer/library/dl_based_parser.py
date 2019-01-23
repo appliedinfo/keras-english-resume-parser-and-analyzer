@@ -108,6 +108,12 @@ class ResumeParser(object):
             return text
         return None
 
+    @staticmethod
+    def extract_summary(label, text):
+        if label == 'summary':
+            return text
+        return None
+
     def parse(self, texts, print_line=False):
         self.raw = [text.replace('\t',' ') for text in texts]
         
@@ -128,6 +134,9 @@ class ResumeParser(object):
                 education = self.extract_education(line_label, p)
                 if education is None:
                     extract_education(s,p)
+                summary = self.extract_summary(line_label, p)
+                if summary is None:
+                    extract_summary(s,p)
                 project = self.extract_project(line_label, p)
                 if project is None:
                     extract_project(s,p)

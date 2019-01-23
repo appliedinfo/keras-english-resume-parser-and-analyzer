@@ -7,12 +7,20 @@ def main():
     sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
     from keras_en_parser_and_analyzer.library.dl_based_parser import ResumeParser
-    # from keras_en_parser_and_analyzer.library.dl_based_parser import ResumeParser
-    from keras_en_parser_and_analyzer.library.classifiers.cnn_lstm import WordVecCnnLstm
+
+    # from keras_en_parser_and_analyzer.library.classifiers.cnn_lstm import WordVecCnnLstm
+    from keras_en_parser_and_analyzer.library.classifiers.cnn import WordVecCnn
+
+
 
     classifier = ResumeParser()
-    classifier.line_label_classifier = WordVecCnnLstm()
-    classifier.line_type_classifier = WordVecCnnLstm()
+    # for cnnlstm
+    # classifier.line_label_classifier = WordVecCnnLstm()
+    # classifier.line_type_classifier = WordVecCnnLstm()
+
+    # for cnn
+    classifier.line_label_classifier = WordVecCnn()
+    classifier.line_type_classifier = WordVecCnn()
 
     random_state = 42
     np.random.seed(random_state)
@@ -30,6 +38,7 @@ def main():
                              batch_size=batch_size, epochs=epochs,
                              test_size=0.2,
                              random_state=random_state)
+    
 
 
 if __name__ == '__main__':

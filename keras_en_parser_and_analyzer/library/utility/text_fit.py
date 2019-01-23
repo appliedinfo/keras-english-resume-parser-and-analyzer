@@ -18,6 +18,7 @@ def fit_text(data_dir_path, max_vocab_size=None, label_type=None):
             file = open(data_file_path, mode='rt', encoding='utf8')
 
             for line in file:
+                # print(line)
                 line_type = line.strip().split('\t')[0]
                 line_label = line.strip().split('\t')[1]
                 sent = line.strip().split('\t')[2:]
