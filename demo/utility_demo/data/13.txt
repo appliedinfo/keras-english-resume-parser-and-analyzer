@@ -1,0 +1,131 @@
+content	others	Mobile: +91-9149829583
+content	others	EmailID: dganaie@gmail.com
+content	others	Web : www.danishahmadullah.com
+content	others	Danish Ahmadullah
+header	others	OBJECTIVE:
+content	others	To pursue a challenging career in the industry of Information Technology in an adeptly managed
+content	others	organization that provides excellent opportunity to produce quality software and working for the growth
+content	others	of the company & my own through adopting to new technologies.
+header	experience	PROFESSIONAL SUMMARY:
+content	experience	  1 year and 2 months of IT Experience in developing .Net Applications.
+content	knowledge	  Good Knowledge and Experience On Object Oriented Programming.
+content	experience	  Experience in working with C#.NET, SQL Server 2012 R2.
+content	experience	  Experience in developing of Web Applications using Asp.net, MVC 5, Html, and XML.
+content	experience	  Good Experience in Writing Stored Procedures
+content	experience	  Experience in ADO.NET Technology.
+header	experience	PROFESSIONAL EXPERIENCE:
+content	experience	  Worked with Tech Mahindra Limited Bangalore from December 2016 to February 2018 as
+content	experience	Full Stack Dot Net Developer.
+content	experience	  Worked with Thomson Reuters Client via Tech Mahindra as L3 Application Developer.
+content	experience	  Worked  as  a  Dot  Net  Developer  on  a  number  of  Flag  Ship  Thomson  Reuters  Products  like
+content	experience	DataStream,  Infobase,  Advance,  Advance  For  Office  (AFO),  Datastream  for  Office
+content	experience	(DFO) and Eikon.
+content	experience	  Apart  from  Development,  I  was  also  responsible  for  Maintaining,  Deploying  and  supporting the
+content	experience	above mentioned Products at Client Location (Thomson Reuters).
+header	others	TECHNICAL SKILLS:
+content	knowledge	Operating System
+content	knowledge	Languages
+content	knowledge	Technologies
+content	knowledge	Frame Work
+content	knowledge	IDE Tools
+content	knowledge	Databases
+content	knowledge	Scripting Language
+content	knowledge	Win XP/windows 7/8/8.1/10
+content	knowledge	C#, VB.Net, Python
+content	knowledge	ASP.NET, ADO.NET, MVC, Entity Framework
+content	knowledge	.NET 2.0 / 3.0/4.0/4.5
+content	knowledge	Visual Studio 2010/2013/2015.
+content	knowledge	SQL server 2012 R2
+content	knowledge	JavaScript
+header	education	EDUCATIONAL QUALIFICATIONS:
+content	education	  B.Tech  (74.4  %  Marks)  in  Information  Technology  and  Telecommunication  Engineering  on
+content	education	2016 from Baba Ghulam Shah Badshah University, Rajouri, Jammu and Kashmir.
+header	project	PROJECTS PROFILE
+header	project	Project #1:
+meta	others	Title
+meta	others	Environment
+meta	others	Duration
+content	project	Description: Datastream is a powerful financial time series database that enables a user to explore
+content	others	relationships and trends. The contents of Datastream are:
+content	project	:        Datastream, Financial and Risk (FnR).
+content	knowledge	C#, ASP.NET Web forms, ADO.NET, SQL Server 2012.
+content	project	:        6 Months
+content	others	  Powerful Annalytical Tools
+content	others	  Charting Applications
+content	others	  Microsoft Office Integration
+content	others	My Role:
+content	experience	  Back End Developer in a Team of 8 Members.
+meta	project	Case Studies
+meta	project	CaseStudy #1:
+meta	others	Title
+meta	others	Environment
+meta	others	Duration
+content	project	Description: This is an ASP.NET web application. This is used by Healthcare Centers to provide all test
+content	others	facilities to registered patients. The diagnostic center has facilities and personnel to conduct all common
+content	others	tests and provide test reports within minimum time periods as mentioned below:
+content	project	:        Diagnostic Center.
+content	knowledge	C#, ASP.NET Web forms, ADO.NET, SQL Server 2012.
+content	knowledge	:        1 week
+meta	others	1.  blood report (8 hr)
+meta	others	2.  urine report (8 hr)
+meta	project	3.  lipid profile (8 hr)
+meta	others	4.  Thyroid test (16 hr)
+meta	others	5.  Ultra sound test (2hr)
+meta	others	6.  X ray (2 hr)
+meta	others	7.  ECG (0.5 hr)
+meta	others	8.  EEG (1 hr)
+content	others	My Role:
+content	experience	  Full Stack Developer in a team of 2 members.
+content	header	Highlights of Project:
+content	project	1.  Implementation of Business Access Layer (BAL) and Data Access Layer (DAL).
+content	project	2.  Complete separation of modules which helps the developer to maintain and manage the application
+content	others	with ease.
+meta	others	CaseStudy #2:
+meta	others	Title
+meta	others	Environment
+meta	others	Duration
+content	project	:        Online shopping cart.
+content	knowledge	C#, ASP.NET MVC 5, Entity Framework, SQL Server (DBF)
+meta	others	1 Week
+header	others	Description:
+content	project	This  is  an  asp.net  MVC  application.  This  application  allows  online  shopping  customers  to
+content	others	accumulate a list of items for purchase, described metaphorically as “placing items in the shopping cart” or
+content	others	“Add to cart”. Upon checkout, the application typically calculates a total for the order, including shipping
+content	others	and handling and associated taxes, as applicable.
+content	others	My Role:
+content	experience	  Full Stack Developer in a team of 2 Members.
+content	others	Highlights of Project:
+content	project	1.  Implementation of MVC Security by using Owin (Microsoft’s katana).
+content	project	2.  Password Encryption in the database side by implementing MD5 hash algorithm.
+content	project	:  Airport Application
+content	experience	:  C# Developer
+content	knowledge	:  C#
+meta	others	Case Study #3:
+meta	others	Title
+meta	others	Role
+meta	others	Environment
+meta	others	Duration                    :  3 Hours
+meta	others	Platform
+content	project	This  is  a  console  application  built  in  C#.  This  application  provides  information  about  both
+content	others	Description:
+content	others	Domestic  and  International  Airports  in  a  Country.  The  application  also  provides  details  like  Number  of
+content	others	flights an airport receives per day.
+content	others	My Role:
+content	knowldege	:  Visual Studio 2013 Express Edition, Microsoft Windows 7
+content	experience	  Full Stack Developer
+content	others	Highlights of Case Let:
+content	others	1.  Complete Modularity attained.
+header	knowledge	Secondary Skills:-
+content	knowledge	1.  C, C++, Core Java, Python.
+content	knowledge	2.  CCNA Routing and Switching.
+content	knowledge	3.  A+ Computer Hardware.
+header	others	Personal Detals:-
+content	others	Name
+content	others	Email ID
+content	others	Contact Numbers
+content	others	Address
+content	others	Danish Ahmadullah
+content	others	Personal: dganaie@gmail.com
+content	others	Home: +91-9149829583
+content	others	Muloo Shopian Kashmir near Noor Ul Huda
+content	others	Masjid 192303

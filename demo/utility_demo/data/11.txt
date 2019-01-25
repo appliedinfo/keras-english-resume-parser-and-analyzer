@@ -1,0 +1,27 @@
+content	others	Junaid Nazir
+content	others	R/o Dadi Kadal Tanki Pora, Srinagar
+content	others	juni.nazir7777@gmail.com
+content	others	+91-9797214421
+header	others	OBJECTIVE
+content	others	To obtain a rewarding and challenging position as Software Developer in IT infrastructure where I can use my proficiency and skills for the benefit of the company. My educational qualification, broad exposure and product knowledge should help me in doing the job efficiency.
+header	experience	EXPERIENCE
+content	experience	Fresher
+header	education	COURSES
+content	experience	.NET Specialization (Logic Hub Software Solutions)
+content	experience	HTML5 / CSS3/Bootstrap (Logic Hub Software Solutions)
+header	education	EDUCATION
+content	education	BE CSE (2014-2018) BE (To Be Completed On December 2018)
+content	education	SSM College Of Eng and Tech
+content	education	(Kashmir University)
+content	education	HIGHER SECONDARY Non-Medical(Passed by 86.4%)
+meta	education	PART -II (12TH) (2013) .
+content	education	SECONDARY SCHOOL MATRICULATION (Passed by 88.8%)
+meta	education	EDUCATION (10TH) (2011)
+header	knowledge	SKILLS
+content	knowledge	HTML5, CSS3,Bootstrap
+content	knowledge	C#, ASP.NET WebForms,Java Script
+content	knowledge	SQL, ADO.NET
+header	projects	Project Done
+content	project	Trek De Kashmir (Done by Itself )
+content	project	Technology used asp.net with c# and Sql server
+content	others	Declaration: I affirm that the information presented above is true and best to my knowledge and I promise to authenticate the same by presenting original credentials as and when required.

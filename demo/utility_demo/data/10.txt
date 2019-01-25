@@ -1,0 +1,50 @@
+content	others	SABERA TEHZEEB
+content	others	Fair Banks Colony, Lane D, H. No 21 Rawalpora
+content	others	Srinagar
+content	others	9906685455
+content	others	sabera7408@gmail.com
+header	others	CAREER OBJECTIVE
+content	others	Hard-working student (3.5/4.0 GPA) with proven leadership and organizational skills, and minute
+content	others	attention to detail. Seeking to apply my abilities to fill the internship role in your company. I am a
+content	others	dedicated team player who can be relied upon to help your company achieve its goals.
+header	experience	EXPERIENCE
+content	others	Elance
+content	experience	Web Developer, Web Designer
+content	others	jan 2017 - August 2018
+content	experience	Trainee
+header	education	EDUCATION
+content	others	University of Kashmir
+content	education	B-tech (Computer Science and Engineering)
+content	education	75%
+meta	others	2018
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	HTML, CSS, JavaScript, MySQL, PHP, Bootstrap
+content	knowledge	Programming
+content	knowledge	Microsoft office
+header	project	PROJECTS
+content	project	Online Auction System
+content	project	Last year project for B-Tech
+header	others	ACHIEVEMENTS & AWARDS
+content	others	National Kho-Kho champion
+header	others	INDUSTRIAL EXPOSURE
+content	experience	In Elance as a web developer and web designer.
+content	experience	3 months
+header	others	INTERESTS
+content	knowledge	Web Development
+content	knowledge	Web Designing
+content	others	Programming
+header	others	PERSONAL STRENGTHS
+content	others	Good communication skills, Quick learner, Stress Tolerance, Good Listener, Self motivated, Strong
+content	others	work ethic, Honestly, Punctuality and Loyalty
+header	others	PERSONAL PROFILE
+content	others	: 18/10/1996
+content	others	: Single
+content	others	: Indian
+content	others	Date of Birth
+content	others	Marital Status
+content	others	Nationality
+content	others	Known Languages : English, Hindi, Kashmiri
+content	others	Hobby
+content	others	: Drawing, Sketching, Painting, Poetry, Book Reader
+content	others	DECLARATION
+content	others	I can work independently using my own initiative as well as a part of a team.

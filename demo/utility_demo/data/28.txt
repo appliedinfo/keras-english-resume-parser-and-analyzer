@@ -1,0 +1,131 @@
+content	others	YOUNIS BASHIR
+header	experience	ISTQB Certified – Software QA/Automation Testing Consultant
+content	others	Contact:  +91-9716587704
+content	others	Email:   younis.bashir@outlook.com
+content	others	LinkedIn:  https://www.linkedin.com/in/younisbashir/
+header	others	OBJECTIVE
+content	others	Seeking a position as Software Quality Assurance Analyst / Test Automation Engineer in the competitive information
+content	others	technology industry, to utilize my skills and abilities that offers professional growth while being resourceful, innovative
+content	others	and flexible.
+header	experience	CAREER SUMMARY
+content	experience	•  Overall 4+ years of experience in IT Industry, primarily with Software Quality Assurance and Testing in Telecom
+content	experience	(OSS and BSS) domain. This includes Requirement Gathering, Test Designing, Test Data Set-up, Test Execution
+content	experience	and Defect Management.
+content	experience	•  Experience in Manual and Automation Testing, with extensive knowledge of all phases of STLC.
+content	experience	•  Proficient in Test designing to develop manual and automation test scripts.
+content	experience	•  Strong with all levels of Software test execution like sanity, smoke, functional and regression.
+content	experience	•  Experience in HP ALM and JIRA as Test management and Defect tracking tool.
+content	experience	•  Experience with automation testing using Robot Framework, with Python scripting language.
+content	experience	•  Experience in HP UFT as Test Automation Tool, with knowledge on VB Scripting.
+content	knowledge	•  Knowledge of SQL queries and Database Testing.
+content	experience	•  Experience in testing Web, Windows based and Mobile Applications on multiple platforms.
+content	experience	•  Experience  with  automation  testing  of  core  telecom  components  like  Adaptive  Inventory  (Granite)  and
+content	experience	Billing/Charging systems (CBiO, ICOMS) and CRM applications (Siebel).
+content	experience	•  Experience in manual testing of IVR Application, with knowledge of Payment Gateway and Speech Recognition
+content	experience	systems.
+content	experience	•  Experience with Utilities domain, having worked on SAP Product (SAP IS-U) for Smart Metering.
+header	education	ACADEMIC QUALIFICATIONS
+content	education	•  Bachelor of Engineering (Electronics and Communications), VTU Karnataka – 2014
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	IDE Tools:                                             RIDE, Eclipse
+content	knowledge	Languages:                                          VB Script, Python and Core Java (Basics)
+content	knowledge	•  Automation Testing Tools:               HP-UFT, Robot Framework
+content	knowledge	•  Test Management Tools:                  HP-ALM/QC, JIRA and Atos Temppo
+content	knowledge	•  Database Tools:                                  Microsoft SQL, Oracle SQL Developer
+content	knowledge	•  Others:                                                 Soap UI, Confluence, SAP-IS U
+header	experience	ORGANIZATIONAL EXPERIENCE
+header	experience	•  Ericsson India Global Services Pvt. Ltd., Noida
+content	others	Period: May 2017 to Present
+content	experience	Designation: Solution Integrator
+header	others	Project Details
+content	project	Salzburg AG Smart Meter Project, Austria – January 2018 to Present
+content	experience	Role: Automation Expert
+content	knowledge	Tools Used: HP-UFT, SAP-IS U, Jira, Atos Temppo
+header	experience	Responsibilities:
+content	experience	▪  Creating automation resources using HP UFT such as Object Repositories, Functional Libraries, etc.
+content	experience	▪  Develop integrated automation scripts for various project components like SAP-IS U, MDM (Meter Data
+content	experience	Management), OI (Operational Intelligence) and WFM (Work Force Management).
+content	experience	▪  Debugging and Execute automation scripts using integration of HP-UFT and Atos Temppo.
+content	experience	▪  Client Demo for developed automation suite. (Visited Austria for client demo – March to April 2018)
+content	project	Sprint NIMS Project, USA – August 2017 to December 2017
+content	experience	Role: Test Automation Engineer
+content	knowledge	Tools Used: Robot Framework, Python, Soap UI, Ericsson Adaptive Inventory (Granite)
+header	experience	Responsibilities:
+content	experience	▪  Develop  automation  scripts  using  Robot  Framework  with  Python  Language  on  RIDE  (Robot  IDE)  for
+content	experience	Ericsson Adaptive Inventory.
+content	experience	▪  Use different libraries for element identification of multiple components e.g. Selenium, HTTP and other
+content	others	libraries.
+content	experience	▪  Execute automation scripts on daily basis and send report to Stakeholders.
+content	project	3.  T-Mobile MBC Project, USA – May 2017 to July 2017
+content	experience	Role: Automation Tester
+content	knowledge	Tools Used: Robot Framework, Python, Soap UI
+header	experience	Responsibilities:
+content	experience	▪  Creating automation resources in Robot Framework such as Libraries, Keywords, etc.
+content	experience	▪  Handling SOAP requests and responses for API Testing using Robot.
+content	experience	▪  Creating test scripts using Python programming in RIDE editor.
+content	experience	▪  Debugging and Running tests.
+content	experience	▪  Analyzing Test results.
+content	experience	▪  Preparing test reports and logs.
+content	experience	▪  Modifying Tests and performing Regression testing.
+header	experience	•  Cognizant Technology Solutions India Pvt.Ltd., Bangalore
+content	others	Period:  April 2015 to April 2017
+content	experience	Designation: Programmer Analyst
+header	project	Project Details
+content	experience	1.  Saudi Telecom Company, KSA – December 2016 to April 2017
+content	experience	Role: Automation Test Specialist
+content	knowledge	Tools Used: HP-UFT, HP-ALM, Siebel CRM (Tawasul)
+header	project	Projects:
+content	experience	o  STC BSS Transformation
+header	project	Responsibilities:
+content	experience	▪  Creating automation resources such as Object Repositories, Functional Libraries, etc.
+content	experience	▪  Handling duplicate objects and dynamic objects using index property and regular expressions.
+content	experience	▪  Collecting Test Data for Data driven testing.
+content	experience	▪  Creating Test Scripts using keyword driven methodology and/or descriptive programming.
+content	experience	▪  Debugging and Running tests.
+content	experience	▪  Analyzing Test results.
+content	experience	▪  Defect reporting and tracking using HP-Application Lifecycle Management.
+content	experience	▪  Modifying Tests and performing Functional and Regression testing.
+content	experience	2.  Cox Communications Inc., USA – June 2015 to November 2016
+content	experience	Role: QA Analyst
+content	knowledge	Tools Used: HP ALM, Avaya Softphone, ICOMS.
+header	project	Projects:
+content	project	o  Cox IVR (Multiple Releases)
+content	project	o  ICOMS 8.x
+content	project	o  OHC (Order Health Check)
+content	project	o  ME Mobile App (Cox EWFM)
+content	project	o  Saturn Web App (Cox IVR Backend)
+header	experience	Responsibilities:
+content	experience	▪  Involved in understanding business and functional requirements.
+content	experience	▪  Participation in KT sessions with Onsite/Development team.
+content	experience	▪  Preparation of test scenarios and test cases, based on requirements.
+content	experience	▪  Involved in Test Execution; Smoke, Sanity, Functional, End to End and Regression Testing.
+content	experience	▪  Defect logging and tracking using HP-ALM.
+content	experience	▪  Maintaining and executing automation regression test suite using HP-UFT.
+content	experience	▪  Preparing all the Test artifacts like Test Plan, Test Strategy document, Test Closure document, etc.
+header	experience	iYogi Technical Services Pvt. Ltd., Gurgaon
+content	others	Period:  August 2014 to April 2015
+content	experience	Designation: Technical Specialist
+header	education	CERTIFICATIONS AND PROFESSIONAL ACHIEVEMENTS
+content	education	ISTQB Certified – Foundation Level.
+content	knowledge	•  Winner of Ericsson Hackathon++ 2017 program.
+content	education	•  Gold Medalist in Cognizant Olymation for Selenium Tool.
+content	education	•  Completed Agile Scrum Training, organized by Cognizant Academy.
+content	education	•  Pillar of the Month (March 2016), awarded by Cognizant for recognition of continuous performance.
+header	others	PERSONAL STRENGTHS
+content	others	•   In possession of a pleasant personality, complemented with a caring and responsible attitude.
+content	others	•  Self-motivated, focused and dedicated.
+content	others	•  Quick learning capability.
+content	others	•  Ability to work with team as well as handling individual tasks.
+header	others	PERSONAL PROFILE
+content	others	•  Father’s Name:                            Bashir Ahmad
+content	others	•  Nationality:                                   Indian
+content	others	•  Gender :                                        Male
+content	others	•  Date of Birth:
+content	others	•  Hobbies:                                         Singing, Cooking, Playing indoor/outdoor games
+content	others	•  Present Address:                          S-10/13C, Joga Bai Ext., Jamia Nagar, Okhla, New Delhi-110025
+content	others	•  Permanent Address:                    KhushalSar, Zadibal near Shrine, Srinagar, Jammu & Kashmir – 190011
+content	others	Languages Known:                       English, Hindi, Urdu, and Kashmiri
+content	others	7th July 1991
+header	others	Declaration:
+content	others	I hereby declare that above information is correct to the best of my knowledge and belief.
+content	others	(YOUNIS BASHIR)

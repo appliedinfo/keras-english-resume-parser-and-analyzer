@@ -1,0 +1,54 @@
+content	others	MEHAK BASHIR RESHI                           Email:mehakreshi179@gmail.com
+content	others	Address: J&K, India.
+content	others	Phone:   +91-7006492121
+header	others	CAREER OBJECTIVE :
+content	others	  To be a part in empowering the world with technology by applying skills and knowledge.
+header	others	PERSONAL SKILLS:
+content	others	Passion for constant improvement
+content	others	  Good verbal and personal communication skills.
+content	others	  Quick and Self-learning ability
+content	others	  Adaptability
+content	others	  Skilled in Time Management
+content	others	  Collaborative Work and Leadership
+header	education	EDUCATION:
+content	education	  Bachelor of Engineering  (2013-2017)
+content	education	  Computer Science And Engineering
+content	education	  University of Kashmir, North Campus.
+content	education	  Passed with first class.
+meta	others	Intermediate (2013)
+content	education	  JK Board of School Education, J&K
+content	education	  Passed with Distinction
+content	education	  Matriculation (2011)
+content	education	  JK Board of School Education, J&K
+content	education	  Passed with Distinction.
+header	knowledge	TECHNICAL SKILLS:
+content	knowledge	  Programming  Languages:  C, C++, JAVA, Android,  HTML, CSS, Bootstrap.
+content	knowledge	  Database: MYSQL.
+header	project	PROJECTS:
+content	project	  Lead Android Developer: Intelligent travel planner (An Android App) – College Project
+content	project	I  have been involved in development and designing of a native android app in which I had the
+content	project	role of  front-end designer . We used MYSQL  as  a database at the web server and PHP to fetch
+content	project	data from the database.
+header	education	INDUSTRIAL TRAINING:
+content	knowledge	  Three months training in Advance java, Php, Jsp, Servlet, bootstrap from Rooman
+content	others	Technologies Bangalore.
+content	education	  Two months training in Core Java from IAC Software Solutions, Srinagar.
+content	education	  One month training in “Open Source Web Technologies”  from   National Institute of
+content	others	Technical Teacher’s
+content	others	Training and Research, Chandigarh.
+header	experience	EXPERIENCE:
+content	experience	Worked as Software Engineer with  IT SUPPORT DESK pvt ltd  Bangalore
+content	experience	from  01-01-18 to 10-07-18.
+header	others	HOBBIES:
+content	knowledge	  Web Designing
+content	others	  Reading religious literature
+content	others	  Reading blogs
+content	others	Internet Surfing
+header	others	PERSONAL DETAILS :
+content	others	  Date of Birth – 05 May, 1994
+content	others	  Marital Status - Single
+content	others	  Languages Known – English, Hindi, Urdu, Kashmiri.
+content	others	  Permanent Address – Lal Bazar Botshah Mohalla, Jammu And Kashmir – 190023.
+header	others	Declaration:
+content	project	I declare that all the above mentioned facts and figures are true to my knowledge and
+content	project	belief.

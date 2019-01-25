@@ -1,0 +1,65 @@
+content	others	Talib Zaz
+content	others	Software Engineer
+content	others	mtalibzaz@gmail.com | Sk Colony Sector 1, Qamarwari | Srinagar, Jammu and Kashmir, 190010 |
+content	others	+91 990 669 6262
+header	others	Summary
+content	others	Self-motivated, hardworking and energetic software engineer with nearly 1 year experience, seeking for an
+content	others	opportunity to work in a challenging environment to hone my skills as a developer.
+header	education	Education
+content	education	University of Kashmir, Srinagar
+content	education	Btech CSE, Graduated
+content	education	Tyndale Biscoe School, Srinagar
+content	education	Higher Secondary, Graduated
+header	project	Employment History
+meta	others	November 2017
+meta	others	October 2012
+content	others	Cenedex Software Solutions
+content	experience	.Net Intern
+content	education	started learning basics of .net and worked on company's MVC project called GateHouse.
+content	knowledge	worked on bug fixes and mostly UI fixes of the product.
+content	knowledge	used jQuery and ajax extensively.
+content	others	January 2018 - April 2018
+content	others	Graphic Weave
+content	experience	Software Engineer Intern
+meta	others	was hired as trainee and learnt various technologies.
+content	project	created several mini-projects which were reviewed by the senior developer.
+content	others	Graphic Weave
+content	experience	Back-end Developer
+content	others	May 2018 - July 2018
+content	others	August 2018 - Present
+content	experience	Hired as back-end programmer to build the projects and write server side code for web and mobile applications. I
+content	experience	work on distributed systems employing micro services architecture and continuous integration. I build the project
+content	experience	from scratch use Make to build the projects and dockerize them so that they can be easily deployed on the server.
+content	project	Eventackle | An event management portal
+content	project	Developed the entire admin panel for the system. Implemented Iris web framework in Go and designed
+content	knowledge	server in GraphQL.
+content	project	Used MySQL and ArangoDB clients for Go to store the data in database.
+content	knowledge	Used Amplitude analytics for statistics and analysis.
+content	project	The overall project is distributed and in order to communicate with other servers  i used RPC client for
+content	knowledge	Golang called gRPC-Go.
+content	knowledge	Used Oliver-elastic, elastic search client for Go for searching purposes.
+content	experience	Dockerized the admin panel and deployed the same on digital ocean server.
+content	experience	Also helped the front-end team with code integration in Vuejs.
+content	project	Lingva App | Mobile App
+content	experience	wrote the server side code for the mobile application in Go using Gorilla mux router and GraphQL server. The app
+content	others	enables the parents to get their wards school reports and various notifications from school / teacher. Used the
+content	experience	GORM library in Golang to store the app data in MySQL database.
+content	project	Eventackle App | Mobile App
+content	project	currently working on mobile app for Eventackle Web. Developed the entire project from scratch using Iris
+content	experience	Framework and Gqlgen graphQL library. Fetched data from web app servers using gRPC.
+header	knowledge	Languages and Technologies
+content	knowledge	Golang              ★★★★
+content	knowledge	GraphQL           ★★★★
+content	knowledge	JavaScript        ★★★
+content	knowledge	Vuejs                   ★★★
+content	knowledge	SQL                      ★★★
+content	knowledge	ArangoDB          ★★★★
+content	knowledge	Redis                    ★★
+content	knowledge	RethinkDB          ★★★
+content	knowledge	Docker                 ★★★
+content	knowledge	gRPC                    ★★★★
+content	knowledge	Linux OS             ★★★
+content	knowledge	ElasticSearch    ★★★
+content	knowledge	Web Presence
+content	others	LinkedIn         https://www.linkedin.com/in/talib-zaz/
+content	others	Github             https://github.com/talibzaz

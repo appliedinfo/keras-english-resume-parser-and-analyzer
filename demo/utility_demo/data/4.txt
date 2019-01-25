@@ -1,0 +1,39 @@
+content	others	Munzir Mearaj
+content	others	munzirmearaj@gmail.com
+content	others	Alamgari Bazaar, Near. J&K
+content	others	Bank,  Srinagar, J&K – 190011
+content	others	Mobile : 7006834173
+header	others	CAREER OBJECTIVE
+content	others	An able, keen, skilled, and trustworthy individual seeking a proposal writer position. Bringing strong computer
+content	others	skills, and personal attributes including devotion, meeting goals, inventiveness, and the aptitude to follow through.
+header	education	ACADEMIC DETAILS
+content	education	• B. Tech in Computer Science Engineering [2017] with aggregate of 6.02 from  Islamic university of science
+content	education	and technology
+header	project	PROJECT DETAILS
+content	project	•  Web Browser with Data Synchronization.
+content	others	Description   :
+content	project	A  Browser Synchronization   is a tool or an extension which allows users to keep
+content	others	their web browser configured in the same way on different computers or operating
+content	others	systems. For instance, if a user adds a bookmark while being at home, the bookmark will
+content	others	be available the day after at office. Depending on the tool's features, bookmarks,
+content	others	preferences, extensions and GUI can be preserved.
+content	others	Duration       :
+content	others	1 month
+content	others	Role               :
+content	others	Team Head
+meta	others	Team Size     :
+meta	others	4
+header	others	FIELD OF INTERESTS
+content	others	• Experimentation
+content	others	• Writing
+content	others	• Education
+header	others	SKILLS
+content	others	• Good listener
+content	others	Leadership Skills
+content	others	Programming
+header	others	ACHIEVEMENTS
+content	knowledge	• C # learning
+header	others	CURRICULAR ACTIVITIES
+content	others	Playing Cricket
+header	others	DECLARATION
+content	others	I here by declare that the above furnished information is authentic to the best of my knowledge.

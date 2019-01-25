@@ -1,0 +1,41 @@
+header	others	CURRICULUM VITAE
+content	others	Cell :9622995408
+content	others	RIZWANA PARVEEN
+header	others	Permanent Address
+content	others	Leh - Ladakh
+header	others	Correspondent  Address
+content	others	Habak Naseem Bagh Sgr.
+header	others	Personal Data
+content	others	Name                   : Rizwana Parveen
+content	others	Sex                      : Female
+content	others	Languages Known: Urdu, English, Hindi
+content	others	Kashmiri, Ladakhi.
+header	others	Hobbies        :
+content	others	Reading Books.
+header	others	Objective
+content	others	Seeking  a  teaching  position  where  training  and  skills  in  active  teaching
+content	others	methodologies  will  be  full  utilized  in  order  to  provide  students  with  a
+content	others	positive learning experience.
+header	education	Academic  Qualification
+content	education	  B.C.A                         Through “University of Kashmir”
+header	knowledge	Areas of Specialization
+content	project	  Classroom Management and interpersonal skills.
+content	others	  Guidance and Counseling
+content	others	  Personality Development
+header	others	Strength
+content	others	  Positive attitude.
+content	others	  Leadership Skills.
+header	others	Interacting with the different people.
+content	others	  Always Ready to Learn any new skill in technical as well as in
+content	others	academic field.
+content	others	  Punctual.
+content	others	  Smart worker.
+content	others	  Flexible.
+header	others	DECLARATION
+content	others	I hereby declare that the information furnished above is true to the best of my knowledge and belief.
+header	others	PERSONAL STATEMENT
+content	others	I want to become an asset of your organization where I will be working by utilizing all my capabilities
+content	others	& Knowledge with honesty, sincerity & dedication.
+header	others	Date:
+header	others	Signature
+content	others	Rizwana Parveen

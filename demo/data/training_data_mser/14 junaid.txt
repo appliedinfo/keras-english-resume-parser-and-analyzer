@@ -1,0 +1,22 @@
+content	Personal	lunaid Nazir  'R/o Dadi Kadal Tanki Pora. Srinagar juni. naZIr7777 ’_ ,,
+header	Label	OB ECTIVE
+content	Summary/Objective	To obtain a rewardind and challendind position as Software Developer in IT infrastructure where I can use my proﬁciency and skills for the beneﬁt of the company. My educational qualiﬁcation, broad exposure and product knowledge should help me in doing the job efﬁciency.
+header	Label	EXPERIENCE
+content	Education/Qualification/Workshop	Fresher
+header	Label	COURSES
+content	Knowledge/Skill	.NET Specialization (1 J1", :
+content	Knowledge/Skill	HTML5 / CSSB/Bootstrap ( 1,“: » , :,; W’s-
+header	Label	EDUCATION
+content	Education/Qualification/Workshop	BE (To Be Completed On December 2018) SSM College Of Eng and Tech
+content	Education/Qualification/Workshop	BE CSE (2014—2018)
+content	Education/Qualification/Workshop	Non-Medica|(Passed by 86.4%)
+content	Education/Qualification/Workshop	HIGHER SECONDARY PART -||(l 2TH) (2013)
+content	Education/Qualification/Workshop	MATRICULATION (Passed by 88.8%)
+content	Education/Qualification/Workshop	SECONDARY SCHOOL EDUCATION (10TH) (2011)
+header	Label	SKILLS ,
+content	Education/Qualification/Workshop	HTM L5, C553,Bootstrap
+content	Knowledge/Skill	C#, ASP.NET WebForms,Java Script
+content	Knowledge/Skill	SQL, ADO.NET
+content	Project	Proiect Done - Trek De Kashmir (Done by Itself)
+content	Knowledge/Skill	Technology used asp.net with c# and Sql server
+content	Others	Declaration: I afﬁrm that the information presented above is true and best to my knowledge and I promise to authenticate the same by presenting original credentials as and when required.

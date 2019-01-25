@@ -1,0 +1,78 @@
+content	others	Junied Khalid Khan
+header	others	CURRICULUM VITAE
+content	others	Phone: 9622539965/ 7006526417
+content	others	E-mail: Juniedd01khan@gmail.com
+header	others	CAREER OBJECTIVE:
+content	others	To work in a challenging position with an organization that provides opportunities to
+content	others	contribute and learn.
+header	education	EDUCATIONAL QUALIFICATIONS:
+content	education	Exam/Degree  Board /University
+meta	others	Year of
+meta	others	Passing
+content	education	Percentage
+content	education	M.Tech(CSE)  Amity University UP
+meta	others	2015
+content	education	63%
+content	education	B.Tech(CSE)  Baba Ghulam Shah Badshah
+meta	others	2011
+content	education	University, Rajouri J&K
+content	education	12TH
+content	education	10TH
+content	education	JKBOSE
+content	education	JKBOSE
+header	knowledge	TECHNICAL PROFILE:
+meta	others	2006
+meta	others	2004
+content	education	63.81%
+content	education	61.33%
+content	education	79.20%
+header	knowledge	  Programming Languages    :    C , C++, Java,.NET
+content	knowledge	  OS                                       :    Windows, Unix/Linux
+content	knowledge	  Other                                   :     Networking(D-Link Certified)
+header	projects	PROJECTS/INTERNSHIPS
+content	project	1.  Library Management System (C Language)
+content	project	2.  Online Examination System (.NET)
+content	education	3.  Java Training
+content	project	4.  Implementing Routing in D-Link Layer-3 Switches DGS-3620-28TC
+content	project	5.  Dynamic Resource Allocation In Cloud Computing (CloudSim).
+header	projects	PUBLICATIONS
+content	knowledge	1.  Security Issues In Face Recognition-IEEE By Junied khan & Divya Upadhyay
+content	knowledge	2.  Web Page Ranking using Machine Learning-IEEE By Junied khan, Arunima Jaiswal & Vijay
+content	others	Chauhan.
+content	knowledge	3.  Adaptive Infrastructure as a Service based Resource Allocation Policy in Cloud Computing-
+content	others	Springer By Junied khan & Arunima Jaiswal.
+content	project	4.  Junied  Khalid  Khan  Published  Book  titled  Microprocessor  8085  with  Educreation
+content	project	Publishing 2018, ISBN: 978-1-5457-2311-1
+header	experience	WORK EXPERIENCE
+content	experience	1.  Network  Engineer  with  Sanguine  InfoTech  Pvt.  Ltd.  From  1st  Oct  2011  to  30th  April  2013.My
+header	experience	major responsibilities included:
+content	knowledge	  Establishing  the  networking  environment  by  designing  system  configuration,  directing
+content	knowledge	system installation, defining, documenting and enforcing system standards.
+content	knowledge	  Maximizing  network  performance  by  monitoring  performance,  troubleshooting  network
+content	others	problems and outages.
+content	knowledge	  Securing  network  systems  by  establishing  and  enforcing  policies,  and  defining  and
+content	knowledge	monitoring access.
+content	experience	2.  Trainer  in  Koenig  Solutions  Pvt.  Ltd.  New  Delhi  from  17th  Nov  2015  to  20th  May  2016.  My
+content	experience	responsibilities include instructing trainees on Oracle 11g through one-one session, combined class
+content	experience	and LVC (Live Virtual Class).
+header	project	CURRENT EMPLOYMENT
+content	experience	Contractual Lecturer in the Department of IT&SS, University Of Kashmir from 01st June 2016. My
+content	experience	responsibilities  include  teaching  various  subjects  like  DBMS,  C,  OS,  Computer  Networks  etc.  for
+content	education	M.Sc. IT Programme.
+header	others	PERSONAL SKILLS:
+content	others	  Hard Working
+content	others	  Self-Motivated
+content	others	  Quick Learner
+content	others	  Good problem solving skills
+header	others	PERSONAL PROFILE:
+content	others	Name                        :Junied Khalid Khan
+content	others	Father’s Name          :Khalid Ahmad Khan
+content	others	Gender                      :Male
+content	others	Date of Birth            :24-05-1988
+content	others	Hobbies:                    :Debating, Cricket.
+content	others	Languages                 :English, Hindi, Urdu, Kashmiri & German.
+content	others	Marital Status            :Single
+content	others	Nationality
+content	others	:Indian
+content	others	Passport No
+content	others	:J9003443.

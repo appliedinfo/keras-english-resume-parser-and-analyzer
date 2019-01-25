@@ -1,5 +1,6 @@
 import re
 
+#TODO add methods for other labels
 
 def extract_email(s, line):
     email = None
@@ -45,7 +46,7 @@ def extract_summary(parts, line):
     for w in parts:
         # print(w)
 
-        if 'summary' in w :
+        if 'summary' in w or 'objective' in w:
             found = True
             continue
         if found and ':' not in w:

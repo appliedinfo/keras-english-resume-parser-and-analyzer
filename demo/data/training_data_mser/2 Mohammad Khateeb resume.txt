@@ -1,0 +1,29 @@
+header	Label	RESUME
+header	Label	Personal Details:
+content	Personal	Name: Khateeb Mohammad Dar  Email ID: khateebhmdl9@gmai|.com  Mobile no: 7006954163  Address: Govt. Housing Colony Chanapora Srinagar
+header	Label	Educational Qualiﬁcations:
+content	Education/Qualification/Workshop	PERCENTAGE/  CGPA 7.80
+content	Education/Qualification/Workshop	DEGREE
+content	Education/Qualification/Workshop	INSTITUTE
+content	Education/Qualification/Workshop	UNIVERSITY/B  OARD  University of Kashmir University of Kashmir  NIELIT
+content	Education/Qualification/Workshop	YEAR
+content	Education/Qualification/Workshop	M.SC. IT
+content	Education/Qualification/Workshop	CASET College
+content	Education/Qualification/Workshop	BCA
+content	Education/Qualification/Workshop	72.43%
+content	Education/Qualification/Workshop	O-Level
+content	Education/Qualification/Workshop	CASET College
+content	Education/Qualification/Workshop	72%
+content	Education/Qualification/Workshop	12th
+content	Education/Qualification/Workshop	S.P Higher Secondary
+content	Education/Qualification/Workshop	JKBOSE
+content	Education/Qualification/Workshop	77.6%
+content	Education/Qualification/Workshop	Final semester proiect of M.sc IT:
+content	Project	E-Ration Ghat (Online Essential Commodity System)
+content	Project	A web portal for purchasing of all commodities, sold at ration depots, online.
+content	Knowledge/Skill	Platforms worked on: HTM L5 PHP CSS3 My Bootstrap Java Scri
+content	Knowledge/Skill	Python Django
+content	Knowledge/Skill	MySQL JavaScript/JQuery
+content	Trait	Strengths: Quick learner  Paﬁence Good grasping ability Never give up
+content	Label	Applying for:
+content	Work/Experience	Web Developer

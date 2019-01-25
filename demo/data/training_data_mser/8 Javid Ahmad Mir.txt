@@ -1,0 +1,42 @@
+content	Name	JAVID AHMAD MIR
+content	Label	Curriculum Vitae
+content	Personal	Permanent Address: Zaloora Sopore Tehsil: Bomai Distt. Baramulla — 193201 Phone No: +91-7889933902  E-Mail: mir.javid3822@gmail.c0m
+header	Label	OBJECTIVE:
+content	Summary/Objective	To be a part of your organization and thereby, actively contributing with my knowledge
+content	Summary/Objective	and skills to the organizational growth and also ensure personal growth within the
+content	Summary/Objective	organization. Willing to work in a professional, Hi-Tech environment so to utilize my  professional skills and learning’s. I believe in teamwork and team sprit as source cultivation. I  consider commitment and dedication as the keys to success.
+content	Summary/Objective	Hi-Tech environment so to utilize my
+header	Label	ACCADEMIC QUALIFICATION:
+content	Education/Qualification/Workshop	BE in Computer Science from University Of Kashmir in 2017 (67% marks) 12th from J KBOSE in 2011 (72% marks) 10th from J KBOSE in 2009 (86% marks)
+content	Education/Qualification/Workshop	from JKBOSE in 2011 (72% marks)
+content	Education/Qualification/Workshop	from J KBOSE in 2009 (86% marks)
+content	Work/Experience	WORK EXPERIENCE:  Presently working as software engineer in National IT Solutions from last two months.
+content	Work/Experience	Worked as intern in National IT Solutions for two months.
+header	Label	TECHNICAL QUALIFICATION:
+content	Knowledge/Skill	Practical Training in C#.Net, ASPNet, SQL—Server, htrnl, CSS, Bootstrap from NIELIT
+content	Certification	Practical training in Networking (CCNA) from NIELIT Srinagar.
+content	Certification	UDAAN Project Training with TNS
+header	Label	SKILLS & ABILITIES
+content	Trait	Hard working, enthusiastic and caring individual with willingness to learn and succeed.
+content	Trait	Ability to work effectively under pressure.
+content	Trait	Dedicated, meticulous and punctual.
+content	Trait	Self-motivated, ambitious, adaptable and quick learner.  Good communication skills, interpersonal skills.
+content	Trait	Ability to motivate and supervise staff.
+content	Trait	Excellent ability to adapt to difficult situations.
+content	Trait	Capable problem solver.
+header	Label	LANGUAGES KNOWN:
+content	SpokenLanguage	Kashmiri, Urdu, English, Hindi
+header	Label	PERSONAL DETAILS:
+content	Personal	Date of Birth
+content	Personal	02—02— 1993
+content	Name	Assadullah Mir
+content	Personal	Zaloora Sopore
+content	Label	Nationality
+content	Personal	Indian
+content	Personal	Sex
+content	Personal	Male
+content	Personal	Marital Status
+content	Personal	Un—Married
+header	Label	DECELERATION:
+content	Others	I confirm the above mentioned information is true to the best of my knowledge and belief.
+content	Name	J avid Ahmad Mir

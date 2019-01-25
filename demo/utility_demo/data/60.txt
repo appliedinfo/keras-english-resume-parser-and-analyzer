@@ -1,0 +1,57 @@
+content	others	Sheikh Ikhlaq
+content	others	Sheikh Ikhlaq
+header	others	Curriculum Vitae
+content	education	PhD Computer Science
+content	others	Sheikh Ikhlaq
+content	others	Usha Apartments, Saket
+content	others	110068
+content	others	7889538828, 9650730693……………………………
+content	others	ersikhlaq@gmail.com; ersikhlaq@outlook.com
+content	experience	Actively looking for a Research or Post-Doc position to work in the field of Solution designing based on the concept of reusability. Having nearly 5 years of experience ranging from academics, support, research and designing of solution (s) with respect to computer sciences.
+header	others	Education:
+content	education	PhD From Suresh Gyan Vihar University, Jan 2015 – May 2018
+content	education	M.C.A from University of Kashmir, 2013.
+content	education	B.C.A from University of Kashmir, 2010.
+content	knowledge	Specialized in MS.NET (ASP.NET, VB.NET, C#), SQL SERVER 2005 from CSC LIMITED (TCS), NEW DELHI in year 2012-2013.
+header	education	Trainings:
+content	education	Completed my training in MS.NET and SQL SERVER 2005 from CSC LIMITED (TCS), NEW DELHI in year 2012-2013 and implemented these technologies in a project named WORK PLANNER – a daily work-planning website.
+content	education	Attended 7 days’ workshop on networking from NIELET Srinagar.
+header	education	Educational Details:
+header	education	Research Details:
+content	education	PhD from SGVU: Jan 2015 – Feb 2018.
+content	education	Research Area: Bigdata, Cloud Computing.
+content	education	Research Topic: Designing of Enhanced Approach for Cloud Based Computation of BigData.
+content	education	Publications and Conferences: 4 publications in International Journals, 2 Scopus and 1 Scopus Indexed Conference.
+content	project	S. Ikhlaq and B. Keswani, “Computation of Big Data in Hadoop and Cloud Environment,” IOSR Journal of Engineering (IOSRJEN), vol. 6, no. 1, pp. 31–39, Jan. 2016 (African Quality Centre for Journals & UGC Listed).
+content	project	S. Ikhlaq and B. Keswani, “Enhanced Approach for Attainment of BigData Agility,” International Journal of Advanced Research in Computer Science and Software Engineering, vol. 6, no. 5, pp. 579–584, May 2016 (UGC Listed).
+content	project	S. Ikhlaq and B. Keswani, “Computation and Management of Bigdata Using Cloud Map Table Framework,” International Journal of Applied Engineering Research, vol. 12, no. 15, pp. 5181– 5186, Aug. 2017 (Scopus Indexed & UGC listed).
+content	project	S. Ikhlaq and B. Keswani, “A Comparative Study of Big Data Computational Approaches”, International Journal of Applied Engineering Research, vol.12, no.19, pp.8131-8136, Oct 2017 (Scopus Indexed & UGC listed).
+content	project	S. Ikhlaq and B. Keswani, “Applied Cloud Map Table Framework Solution for Indian Judiciary”, Proceedings of 2018 IEEE Xplore 5th International Conference on Computing for sustainable Global Development IndiaCom18, March 14-16, 2018, New Delhi, India (ISI, Scopus Indexed & UGC listed).
+content	project	Patents: 1 US and India patent: METHOD AND DEVICE FOR MANAGING BIG-DATA IN CLOUD ENVIRONMENT
+header	experience	Work Experience:
+content	experience	Worked as a Lecturer in Zanabia Institute of Technology and Management, Karan Nagar, Srinagar, Kashmir, April 2013 to February 2014.
+content	experience	Worked as a Lecturer in Kausar College of Computer Sciences, Nowshera, Srinagar, Kashmir, May 2014 to February 2015.
+content	experience	Worked as a Guest Lecturer in Kashmir Law College, Nowshera, Srinagar, Kashmir, August 2014 to February 2015.
+content	experience	Worked as Windows Server engineer with Roman technologies, Gurgaon, Haryana, Since November 2015 to November 2016.
+content	experience	Worked as Technical Consultant for Wipro Technologies, For Microsoft Cloud Services, North America Business, Since December 2016- May 2018
+content	experience	Working as team lead with Accenture Technologies for Cloud administration and design Position since 31st May 2018
+content	experience	Gained hands on experience by working on the project “Work Planner and Academic Monitoring cell” as part of the M.C.A course under the guidance of CMC LIMITED NEW DELHI.
+content	knowledge	Platform: MS.NET 2005), SQL SERVER 2005 (Back-end).
+header	knowledge	Technical Skills:
+content	knowledge	Subjects: Data Warehousing, Algorithms, Data Mining, Unix- Linux Administration, OOAD, DBMS, Software Engineering, Analysis and Design, Data Communication and Network, Window server Administration, Exchange Server, Office 365 Administration, SharePoint and OneDrive Administration, PowerShell scripting, Microprocessor 8085-86-88, System Programming IBM 360-370.
+content	knowledge	Languages: C/C++, VB 6.0, Java, FORTRAN, C#, Asp.NET, Shell Scripting, VB Scripting.
+header	others	Awards:
+content	education	Ranked 1st in M.C.A 3th semester 2012.
+content	education	Ranked 1st in M.C.A 4th semester 2013.
+header	others	References:
+content	others	Prof. Bright Keswani (Head of the Department)
+content	others	Post Graduate Department of Computer Sciences
+content	others	Suresh Gyan Vihar University,
+content	others	Jaipur, Rajasthan, India
+content	others	Prof. Abdul Salam Bhat (Principal)
+content	others	Kashmir Law College,
+content	others	Srinagar, India
+content	others	Social Connect:
+content	others	https://scholar.google.co.in/citations?user=Q4H-sr0AAAAJ&hl=en
+content	others	https://www.linkedin.com/in/sheikh-ikhlaq-593a7891/
+content	others	https://www.researchgate.net/profile/Sheikh_Ikhlaq

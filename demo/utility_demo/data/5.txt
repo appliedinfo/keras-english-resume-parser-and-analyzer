@@ -1,0 +1,54 @@
+content	others	Syed	Faseh	Hashmi
+content	others	To	succeed	in	an	environment	of	growth	and	excellence	and	earn	a	job	which	provides	me	job	satisfaction	and	self	development	and
+content	others	where	I	can	utilize	my	skills	and	knowledge	efficiently	for	achieving	personal	as	well	as	organizational	goals.
+header	others	Personal	Info
+content	education	Education
+content	others	Address
+content	others	Chattabal,	Srinagar,	J&K
+content	others	Phone
+content	others	9796572879
+content	others	E-mail
+content	others	hashmi2faseh2syed@gmail.com
+content	others	Date	of	birth
+content	others	13-05-1995
+header	others	Interests
+content	others	Reading	Tech	Blogs
+content	others	Programming
+content	others	Gaming
+header	others	Languages
+content	others	English
+content	others	Urdu
+content	others	Kashmiri
+content	education	B.Tech
+content	education	Branch:	Computer	Science	and	Engineering
+content	education	Institution:	Islamic	University	of	Science	and	Technology
+content	education	Aggregate	CGPA:	7.54
+content	education	12th	(Science	with	Mathematics)
+content	education	Institution:	Iqbal	Memorial	Institute,	Bemina,	Srinagar
+content	education	Percentage:	77.4
+content	education	10th	(Matriculation)
+content	educstion	Institution:	Linton	Hall	School,	Rajbagh,	Srinagar
+content	education	Percentage:	86.4
+header	knowledge	Technical	Skills
+content	knowledge	Java	SE
+content	knowledge	C#
+content	knowledge	HTML
+content	knowledge	CSS
+content	knowledge	Bootstrap
+content	knowledge	C
+header	project	Final	Year	Project
+content	project	Marriage	Planning	And	Cost	Estimation
+header	others	Qualities
+content	others	Quick	learner	and	ability	to	work	under	pressure.
+content	others	Ability	to	work	individually	as	well	as	in	group	environment.
+content	others	Open	to	learning	new	technologies.
+content	others	Adapting	fast	to	changes.
+content	others	Good	verbal	and	written	communication	skills.
+header	others	Training
+content	experience	6	weeks	training	in	Core	Java	from	Computer	Wizard,	Srinagar,	J&K
+content	experience	6	weeks	training	in	Web	Development	from	LogicHub	Software	Solutions,
+meta	others	Srinagar,	J&K
+header	others	Extracurricular	Activities
+content	others	Winner	of	Kashmir	Cyber	Games	Championship,	Season	1,	held	by
+content	others	LoudBeetle.in
+content	others	Played	Cricket	and	Rugby	for	the	the	school	team.

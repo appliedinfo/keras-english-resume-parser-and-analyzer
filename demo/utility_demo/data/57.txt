@@ -1,0 +1,28 @@
+content	others	MARIYA NABI
+content	others	Shaheen Mohalla, Noor Bagh,
+content	others	190002 Srinagar
+content	others	e-mail:mariyanabi97@gmail.com
+content	others	7780931001
+header	others	OBJECTIVE
+content	others	To secure a position where I can efficiently contribute my skills and abilities to the growth of the
+content	others	organization and build my professional career.
+header	knowledge	SKILLS & ABILITIES
+content	knowledge	Languages: JAVA, C, C++
+content	knowledge	Operating System: Windows 7-8-10, LINUX, UNIX
+content	project	Academic Projects: Image Processing Plus Viewer (BIT)
+header	others	PERSONAL QUALITIES
+content	others	Excellent logical, analytical and computational skills.
+content	others	Ability to work under pressure.
+content	others	Ability to work individually as well as in team.
+content	others	Patient and self-motivated.
+header	education	EDUCATION
+content	education	12th (Non-Med) :74.2%
+contents	education	BSC IT  SP College,Srinagar
+content	education	MCA, NIELIT, Rangreth
+header	others	COMMUNICATION
+content	others	Excellent written and spoken communication skills
+header	others	HOBBY
+content	others	Passionate about drawing, computer design and teaching
+content	others	2011-2012
+content	others	2013-2016
+content	others	2016-Current

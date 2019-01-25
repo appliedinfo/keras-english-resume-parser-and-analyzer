@@ -1,0 +1,61 @@
+content	Name	Hassan Abad Rainawari Srinagar
+content	Personal	J ammu & Kashmir
+content	Personal	Mob:-
+content	Personal	- +917889903033
+content	Personal	Emailz— bilkeesbb@gmaﬂ.com
+content	Name	BILKEES AKHTAR
+header	Label	CAREER OBJECTIVE
+content	Summary/Objective	To work in a firm with a professional work driven environment and to obtain a full time position in the field of Computer Engineering that utilizes my analytical and interpersonal skills which would enable me to grow while fulfilling organizational goals.
+header	Label	BASIC ACADEMIC CREDENTIALS:
+header	Label	Qualification
+content	Education/Qualification/Workshop	Board / University
+content	Education/Qualification/Workshop	Institution
+content	Education/Qualification/Workshop	Year
+content	Education/Qualification/Workshop	Percentage
+content	Education/Qualification/Workshop	B.Tech(C0mputer Engineering)
+content	Education/Qualification/Workshop	Islamic University Of Science And  Technology
+content	Education/Qualification/Workshop	Islamic University Of Science And  Technology
+content	Education/Qualification/Workshop	70%
+content	Education/Qualification/Workshop	Diploma (Computer Engineering)
+content	Education/Qualification/Workshop	Kashmir Govt Polytechnic
+content	Education/Qualification/Workshop	JKSBOTE
+content	Education/Qualification/Workshop	2009—2012
+content	Education/Qualification/Workshop	64%
+content	Education/Qualification/Workshop	Higher Secondary Part II
+content	Education/Qualification/Workshop	Govt. Girls Hr.Sec School Kothi Bagh
+content	Education/Qualification/Workshop	JKSBOSE
+content	Education/Qualification/Workshop	2007
+content	Education/Qualification/Workshop	63%
+content	Education/Qualification/Workshop	Secondary School Examination
+content	Education/Qualification/Workshop	Vishwa Bharti Girls Hr.Sec School
+content	Education/Qualification/Workshop	JKSBOSE
+content	Education/Qualification/Workshop	65%
+header	Label	TECHNICAL SKILLS:
+content	Knowledge/Skill	Programming languages: -C, C++, Html, Java, SQL.
+content	Knowledge/Skill	Operating system: - windows
+content	Knowledge/Skill	Networking: - Troubleshooting of computer networks
+header	Label	WINTER INTERNSHIP PROGRAM:
+content	Education/Qualification/Workshop	Industrial training with J ammu & Kashmir bank in the winter of 2014 at CORPORATE HEAD OF J &K BANK. The internship introduced me to study of “STUDY AND MAINTENANCE OF NETWORKS”.
+header	Label	PROJECT UNDERTAKE
+content	Education/Qualification/Workshop	B—Tech: —
+content	Project	Minor Project: - Unmanned Vehicle Using Ultrasonic Sensors.
+content	Project	Major Project: - Encryption of Media Files Using Blowfish Algorithm.
+header	Label	COMPUTER SKILLS:
+content	Project	Microsoft office, Microsoft Word, Microsoft Power-Point-Presentation, Microsoft Excel etc
+header	Label	PRESENTATION AND SEMINARS:
+content	Work/Experience	Presentation and Seminar on “Raspberry Pi” at Islamic University of Science & Technology
+header	Label	WORKSHOPS/C ONFERENCES:
+content	Education/Qualification/Workshop	Attended workshop of Internet of Things, Big Data, and Virtualization.
+header	Label	SKILLS
+content	SpokenLanguage	Languages: English, Urdu, Kashmiri.
+header	Label	HOBBIES:
+content	Interest/Hobby	Gardening, Photography, Travelling
+header	Label	PERSONAL DETAILS:
+content	Personal	Father’s Name: - Gh Mohd Wani
+content	Personal	Mother’s Name: —Mahm00da
+content	Personal	Address: - Hassan Abad Rainawari Srinagar
+content	Personal	Date of Birth: - 07—08-1990
+content	Personal	Gender: - Female.
+content	Personal	Date: 21—11-20 18
+content	Personal	Place: Srinagar
+content	Name	Bilkees Akhtar

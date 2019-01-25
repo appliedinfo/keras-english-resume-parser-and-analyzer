@@ -1,0 +1,47 @@
+content	Personal	IRFAAlAfmmADIGiAN  Software Developer  SﬁnaganJ&K
+content	Personal	Contact: (+91)7006415719/9796950599 E—Mail: khanirfankhan.99@gmai|.com
+content	Summary/Objective	Aspired to Pursue Career Opportunities in Software Engineering with an Organization where I can Effectively Contribute my Skills as Software Professional.
+content	Summary/Objective	Career Obiective To work and evolve in a technologically driven environment where my skills and  efforts are put to action to yield fruitful outcomes for the organization.
+content	Summary/Objective	Proﬁle Summary - A logical, analytical thinker with excellent organisational skills
+content	Summary/Objective	Coordinating client’s needs, customization, software—related issue of clients to provide solutions in adherence to delivery schedules
+content	Knowledge/Skill	Good understanding of PHP
+content	Knowledge/Skill	SQL and Database concepts
+content	Trait	Instrumental in preparing solutions by determining and designing system speciﬁcations and standards
+content	Trait	Wanted to serve organization with honesty and full efﬁciency to make the organization as a leading company
+content	Trait	Quick learner, Ready to adapt to new technologies.
+content	Trait	Have good communication and aptitude skills
+header	Label	TECHNICAL SKILLS
+content	Knowledge/Skill	Have good knowledge on C, C++, C#, PHP, SQL.
+content	Knowledge/Skill	Web Technologies: HTML, CSS, Bootstrap, JavaScript, Jquery.
+content	Knowledge/Skill	Database: MySQL,
+content	Knowledge/Skill	SQL Server.
+header	Label	Academic Details     ‘ Standard ‘ Institution
+content	Label	Specialization
+content	Education/Qualification/Workshop	Percen  70%
+content	Education/Qualification/Workshop	MCA
+content	Education/Qualification/Workshop	KASHMIR UNIVERSITY
+content	Education/Qualification/Workshop	2014—2017
+content	Education/Qualification/Workshop	Computer Applications Computer Applications Non—Medical
+content	Education/Qualification/Workshop	BCA
+content	Education/Qualification/Workshop	ISLAM/A COLLEGE
+content	Education/Qualification/Workshop	69.09%        62.26%
+content	Education/Qualification/Workshop	5.P HIGHER SECONDARY
+content	Education/Qualification/Workshop	2009
+header	Label	Work Experiance :
+content	Work/Experience	Web Developer at LogicParadise Software Limited. (Time Duration:From May 2018 to Present)
+header	Label	Academic Proiect:
+content	Label	PROJECT #1 (2017)
+content	Others	Title  Team Size Application Tools Database Technology Used Operating Systems Role
+content	Project	Rental kart  3  XAMPP Server  MS—SQL Server 2008 MySql,PHP,HtH11,Css,JavaScript WINDOWS 7  Backend developer
+content	Project	An online platform that can be used for lending products and
+content	Project	Description: - services.
+content	Label	PROJECT #2 (2016)
+content	Publication	Submitted a research paper on Iris Recognition System.
+content	Publication	DESCRIPTION: - This paper delivers a iris coding method for effective recognition of an individual. An algorithm that is based on person iris independent of spatial position, orientation and center frequencies of the iris image. The fact that the iris is protected behind the eyelid.
+content	Label	PROJECT #3 (2014)
+content	Work/Experience	Developed inventory management system 1 XAMPP Server MS—SQL Server 2008 WINDOWS 7  PHP, Mysql ,j avascript
+content	Project	Description: - Inventory management software is asoftware_system for tracking inventory levels orders, sales and deliveries. It can also be used to create a work order, bill of materials and other production-related documents
+content	Label	PROJECT #4(2013)
+content	Work/Experience	Inventory System 4  VB platform MS-SQL Server 2008 Windows XP Backend developer
+content	Project	Developed inventory System for Gadget Point Mobile Store.
+content	Project	Description :- :Developed inventory Syste  Hobbies  Reading books, Exploring new softwares Driving, Playing Cricket  LANGUAGES  EngHsh  Urdu  Kashmiri

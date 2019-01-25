@@ -1,0 +1,46 @@
+content	others	ADIL	MEHRAJ
+header	knowledge	SKILLS
+content	others	Phone:				98588	82728
+content	others	Email:	 				aadilmehrajbhat@gmail.com
+content	others	Address:	Pantha	Chowk,	Srinagar,	J&K
+content	knowledge	•  Languages:	Java	(Proficient),	Kotlin	(Novice),	NoSQL,	SQLite.
+content	knowledge	•  Frameworks/Libraries:	Android	SDK,	Firebase	SDK,	Android	Architecture	Components
+content	knowledge	(ViewModel,	LiveData	and	Room)	and	Android	Data	Binding.
+content	knowledge	•  Others:	Git/GitHub.
+header	education	EDUCATION
+content	education	Sept.	2018
+content	education	Bachelor	of	Technology:	Computer	Science	&	Engineering
+content	education	•  University	of	Kashmir,	Srinagar.
+content	education	•  Percentage:	80.4%.
+content	education	Feb.	2018																			Google	Udacity	Android	Developer	Nanodegree	Program
+content	experience	•  Udacity	Inc.
+content	education	•  Duration:	3	Months.
+content	others	2013																									12th	Class
+content	education	•  Sri	Pratab	Higher	Secondary	School.
+content	education	•  Percentage:	78.4%.
+header	project	PROJECTS
+content	project	Tutor	Finder
+content	project	Accrual	Accounting
+content	project	An	Android	Application	that	allows	users	to	find	nearby	Tutors	based
+content	project	on	distance,	subjects	and	ratings.
+content	knowledge	• Uses	Firebase	as	backend	(Realtime	database,	Authentication	and
+content	knowledge	Storage).
+content	knowledge	• With	 Android	 Architecture	 Components	 (ViewModel,	 LiveData)
+content	knowledge	and	Data	Binding.
+header	project	Final	Year	Project.
+content	project	Periodic	accounting	app	that	allows	users	to	manage	their	members’
+content	project	accounts	on	monthly	based	and	get	notified	daily.
+content	project	Published	on	Play	Store	with	id:	com.aadilmehraj.android.accrual
+content	project	• Uses	Firebase	as	backend.
+header	education	V E R I F I E D   C E R T I F I C A T E   O F   C O M P L E T I O N
+content	others	February 22, 2018
+content	others	Aadil Mehraj
+content	others	Has successfully completed the
+content	others	Android Developer I Nanodegree
+content	others	N A N O D E G R E E   P R O G R A M
+content	others	Sebastian Thrun
+content	others	Founder, Udacity
+content	others	Co-Created with
+content	others	Google
+content	others	Udacity has confirmed the participation of this individual in this program.
+content	others	Confirm program completion at confirm.udacity.com/WMPHHYGL

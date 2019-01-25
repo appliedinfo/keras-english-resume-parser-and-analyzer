@@ -1,0 +1,59 @@
+content	others	Bisma Shakeel
+content	others	Permanent Address: Munawarabad, Srinagar
+content	others	Present Address: Bemina, Srinagar
+content	others	E-mail:  Bismakhan2080@gmail.com
+content	others	Contact No:  +919796170343,  +919622427583
+header	others	Career Objective:
+content	others	To obtain a responsible, challenging and awarding position in an organisation with an
+content	others	established track record where my skills, abilities and technical abilities can be utilized. I
+content	others	would like to be a part of an organisation where I could use and enhance my knowledge and
+content	others	talent for the development of both the organisation and myself.
+header	knowledge	Technical Skills:
+content	knowledge	Languages :                     C , C++ , Core Java , C#, Spring MVC, Spring Boot, Hibernate
+content	knowledge	•  Web Technologies :       HTML ,CSS, Bootstrap
+content	knowledge	•  Database :                       SQL Server, MYSQL
+content	knowledge	•  Operating System :        Windows XP / 7 / 8 / 10
+content	knowledge	•  Packages :                        Microsoft Office 2003, 2007, 2010, 2013, 2016
+header	experience	Work Experience:
+content	experience	Software Engineer: GreyDelta Inc. | May 2018-Present.
+content	experience	Developed REST Services for Security System and Inventory Management System using
+content	experience	Spring Boot, Maven and MYSQL.
+content	experience	Software Engineer:  National IT Solutions | Dec 2017-April 2018.
+content	experience	Worked on school, college, hospital, front office projects using ASP.NET and MsSQL.
+header	education	Education:
+content	education	•  Bachelor of Engineering in Computer Science & Engineering (2013-2017) From SSM
+content	education	College of Engineering & Technology under the affiliation of University of Kashmir.
+content	education	•  3 Year Diploma in Computer Science & Engineering (2010-2013) From Govt.
+content	education	Polytechnic for Women under the affiliation of State Board of Technical Education
+content	others	(Jammu & Kashmir).
+meta	education	•  Matriculation (10th) : State Board of School Education (Jammu And Kashmir) From
+meta	education	CPM High School.
+header	education	Industrial Training & Certification:
+content	education	•  8 weeks training on java SE7 programming from RationalTabs Technologies Pvt. Ltd.
+content	education	•  Bluemix Enablement Session  Cloud Computing From IBM.
+header	project	Academic Project:
+content	project	•  Title: Online Food Ordering System
+content	knowledge	Language Used: .NET & SQL Server.
+content	project	•  Description: Online Food Ordering System is a web portal intended for online
+content	others	ordering of food. This portal helps a customer visiting the website to make his choice
+content	others	among the available food items. The customer can also avail the home delivery
+content	others	service for the opted food item.
+content	experience	•  Role: Designing of customer panel and admin panel, database connectivity.
+header	others	Interpersonal Skills:
+content	others	•  Ability to rapidly build relationship and setup trust.
+content	others	•  Confident and Determined.
+content	others	•  Ability to cope up with different situations.
+header	others	Personal Details:
+content	others	Name:                                                                           Bisma Shakeel
+content	others	Father’s Name:                                                           Mr. Shakeel Ahmad
+content	others	Date Of Birth:                                                              5th May 1995
+content	others	Gender:                                                                        Female
+content	others	Marital Status:                                                            Single
+content	others	Nationality:                                                                  Indian
+content	others	Languages:                                                                   English, Urdu
+content	others	Strength:                                                                      Hardworking, Punctual
+header	others	Declaration:
+content	others	I hereby declare that the above mentioned information is correct up to my knowledge and I
+content	others	bear the responsibility for the correctness of the above mentioned particulars.
+content	others	Place: Srinagar J&K
+content	others	Bisma Shakeel

@@ -1,0 +1,108 @@
+content	others	Aamir Suhail
+content	others	Mumbai, India, 400072
+content	others	Cell (+91) 7006690575 • Home (+91) 9697305693
+header	others	OBJECTIVE
+content	others	aamirsuhaildar@gmail.com
+content	others	https://www.linkedin.com/in/aamirsuhaildar
+content	others	Seeking  a  varied  and  challenging  system  administration  position  in  a  Cloud  environment
+content	others	requiring new and creative applications of technology to solve functional problems where
+content	others	skills,  knowledge  and  expertise  gained  throughout  previous  experience  in  the  IT,  services
+content	others	and consulting can be transferred across and utilized to best effect for the benefit of your
+content	others	organization. It would be my never-ending dedication to maintain the spectrum of integrity,
+content	others	honesty and character.
+header	others	PROFESSIONAL POFILE:
+content	others	A continuous learner.  An accomplished, versatile, and results-driven Project Engineer, with
+content	others	Master’s  Degree  in  Computer  Applications and  Technology.  Currently working  in Red  Hat
+content	others	Linux environment. Continually updating knowledge base and widening the horizon via  e-
+content	others	learning with ten plus MOOC certificates in Linux, Cloud and Cyber Security.
+header	experience	EXPERIENCE
+content	others	12/2016-present
+content	experience	RHCSA | Linux Admin, Wipro
+content	knowledge	Linux FS permissions
+content	knowledge	Installing and updating Software Packages
+content	knowledge	File and Directory permissions and ownership
+content	knowledge	  OpenSSH, SSH2
+content	knowledge	  NFS, Autofs
+content	knowledge	  User and group Management
+content	knowledge	  Managing files from Command Line
+content	knowledge	  Vi and Vim editors
+content	knowledge	  Managing Linux Processes, Services and Daemons
+content	knowledge	  Analyzing and storing Logs
+content	knowledge	  Managing Linux Networking
+content	knowledge	  Archiving and Copying files
+content	knowledge	  ACLs
+content	knowledge	  Yum and RPM management
+content	knowledge	  Managing SELinux Security
+content	knowledge	  OS Patching
+content	knowledge	ServiceNow
+content	knowledge	  Change Management and Incident  Management
+content	knowledge	Scheduling jobs
+content	knowledge	LVM
+header	education	EDUCATION
+meta	others	2016
+content	education	Islamic University of Science and Technology, J&K
+content	education	Master of Computer Applications - 70.00 CGPA
+content	education	2012  Kashmir University, J&K
+content	education	Bachelor of Computer Applications - 61.00 %
+header	education	Certifications
+content	education	2018  Red Ha t Certified System Administrator
+header	education	Training and Workshops
+content	education	  Passed Microsoft Azure Storage from OpenEdx in partnership with Microsoft on 22nd
+content	others	March, 2018
+content	education	  Passed  Microsoft Azure  Identity  from  OpenEdx  in partnership with Microsoft on 17th
+content	others	March, 2018
+content	education	  Passed Microsoft Azure App Service from OpenEdx in partnership with Microsoft on
+content	others	16th March, 2018
+content	education	  Passed  Managing  Azure  Workloads from  OpenEdx  in partnership with Microsoft on
+content	others	10th March, 2018
+content	education	  Passed Azure Databases from OpenEdx in partnership with Microsoft on 10th March,
+content	others	2018
+content	education	  Passed  Azure  Application  Deployment  and  Management  from  OpenEdx
+content	others	in
+content	education	partnership with Microsoft in March, 2018
+content	education	  Passed Azure214x, Azure Fundamentals from OpenEdx in partnership with Microsoft
+content	others	in Feb, 2018
+content	education	  Completed Docker for Absolute Beginner from Udemy in Feb 2018.
+content	education	  Completed Introduction to SAN and NAS Storage certificate course from Udemy in
+content	others	January 2018.
+content	education	  Completed Introduction to Cloud Computing certificate course from Udemy.
+content	education	  Completed  Ermin  Kreponic's  Course  for  CentOS  and  Red  Hat  Linux  –  RHCSA
+content	education	certificate course from Udemy on 12/8/2017.
+content	education	  Completed CentOS 7 Linux Server: Alternative to Red Hat Enterprise certificate course
+content	others	from Udemy on 11/18/2017.
+content	education	  Completed  Ubuntu Linux Server Troubleshooting  certificate  course from  Udemy on
+content	others	11/13/2017.
+content	education	  Completed Learn Linux in 5 Days   and Level Up Your Career certificate course from
+content	others	Udemy on 11/12/2017.
+content	education	  Completed Cloud Platform Fundamentals: Core Infrastructure certificate course from
+content	education	Coursera in partnership with Google on 04/25/2017.
+content	education	  Completed Introduction to Cyber Security certificate course from Open University on
+content	others	03/01/2017.
+content	education	Two months in-house training Windows in Wipro Technologies at Noida campus.
+meta	others	
+content	education	  Attended  2  months  Java  and  Networking  training  in  Rooman  Technologies,
+content	others	Bengaluru from 15-Jan-2016 to 15- Feb-2016.
+content	education	  Attended  1-day  workshop  on  Joomla  at  Islamic  University  of  Science  and
+content	others	Technology, Awantipora, J&K in April 2014.
+content	education	  Attended 1-day workshop on Network Security at Islamic University of Science and
+content	others	Technology, Awantipora, J&K in Feb 2014.
+content	education	  Attended 1-day workshop on IBM BlueMix technology at Islamic University of Science
+content	others	and Technology, Awantipora, J&K in May 2015.
+content	education	  Attended 1-day workshop on Civil Services in August 2014 at SKICC, Srinagar, Jammu
+content	others	and Kashmir
+content	experience	  As  instructor  at  AISECT  Computer  Institute,  Bijbehara,  Kashmir  teaching  newbies
+content	education	Fundamentals of Computer in 2009
+header	knowledge	SKILLS AND KEYWORDS
+content	knowledge	Bash, Shell, syslog, RPM, CentOS, RedHat Enterprise Linux, RHEL, Red Hat Linux, Yum, TCP/IP,
+content	knowledge	Azure, MySQL, ServiceNow, Cyber Security
+header	others	VOLUNTEER WORK
+content	experience	Participated in the Government of India Census Program and successfully completed the
+content	experience	program with the Block Committee in Jan-Feb 2012.
+content	others	Languages
+content	others	English, Urdu, Hindi, Kashmiri
+content	others	Date of Birth
+content	others	07-12-1991
+content	others	Present Address
+content	others	Mumbai, India - 400072
+content	others	Permanent Address
+content	others	51- Opzan, Bijbehara, Anantnag, Jammu & Kashmir, India- 192124

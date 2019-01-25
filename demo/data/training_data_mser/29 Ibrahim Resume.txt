@@ -1,0 +1,50 @@
+content	Name	Mohd Ibrahim Mir
+content	Personal	9 +91-7780980889
+content	Personal	Mob.
+content	Label	E-Mail ‘
+content	Personal	-ibrahimmir11@gmai|.com
+content	Personal	E-Mail — ibrahimmir11@gmai|.com g librahimmirll It In
+header	Label	Objective:
+content	Summary/Objective	Looking for a full time position in an environment that offers a greater challenge, increased beneﬁts for my family, and the opportunity to help the company advance efﬁciently and productively.
+header	Label	Work Experience:
+content	Work/Experience	0 Eight months of working Experience in Tech Mahindra, Hyderabad as an Associate Proofreader. (Oct., 2016 - May, 2017).
+content	Work/Experience	Role: I was supposed to check the Artworks against the reference documents which were provided, using the required tools and techniques to ﬂag the markups if available.
+header	Label	Certiﬁcation:
+content	Certification	Big Data and Hadoop Developer Certiﬁed from Edureka (edureka.com) with Grade A.
+header	Label	Academic Credentials:
+content	Education/Qualification/Workshop	Board/University
+content	Education/Qualification/Workshop	Examination
+content	Education/Qualification/Workshop	Percentage
+content	Education/Qualification/Workshop	Bangalore University
+content	Education/Qualification/Workshop	MCA
+content	Education/Qualification/Workshop	73.00%
+content	Education/Qualification/Workshop	Kashmir University
+content	Education/Qualification/Workshop	BCA
+content	Education/Qualification/Workshop	63.00%
+content	Education/Qualification/Workshop	2011
+content	Education/Qualification/Workshop	J&K Board
+content	Education/Qualification/Workshop	HSC
+content	Education/Qualification/Workshop	60.00%
+content	Education/Qualification/Workshop	J&K Board
+content	Education/Qualification/Workshop	SSC
+header	Label	Technical skills:
+content	Knowledge/Skill	Windows 05’s and Mac.
+content	Knowledge/Skill	Operating Systems
+content	Knowledge/Skill	Programming Languages
+content	Knowledge/Skill	C, C++, C#,
+content	Knowledge/Skill	.NET, HTM L5, JAVA.
+content	Knowledge/Skill	Databases
+content	Knowledge/Skill	MS—SQL Server 2005-2012, MS-Access.
+header	Label	Academic projects: 1. Project Name  Role
+content	Work/Experience	 Center Management System (BCA) : Designer, Developer : Mar 2009-Dec 2009.
+content	Knowledge/Skill	 VB, MS-Access.
+content	Project	Description : This system is basically designed for private institutes or coaching classes. It includes course enquiry, admission details & fee calculation. In this system various kinds of reports are automatically generated.
+content	Project	2. Project name : Deadlock (MCA)  Duration :July 2012-Nov 2012.  Role : Designer, Developer.  Technology used : C++ with Graphics  Description : A system showing how processes create a Deadlock  during processing. First we are checking if the system is in SAFE State.
+content	Project	Project name : Hospital Management System (MCA)  Duration : July 2013--Nov 2013.  Role : Designer, Developer.  Technologies used : VB.net, Oracle 109.  Description : proposed system stores detailed information of doctors (visiting,  non-visiting), patients & also staff members of the hospital. It calculates the bill for patients, salary of doctors & staff and charges for visiting doctors. Report generation is also there.
+content	Project	4. Project Name : Knowledge Management System (MCA)  Duration : March 2014- June 2014  Role : Designer, Developer  Technology Used : JAVA ,SQL Server 2005.  Description : Proposed system stores detailed information of project related  document. All the data will be maintained at central location in relational database. Every user will be given user-id to log-in system, where he can log document, update the document and store the document. Readily upload the latest updates, allows user to download the alerts & to share the documents.
+content	Personal	Personal Information:  Name : Mohd Ibrahim Mir  Parentage : Ab Hamid Mir.  Address :Adipora Sopore, Baramulla, J&K- Birth Date : 29/10/1989  Languages : Urdu, Hindi, English, Kashmiri
+content	Label	Parentage Address Birth Date
+header	Label	Declaration:
+content	Others	I here declare that all statements made in this application are true, complete and correct to the best of knowledge and belief.
+content	Personal	09-11-2018 Kashmir
+content	Name	Mohd Ibrahim Mir.

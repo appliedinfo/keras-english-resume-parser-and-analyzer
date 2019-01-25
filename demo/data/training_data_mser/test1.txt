@@ -1,0 +1,22 @@
+content	Name	Sofi Nicolson
+content	Work/Experience	Senior Contract Consultant | JavaScript | New York City
+content	Work/Experience	Premier Group Recruitment (www.premiergroupuk.com) is a specialist agency recruiting across the IT, Media, Engineering and HR market places.
+content	Others	A Sunday Times Best 100 Company coming 13th in 2013, 6th place in 2014 and 15th place in 2015 — we know how to help you create a fantastic place to work.
+content	Others	From our offices in Reading, London, Manchester, Birmingham and New York we service an ever growing client base of some of the biggest and fastest growing companies in the UK and America.
+content	Others	Placing both freelance and permanent hires we position ourselves in the market to ensure we know who the hottest candidates are at any given time.
+content	Personal	London - 0207 247 5747 New York - +1 (347) 778 0748
+content	Personal	www.premiergroupuk.com
+content	Personal	Twitter - @premiergrouprec / @premiergroupUSA Facebook www.facebook.com\premiergrouprecruitment Linkedln www.|inkedin.com/company/premier-group-recruitment
+content	Personal	- snicolson@premiergroup.us.com
+content	Work/Experience	Senior Consultant - New York City at Premier Group Recruitment February 2018 - Present  | network extensively within the JavaScript community in NYC. Whether you're a contractor looking for your next project or a business looking to market for talent - I would love to speak with you.
+header	Label	My primary technical focus includes (although is not limited to):
+content	Knowledge/Skill	‘UI Engineering ‘ Reactjs ‘ Node.js ‘ DevOps
+content	Personal	You can reach me anytime on +1 (347) 778 - 0748 or alternatively you can email snicolson@premiergroup.us.com. I look forward to working with you!
+content	Work/Experience	Principal Consultant at Parallel Consulting January 2017 - November 2017  Parallel Consulting is a multi-award winning, international recruitment consultancy. With over 12 years expertise within Analytics, Digital and Tech, we are the company to contact when you are looking for high quality staff or for the next step in your career.
+content	Work/Experience	Principal Consultant - JavaScript & Front End Contracts (London) at Opus Recruitment Solutions January 2015 - December 2016  Opus Recruitment Solutions are the fastest growing recruitment company in the UK who are consistently ranking very highly in the most prestigious recruitment awards for the phenomenal work they do globally primarily within the IT sector.
+content	Work/Experience	I started at Opus as a Trainee Consultant and was promoted in less than a year to Senior, then shortly after was promoted to Principal Consultant. I won Consultant of the month multiple times, won New Comer of The Year 2015, was 1st top performer in the London IT team, and 9th top performer in the business, all achieved in record time.
+content	Work/Experience	Sales Assistant at Harrods September 2013 - December 2014
+content	Trait	Newcomer of the year 2015
+content	Name	Sofi Nicolson
+content	Work/Experience	Senior Contract Consultant | JavaScript | New York City
+content	Personal	Contact Sofi on Linkedln

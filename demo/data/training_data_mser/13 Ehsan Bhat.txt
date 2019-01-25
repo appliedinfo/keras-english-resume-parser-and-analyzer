@@ -1,0 +1,17 @@
+content	Personal	Ahsan Bin Tarig  Batamaloo, J&K Contact No. +91-9682671387
+content	Trait	Having Good communication skills and a quick learner.  Willing to learn new things and motivates people very well.  Logical, analytical and computational skills.  Flexible to work individual as well as in team.  Proficient in maintaining the existing program with implementation of new techniques.
+header	Education/Qualification/Workshop	Board
+content	Education/Qualification/Workshop	Degree
+content	Education/Qualification/Workshop	BCA Graduate
+content	Education/Qualification/Workshop	Kashmir University
+content	Education/Qualification/Workshop	2018
+content	Education/Qualification/Workshop	10th
+content	Education/Qualification/Workshop	JK BOSE
+content	Education/Qualification/Workshop	2010
+content	Education/Qualification/Workshop	12th
+content	Education/Qualification/Workshop	JK BOSE
+content	Education/Qualification/Workshop	2012
+content	Work/Experience	PHP MY Sql ‘ Nielet     Experience  Worked as Executive Engineer at Sntpl Worked at tata motors as sales executive Presently working at J arnkash NEXA as Social Media Executive (IT)
+content	Education/Qualification/Workshop	Nielet
+header	Label	Fathers Name:  Date of Birth: Permanent Address: Marital Status:  Sex:  Language Proficiency: Nationality:
+content	Personal	Tariq Ahmed Bhat 31 March 1994 Batarnaloo sgr. Single  male  English, Hindi, Urdu and Kashmiri Indian

@@ -1,0 +1,34 @@
+content	others	Danish Wani
+content	others	8082528630
+content	others	Banglore
+content	others	looking for an organization where i can widen my knowledge base and enhance my skills. So, that i can contribute fully to the growth of organization, while working in an innovative and growth-oriented environment.
+header	others	WORK EXPERIENCE SKILLS
+content	knowledge	Data Consultant
+content	knowledge	Rubixe
+content	knowledge	Python for Data_Science Tableau Jupyter
+header	education	EDUCATION
+content	education	B.E(Information and Technology)
+content	education	Jammu University
+meta	others	2014 – 2018 jammu
+content	education	10+2
+content	education	Govt Higher Secondary School
+content	education	2013 kashmir Courses
+content	education	Non-medical
+content	education	10th
+content	education	Govt high school
+content	education	2011 kashmir
+header	project	PERSONAL PROJECTS
+content	project	House Pricing Prediction
+content	project	Telecom Churn Rate Prediction
+header	others	ACHIEVEMENTS
+content	project	Participated in I Survive Boot Camp Level(1-3)
+content	education	Qualified C++ Spoken Tutorial conducted by IIT Madras
+header	others	LANGUAGES
+content	others	English
+content	others	Kashmiri
+content	others	Urdu
+content	others	Hindi
+header	others	INTERESTS
+content	others	Cooking Watching Cricket matches
+content	others	Surfing Internet Participating in Social activities
+content	others	Daily exercising

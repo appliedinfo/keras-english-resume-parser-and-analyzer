@@ -1,0 +1,107 @@
+header	others	Curriculum Vitae
+header	others	Career Objective:
+content	others	Looking  for  a  suitable  position  with  an  ambitious  company
+content	others	where I will be working with industry experts, people who have
+content	others	the skills  and experience to  make a real  difference to  my  future
+content	others	and  to  compete  in  the  present  challenging  field  of  Technology,
+content	others	where my skills and abilities would be of utmost importance for
+content	others	the profitable growth of the company that I most likely to serve
+content	others	and utilize my potential while being resourceful, innovative and
+content	others	flexible.
+header	others	Area of Interests:
+content	others	MINZA SHAKEEL
+content	others	Contact Details:
+content	others	Mobile No.:- +91-9086848896
+content	others	+91-8825056464
+content	others	Email: - bhatminza1995@gmail.com
+content	others	Permanent Address:
+content	others	Gojwara, Srinagar, Kashmir.
+content	others	J&K 190002.
+content	others	Permanent Address:
+content	others	Alamdar Colony B, Lal Bazar,
+content	others	Srinagar, Kashmir, J&K 190023.
+header	others	Personal Details:
+content	others	  Parentage: Shakeel Ahmad.
+content	others	  Date of Birth:   20-01-1995
+content	others	  Blood Group:   B+.
+content	others	  Gender:             Female
+content	others	  Nationality:       Indian
+content	others	  Marital Status: Single
+content	others	  Linguistics Proficiency:
+content	others	English, Urdu, Hindi and
+content	others	Kashmiri.
+content	knowledge	      C#, Asp.net
+content	knowledge	      Database Administration SQL
+content	knowledge	      Web designing using any tool or language.
+content	knowledge	  Netsurfing (social media)
+content	knowledge	Database Technologies.
+content	knowledge	IT Support Services.
+content	knowledge	Computer Software
+header	knowledge	Technical Skills:
+header	education	Educational Qualification:
+content	others	Travelling to different Places
+header	others	Hobbies:
+content	education	UNI/BOARD
+meta	others	YEAR
+meta	others	%AGE
+header	education	QUALIFICATION
+content	education	Currently perusing M.Com. through IGNOU
+content	education	B.Com.
+content	education	KU
+content	education	12TH
+content	education	10TH
+content	education	JKBOSE
+content	education	JKBOSE
+content	others	2016
+content	others	2013
+content	others	2011
+content	education	64
+content	education	90
+content	education	80
+header	experience	Experience
+content	experience	1 year and 6 months experience as Web Developer.
+content	experience	Techcurve Software & services
+content	others	13 Sep 2017 To 31st Jan 2018
+content	others	Company:-
+content	experience	Designation:-    Web Developer.
+content	others	Duration:-         May 2017  To  Sep 2017
+meta	others	Address:-           Old Zero Bridge, Lal Chowk, Srinagar.
+content	experience	Company:-       MY FAJIR Pvt. Ltd.
+content	experience	Designation:-   Web Developer.
+meta	others	Duration:-
+content	others	Address:-          Buchpora, Soura, Srinagar.
+content	experience	Company:-
+content	others	Designation:-
+content	others	Duration:-         March 2018 To Till Date.
+content	others	Address:-           Nawab Bazar, Srinagar.
+header	knowledge	Technical Qualification:
+content	others	The Kashmir Box Private Limited.
+content	experience	Frontend Developer (HTML Developer).
+content	education	  3 years GNIIT Software Engineering from NIIT.
+content	education	  1 year Advanced Software Engineering in Computer Software Development from
+content	education	NIIT.
+content	others	  IEEE SWEBOX.
+content	education	  .Net Specialization from NIIT.
+content	education	  Non Certificate Course in communication Skills from NIIT.
+header	others	Curriculum for the Courses:
+content	knowledge	  Basic Fundamentals, Microsoft Office, Web Designing.
+content	knowledge	  ASP.Net MVC 4.5 using C#
+content	knowledge	  RDBMS using SQL 2012 server.
+content	knowledge	  HTML, CSS, JavaScript, XML
+header	others	Professional Traits:
+content	others	  Willingness to work in team and hard worker.
+content	others	  Ability to deal with people dramatically.
+content	others	  Disciplined & good etiquette.
+content	others	  Quick learner.
+meta	others	Professional Traits:
+meta	others	  Willingness to work in team and hard worker.
+meta	others	  Ability to deal with people dramatically.
+meta	others	  Disciplined & good etiquette.
+meta	others	  Quick learner.
+header	others	Achievements:
+content	project	  Worked on the Content Management System in Enterprise Java in project assigned
+content	project	at NIIT Residency in the GNIIT Software Engineering.
+content	others	Declaration:
+content	others	I hereby solemnly declare that the above furnished particulars are true to the best of
+content	others	my knowledge and belief and can be supported with documental proof any time required.
+content	others	(MINZA SHAKEEL)

@@ -1,0 +1,28 @@
+content	Personal	KASHIF KAWSAR QADRI : skgadri90@gmai|.com Test Engineer (3 +91-8971785396, 9419068166
+content	Summary/Objective	Objective: To achieve excellence in working in an organization where I can contribute and utilize the knowledge and skills acquired for my career growth.
+header	Label	Profile:
+content	Work/Experience	1 year and 9 months of IT experience in Manual/Automation Testing (Java- Selenium). Experience in Writing Scripts for Manual test cases. Good Exposure of Automation Testing Life Cycle(ATLC) Good Knowledge on manual/Black Box testing. Good Knowledge in handling Environment (ST, UAT and production) Good exposure to the all phases of Software Development Life Cycle (SDLC), Software Test Life Cycle (STLC). Experience in Functional testing, Regression testing, System testing, Web application testing, defect tracking and generating defect report. Experience in the analysis, design, development, implementation of testing life cycle applications. Experience in writing test scenarios, test cases, test plans based on requirements. Hands on experience in Quality Center (QC). Good knowledge in SQL queries.  / Group Functions, Sub-queries, Joins, Correlated sub-queries.
+content	Work/Experience	Professional Experience: 0 Working as “Software Engineer” in IBM India Pvt Ltd, Bangalore from February 2017 to tilldate.
+content	Education/Qualification/Workshop	Qualification: 0 B. Tech- M.Tech Integrated from Lovely Professional University(ECE), Punjab Jalandhar in 2015 with 6.53 CGPA. 0 10th from JKBOSE with 800/0. 0 12t|1 from JKBOSE with 61.8°/o.
+content	Knowledge/Skill	Software Skills: 0 Programming Languages : Groovy Script, Core Java.  . Database : SQL (ORACLE 106) 0 Frame works : Wordpress. . Scripting skills : Automation(Katalon Studio, Java-Selenium)
+content	Work/Experience	Automation Testing: 0 Experience in developing test scripts in Katalon Studio. 0 Having good knowledge in writing test suits for mobile/web automation using Katalon Studio.  Well versed in API testing using Postman and SoapUI.  Experience in developing selenium framework using Core Java.  Knowledge on Handled Dynamic Objects using Xpath expressions.  Good on writing scripts, TestNG & Annotation, Remote WebDriver, Locators, Hub and Nodes.  Well versed in Selenium Grid and Jenkins tool.  0 Actively involved in preparing of Test Data and using Apache POI.
+content	Work/Experience	Having Experience on Page Object Model, Handling Multiple Elements. Expertise in Frame work design & Frame work Implementation.
+content	Knowledge/Skill	Core Java Concepts:
+content	Knowledge/Skill	Good knowledge in Methods, Constructor, ( Overriding. Expertise in Abstract Class, Inheritance.  Good Explorer in Typecasting and polymorphism. Having knowledge in Collection.
+content	Knowledge/Skill	Methods,
+content	Knowledge/Skill	Objects,
+content	Knowledge/Skill	Method
+content	Knowledge/Skill	Overloading
+content	Knowledge/Skill	Constructor,
+header	Label	Manual Testing:
+content	Work/Experience	Good Experience in SDLC and STLC.  Hands on Experience in Smoke, Regression Testing, Functional, Integration, System Testing, Adhoc Testing, Compatibility Testing.  Experience in Writing, Execution of Test case.  Good knowledge of Acceptance Testing, Exploratory Testing, 118N, L10N Testing.
+content	Knowledge/Skill	SQL Concepts:
+content	Knowledge/Skill	Good Explorer in SQL queries. Knowledge in sub queries and co-related queries.
+content	Work/Experience	QC Exposure: Project 0 Expertise in writing test cases and execution of test cases in QC. 0 Proficient in logging and tracking of defects using QC. . Good understanding of QC admin activities.
+content	Work/Experience	Work Experience: Project#1  Title : myAOTS Environment : Java, windows Team Size : 4  Description : AOTS (AT&T One Ticketing System —myAOTS) — a front end tool which reflected failures and disruptions in the backup and hardware environment in the form of  cases same as used for redirecting or escalation of problems.
+content	Work/Experience	Roles and Responsibilities: 0 Understanding the application thoroughly with help of HLD document. 0 Involved in Functionality testing, Integration testing and Regression testing, Compatibility testing. Writing the test cases for Requirement. Writing Automation Scripts for Manual test cases. Execution of Automation Scripts using TestNG. Running Scripts in Parallel Execution using Selenium Grid. Coordinating with Test Lead and Development Team for Bug Fixing. Involved in Analyzing Test Results, Reporting and Tracking Defects. Participated in Retrospect meeting.  Participated in Standup call & Scrum Meeting.
+content	Label	Personal Details:  Date of Birth Sex  Marital Status  Languages Known Permanent Address
+content	Personal	14th Nov 1990.  Male.  Single.  English, Urdu, Hindi.  112, Bagh-i-Usman Coloney Gulab Bagh Srinagar Jammu and Kashmir 190006.
+content	Others	Declaration: I hereby declare that the information furnished above is true to the best of my knowledge.
+content	Others	Place: Srinagar Date: 25-11-2018
+content	Name	KASHIF KAWSAR QADRI

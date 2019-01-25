@@ -1,0 +1,76 @@
+content	others	Hyderpora Srinagar | (H) 9622754633 | shahidbhat8526@gmail.com
+content	others	Shahid Mushtaq
+header	others	PROFESSIONAL SUMMARY
+content	others	To  obtain  a  rewarding  and  challenging  position  as  Software  Developer  in  IT  infrastructure
+content	others	where  I  can  use  my  proficiency  and  skills  for  the  benefit  of  the  company.  My  educational
+content	others	qualification,  broad  exposure  and  product  knowledge  should  help  me  in  dosing  the  job
+content	others	efficiency.
+header	others	ACADEMIC QUALIFICATION
+content	education	•  M.C.A(3rd Semester)
+content	education	IGNOU
+content	education	•  B.C.A (Achieved 75%)
+content	education	Kashmir University
+content	education	•  Higher Education (Achieved 75%)
+content	education	SP Higher Secondary School
+header	education	TECHNICAL BACKGROUND
+content	others	(2017-Present)
+content	others	(2014 - 2017)
+content	others	(2013)
+content	knowledge	•  Web  Technologies:  -  ASP.NET  MVC,  ASP.NET  Web  API,  Angular  2(Core),  AJAX,  jQuery,
+content	knowledge	HTML5, CSS3.
+content	knowledge	•  Mobile Technology: - Ionic Framework.
+content	knowledge	•  Languages: - C++, C#.
+content	knowledge	•  RDBMS: - MS SQL.
+content	knowledge	•  Middle Tier: - ADO.NET, Entity Framework, LINQ.
+header	experience	WORK EXPERIENCE
+content	experience	•  National IT Solutions Karan Nagar Sgr.
+content	others	(Sep 2017- Jun 2018)
+content	experience	•  Cenedex Software Solutions Solina Sgr.
+header	experience	EXPERIENCE SUMMARY
+content	others	(Jul 2018 – Present)
+header	project	Project #1:
+header	others	•  Domain
+header	others	•  Schools
+content	project	: School Management.
+content	education	: Green Valley, Foundation School, The Legends School,
+content	educaction	Ingenious Educational Institute
+header	others	•  Country
+content	others	: India.
+content	others	: From Sep 1st 2017 till May 30th 2018.
+header	others	•  Duration
+content	others	•  Company  : National IT Solutions PVT. Ltd
+header	others	•  Role
+header	others	•  Modules
+content	experience	: Software Developer.
+content	experience	: Maintained existing and developed new Software components like Payroll
+content	experience	Management, Fee Management and PTM.
+content	knowledge	•  Technologies Used: C#, ASP.Net Web Forms, SQL, ADO.NET.
+content	experience	•  Responsibilities: Understanding Requirement, Managing Database, Development
+content	experience	and   Unit testing.
+content	experience	•  Key Achievement  : I achieved working experience of writing Database Store procedures
+content	others	and Cursors.
+header	project	Project #2:
+content	project	•  Domain      : Visitor and Resident Management System.
+content	project	•  Country      : USA.
+content	project	•  Duration   : From JUL 9th 2018 till Now (Under Development).
+content	others	•  Company   : Cenedex Software Solutions.
+content	experience	•  Role            : Software Engineer.
+content	knowledge	•  Technologies Used: ASP.Net MVC, Asp.net Web API, Ionic Framework, C#, LINQ,
+content	knowledge	jQuery, AJAX.
+content	experience	•  Responsibilities: Understanding Requirement, Development and Unit Testing.
+content	experience	•  Key Achievement: I achieved working experience of Asp.Net MVC, Asp.Net
+content	knowledge	Web API, Ionic Framework, Entity Framework, C#, jQuery and LINQ.
+header	others	RESIDENTIAL ADDRESS
+header	others	•  Permanent Address
+header	others	•  Languages Known
+header	others	•  Gender
+header	others	•  Date of Birth
+header	others	DECLARATION
+content	others	:  Hyderpora Srinagar.
+content	others	:  English, Urdu, Arabic & Kashmiri
+content	others	:  Male.
+content	others	:  11th Sep 1995.
+content	others	I hereby declare that the above written particulars are true to the best of my knowledge and
+content	others	belief.
+header	others	Date:                                                                                                                           With Regards
+content	others	SHAHID MUSHTAQ

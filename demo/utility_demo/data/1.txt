@@ -1,0 +1,59 @@
+content	others	Mohammad Faid Jalal
+content	others	faid.mughal07@gmail.com  |  Srinagar, Jammu & Kashmir, India | Phone: +91 9797852844
+header	education	EDUCATION
+content	education	  MCA (Master of Computer Application)
+content	others	Year 2018
+content	others	University of Kashmir
+content	education	  BCA (Bachelor of Computer Application)
+content	others	Year 2015
+content	others	University of Kashmir
+header	others	PERSONAL PROFILE
+meta	others	  Ambitious individual with strong academic qualifications.
+meta	others	  Lateral thinker with the ability to multitask and work under pressure and within time constraints.
+meta	others	  Articulate communicator with leadership qualities as well as strong problem-solving skills.
+meta	others	  Ready to work in a challenging environment, both individually and also within the context of a group
+meta	others	with the aim of using interpersonal as well as other skills in order to be an asset for the organization.
+header	project	PROJECT WORK
+content	project	Smart SAPP (Self-Assessment & Planning Program)
+meta	others	  Period: May 2014 to July 2014
+content	others	  Description:
+content	project	a.  Smart SAPP is an android platform-based application.
+content	project	b.   It provides information about various courses and colleges across various states.
+content	project	c.  So, helping 10+2 pass out’s by providing information without need to surf the internet.
+meta	others	  Role: Intern
+meta	others	  Environment: ADT (android developer tool)
+content	others	  Technology Used: Java, XML, SQLite
+content	others	  Responsibilities:
+content	others	a.  Developed the Code & Design part as per the requirements.
+content	others	b.  Handled different types of issues.
+content	others	c.  Handled the back end also.
+content	project	Android Forensic Master
+meta	others	  Period: July 2018 to October 2014
+content	others	  Description:
+content	project	a.  Looks for the forensic artefacts of Cloud applications in mobile storage.
+content	project	b.  Identifies the artefacts and present them to user.
+meta	others	  Environment: Linux OS & Code Blocks IDE.
+content	others	  Technology Used: C Language.
+content	others	  Responsibilities:
+content	others	a.  Developed the Code & Design part as per the requirements.
+content	others	b.  Handled different types of issues.
+header	knowledge	RESEARCH WORK
+content	knowledge	Title: Forensic Investigation of Cloud Applications
+content	others	Responsibilities
+content	others	  Setting up the environment to carry out the research.
+content	others	  Selecting the Cloud applications and performed all necessary operations on them.
+content	others	  Looking for the artefacts of interest which will validate our research.
+content	others	  Present our finding to make our argument concrete.
+header	knowledge	COMPUTER SKILLS
+content	knowledge	  C & C++
+content	knowledge	  Java
+content	knowledge	  Android
+content	knowledge	  Python (numpy, Pandas, scikit)
+content	knowledge	  C#
+content	knowledge	  HTML & CSS
+content	knowledge	  Machine Learning
+header	others	LANGUAGES
+content	others	English (Fluent), Urdu (Fluent), Kashmiri (Fluent), Hindi (Conversation)
+header	others	INTERESTS AND HOBBIES
+content	others	Travel,  Music,  Cricketer,  badminton,  Meeting  and  interacting  with  people  from  diverse  cultural
+content	others	backgrounds.

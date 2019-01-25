@@ -1,0 +1,46 @@
+header	others	CURRICULUM VITAE
+content	others	Asra Shafi Mir
+content	others	Jammu and Kashmir.
+header	others	Objective:
+content	others	To be the part of a reputed organization, where my skills, experience and abilities would be utilized to the maximum towards my personal and professional enhancement and result in the growth of my organization.
+header	knowledge	Strengths:
+content	others	Goal Oriented.
+content	others	Emphatic Listener.
+content	others	Patience and Perseverance.
+content	others	Adaptable to Challenging Environments.
+content	others	Great Analytical and Logical Skills.
+header	education	Academic Qualifications:
+content	education	Master of Computer Applications (MCA) from Kashmir University [2018]
+content	education	Bachelor of Computer Applications (BCA) from Women’s College [2014]
+content	education	12th from Govt. Girls Higher Secondary Institute, Kothi Bagh [2011]
+content	education	10th from Queen’s Lap High School [2009]
+header	project	Projects Undertaken:
+content	project	TITLE OF THE PROJECT: Web Med(Web Based Medical Service Framework).
+content	knowledge	Platforms Used: ASP.NET, HTML, CSS (Front End), SQL ( Back End).
+content	others	DURATION:6 months.
+content	project	TITLE OF THE PROJECT: Human Resource Management System (HRMS)
+content	knowledge	Platforms Used: Visual Basics 6.0 (Front End), MS Access (Back End).
+content	others	DURATION: 6 Months.
+header	others	Co-Curricular Activities:
+header	education	Certifications / Workshops Attended:
+content	education	Certificate for Completion of PHP & MYSQL Workshop (IIT Bombay)
+content	education	Certificate of Participation in MS DreamSpark 2013 (Microsoft)
+header	others	Extra Curricular Activities:
+content	knowledge	Solving Crosswords and Puzzles.
+content	others	Socializing.
+content	knowledge	PROFICIENCY IN COMPUTING TOOLS
+content	knowledge	Operating Systems Worked upon: Windows XP / 7 Ultimate etc.
+header	others	Software Packages:
+content	knowledge	Computer Applications (MS Word, MS Excel, MS PowerPoint, Internet etc.)
+content	knowledge	Basic Knowledge of Adobe Photoshop as well.
+header	others	Personal Details:
+content	others	Father’s Name: Mr. Mohammad Shafi Mir.
+content	others	Mother’s Name: Mrs. Shahzada Akhtar.
+content	others	Date of Birth: 18th January 1994.
+content	others	Gender: Female.
+content	others	Religion: Islam.
+content	others	Nationality: Indian.
+content	others	Marital Status: Single.
+content	others	Linguistic Ability: English, Urdu and Kashmiri.
+content	others	I hereby declare that the above furnished information is true to the best of my knowledge and belief.
+content	others	(Asra Shafi Mir)

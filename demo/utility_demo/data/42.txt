@@ -1,0 +1,94 @@
+content	others	JALIL AHMAD
+header	others	Personal Details
+content	others	Name                                Jalil Ahmad
+header	others	Designation
+content	experience	Software Engineer I, IT
+header	others	Current Organization
+header	others	Passport Details
+content	experience	Lelafe IT Solutions.
+content	others	Number L5709640
+header	others	Objective
+content	others	Seeking  a  position  in  an  organization  that  provides  me  ample  opportunity  to  explore  &
+content	others	excel    in    the  field    of  Information  Technology  while  carving  out  the  niche  for  personal,
+content	others	professional as well as organizational goals.
+header	others	Personal
+content	others	Being ambitious, highly driven and passionate about the software Development, I relish a
+content	others	challenge. I will bring nearly 1.4 years of Development experience to the team in the said
+content	others	company, I really enjoy helping others.
+content	others	Diversified exposure in working with multiple projects as a successful and Exemplary team
+content	others	member and adaptability to any situation.
+content	experience	Have now been working in this industry for over 1.26, I have built up a very enviable
+content	others	skills  in  Software  Development.  Only  making  decisions  after  thorough  evaluation.  Having  a
+content	others	thorough approach to things and can  accurately  understand information and  ideas presented
+content	others	through  spoken  words  and  sentences  and  this  enables  me  to  be  a  good  resource  for  the
+content	others	organization.
+header	others	Skills &  Profi l e
+content	experience	1.4 years of experience in IT industry involved in complete SDLC architecture of Internet,
+content	experience	Client/Server Applications.
+content	others	I enjoy working in an environment which encourages me to learn new technologies and at the
+content	others	same time developing my core competencies. I have always ensured my 100% commitment in
+content	others	making myself an approachable asset for the Team.
+content	experience	▪  1.4 years of experience in IT industry involved in complete SDLC architecture of Internet,
+content	experience	Client/Server Applications.
+content	knowledge	▪  Understanding of the concepts of Software Development and Web Technology.
+content	experience	▪  Experience in design and development of web applications with .NET framework using
+content	experience	Asp.Net and ADO.Net, node.js, angular2.
+content	experience	▪  Experience in developing applications using MongoDB, Express, SQL Server, C#,
+content	experience	extensive experience in developing web applications using CSS, HTML.
+content	knowledge	▪  Possess knowledge of various languages like C#, C, C++ and Java, J2EE.
+content	knowledge	▪  Have knowledge of Asp.Net, and Angular2, node.js, MongoDB.
+header	knowledge	Primary Skills
+header	others	Languages Primary
+content	knowledge	C#.
+header	knowledge	Database System
+content	knowledge	MongoDB, MS-SQL 08, 2012
+header	knowledge	Web Development
+header	knowledge	Technologies
+content	knowledge	Asp.Net Web forms, CSS, HTML.
+header	knowledge	Version Control
+content	knowledge	Git,Team Foundation Server.
+header	knowledge	Languages Secondary
+content	knowledge	C, C++, JAVA, J2EE
+header	experience	Experience
+content	project	➢  First Project name:
+content	project	CMS for Skuast Shuhama Kashmir.
+header	project	Description:
+content	project	•  Creating dynamic web Forms for content management for Skuast Shuhama Kashmir.
+header	others	Environment:
+content	project	ASP.Net, C#, Ado.Net, MS-SQL 12.
+header	experience	Role and Responsibilities:
+content	experience	•  Coding.
+content	experience	•  Design Use Case
+content	experience	•  Develop and test the modules.
+header	project	➢  Current Working Project name:
+content	project	Indiaassetz
+header	project	Description:
+content	experience	•  Creating complete application from scratch for managing indiaassetz properties.
+header	project	Environment:
+content	knowledge	MEAN Stack (MongoDB, Express.js, Angular2, Node.js).
+header	experience	Role and Responsibilities:
+content	experience	•  Coding.
+content	experience	•  Participation in database design of application.
+content	experience	•  Develop and test the modules.
+header	others	Training
+header	education	Qualification
+content	knowledge	ASP.NET .
+content	knowledge	8 Months Industrial Training in JAVA-J2EE from Lara Technologies Bangalore.
+content	education	MCA from The Al Ameen College affiliated to Bangalore University with 71.06% during 2011-
+content	education	2014.
+header	others	Contact Details
+header	others	Permanent Address:
+content	others	New Theed Harwan, Srinagar, Jammu & Kashmir 191123.
+header	others	Mobile:
+content	others	+91-8715852289, +91-7006180286
+header	others	Email:
+content	others	bhatjalilahmad@gmail.com
+header	others	Nationality:
+content	others	Indian
+content	others	Marital Status:                             Single
+header	others	DOB:
+content	others	08-02-1987.
+header	others	Languages:
+content	others	English, Urdu, Kashmiri
+header	others	Hobbies:
+content	others	Learning New Technologies, Netsurfing, Watching Cricket.

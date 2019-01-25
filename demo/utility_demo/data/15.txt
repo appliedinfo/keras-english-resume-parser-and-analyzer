@@ -1,0 +1,36 @@
+content	others	FATIMA KHATOON
+content	others	Cell no: 9797060180
+content	others	Email id:shaheenfatima263@gmail.com
+header	experience	JOB TITLE:
+content	experience	Web developer
+header	others	CAREER OBJECTIVE
+content	others	Seeking an opportunity to work in challenging environment, learn new skills and enhance the same for companies’ growth and development.
+header	education	CAREER SUMMARY
+content	knowledge	Having knowledge on .NET, HTML, HTML5, CSS, SQL,JavaScript.
+content	others	Ability to adopt and learn new technologies.
+content	others	Capacity to work in team or individually and take up responsibilities.
+header	knowledge	SKILL SET
+content	knowledge	Operating system: windows, Linux
+content	knowledge	Languages: .NET, HTML, HTML5, CSS, SQL, JavaScript,bootstrap.
+content	knowledge	Data Access Technology:ADO.NET
+content	knowledge	Databases: Basics of MS Sql server 2008,Oracle
+content	knowledge	Tools :MS Office, MS visual studio,.Net
+header	education	ADDITIONAL COURSES
+content	knowledge	3 months Web designing courses from National Institute of Computer Technology
+header	education	ACADEMIC QULIFICATION
+content	education	Master of computer application from IITM College, Kashmir University.
+content	education	Bachelors of computer application from women’s college , Kashmir University.
+content	education	HSC from Govt Higher Secondary Kargil, Jk board
+content	education	SSC from suru valley public school kargil , jk board.
+header	project	ACADEMIC PROJECT
+content	project	Title: HELPING HANDS
+content	others	PROJECT DESCRIPTION
+content	others	Helping hand is web application and is based on search engine. User can search for the available professional (including Doctor, Carpenter,Enginners) schools ,colleges,libraries,petrol pumps, hospitals etc.This search is made on the basis of their type, profession, part of name or any other piece of information stored about them in database. Also user can register and book an appointment to these professionals.
+header	experience	RESPONSIBILITIES
+content	experience	Developing and maintaining applications using ASP.NET and SQL Server 2008 as front-end and back- end,respectively using .NET as frame work 2.0.
+content	experience	Involved in designing UML and class Diagrams.
+content	experience	Use of Test cases
+content	experience	Used ASP.NET for developing WebPages.
+content	experience	Used ADO.NET to connect the Database.
+header	others	PERSONAL INTERESTS
+content	others	sketching | painting| Reading | crafting | Travelling.

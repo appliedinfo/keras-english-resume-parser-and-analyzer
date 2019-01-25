@@ -61,12 +61,15 @@ def read_pdfs(dir_path, collected=None, command_logging=False, callback=None):
                     txt=seg.find_segments('data/resume_images/'+x)
                     contents.extend(txt)
                 # print(contents)
+                # print('length : ',len(contents))
 
 
                 
             if contents is not None and len(contents) > 0:
                 if callback is not None:
-                    callback(len(collected), file_path, contents)
+                    file_name=f.split('.')[0]
+                    callback(file_name, file_path, contents)
+                    # callback(len(collected), file_path, contents)
                 collected[file_path] = contents
         elif os.path.isdir(file_path):
             read_pdfs(file_path, collected, command_logging, callback)

@@ -1,0 +1,76 @@
+header	others	CURRICULUM VITAE
+content	others	MUZAFFAR MAQBOOL
+content	others	Buchwara Dalgate Srinagar 190001
+content	others	Jammu and Kashmir , India
+content	others	+91 9906662190 / +91 7006724007
+content	others	09 – Apr - 1992
+content	others	muzaffarmaqbool@live.com
+content	others	MUZAFFAR MAQBOOL
+header	others	OBJECTIVE
+content	others	To partake in the growth and success of the company I work for. Also I want to become
+content	others	a valuable person the company and work for an organization which provides me the
+content	others	opportunity to improve my skills and knowledge to growth along with the organization
+content	others	objective.
+header	knowledge	SKILLS & ABILITIES
+content	others	• Ability to Work Independently and Within Groups
+content	knowledge	• Java, PHP and Android Programming Experience
+content	knowledge	• Design, Test, and Develop Software/Applications to Meet User Needs
+content	experience	• Document Application Process for Future Maintenance and Upgrades
+content	knowledge	• Hands-On Software Troubleshooting Experience
+content	knowledge	• Maintain User Manuals and Training Materials
+content	knowledge	• Share Knowledge and Expertise with Fellow Team Members
+content	knowledge	• Understand Software Design Patterns
+content	knowledge	• Knowledge of  Social media
+content	knowledge	• User Interface / User Experience
+content	knowledge	• Solid Understanding of Company’s Needs
+content	knowledge	• Revise Programs for Corrections, Enhancements, or Environment Changes
+content	others	LEADERSHIP
+content	experience	I know how to handle a team, motivate them to work at their best and give their best
+content	others	performance. As a leader I know how to create a good bond between a leader and a
+content	others	team.
+header	experience	EXPERIENCE
+content	project	Prism Creationz.
+content	experience	Web Developer                                                          From 15-10-2018 -- Present
+content	experience	Responsible for development & management of web applications for the
+content	others	department.
+content	knowledge	• Actively worked in an agile software development environment.
+content	experience	Communicating with clients to determine specific requirements and
+content	others	expectations.
+content	experience	• Delivering and implementing project as per scheduled milestone.
+content	experience	Heavens InfoTech Pvt Ltd.
+content	experience	Android Developer                                                           From 10-1-2018 to 10-05-2018
+content	experience	• Developed and designed Android  Apps for the company.
+content	experience	• Wrote clean, clear, efficient, well-tested, and maintainable code.
+content	experience	Ensure applications are properly integrated with Android APIs.
+content	others	Interface Technologies Pvt. Ltd.
+content	experience	Web Developer                                                               From 6-11-2012 to 10-02-2017
+content	experience	• Developed new and customized existing projects using a variety of
+content	knowledge	technologies, languages (Php, Java, JQuery and JavaScript).
+content	experience	• Mentoring team members in development and technical progression.
+content	experience	• Worked with Database’s like MS-SQL Server, MySQL and SQLite.
+content	experience	• Defined best practice for project support and documentation.
+content	experience	Cooperating and communicating with team members for better and efficient
+content	others	team management and work.
+header	others	EDUCATION
+content	education	BSC-IT                                                                                                                     2015
+content	education	Himalayan University (Itanagar Arunachal Pradesh , India )
+content	education	GNIIT (SOFTWARE ENGINEERING)                                                                    2015
+content	educaton	NIIT (Residency Road, Srinagar, Jammu and Kashmir, India)
+content	education	DCA (DIPLOMA IN COMPUTER APPLICATIONS)                                             2013
+content	education	Shridhar University (Pilani Rajasthan, India )
+content	education	CCC (COURSE ON COMPUTER CONCEPTS)                                                       2011
+content	education	DOEACC (Srinagar Jammu and Kashmir, India )
+content	education	12TH                                                                                                                           2010
+content	education	Tyndale Biscoe School (Srinagar Jammu and Kashmir, India)
+content	education	10TH                                                                                                                           2008
+content	education	Tyndale Biscoe School (Srinagar Jammu and Kashmir, India)
+header	others	COMMUNICATION
+content	others	British English
+content	others	• Hindi
+content	others	• Urdu
+content	others	Arabic (Basic)
+content	others	CONTACT
+content	others	muzaffarmaqbool@live.com
+content	others	Buchwara Dalgate Srinagar 190001
+content	others	Jammu and Kashmir, India
+content	others	+91-9906662190 / +91-7006724007

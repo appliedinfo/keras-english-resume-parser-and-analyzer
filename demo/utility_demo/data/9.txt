@@ -1,0 +1,85 @@
+content	others	Aamir Amin
+content	others	masteraamie@gmail.com
+content	others	7006985189
+content	others	https://www.linkedin.com/in/masteraamie
+header	others	CAREER OBJECTIVE
+content	others	To make contribution to the organization to the best of my ability and to develop new skills
+content	others	and share my knowledge while interacting with others and achieve new height.
+header	others	PERSONAL DETAILS
+content	others	Address
+content	others	Batapora Hazratbal
+content	others	Date of birth
+content	others	18/12/1994
+content	others	Gender
+content	others	City
+content	others	State
+content	others	Pin Code
+content	others	Nationality
+content	others	Male
+content	others	Srinagar
+content	others	Jammu & Kashmir
+content	others	190006
+content	others	India
+content	others	Marital Status
+content	others	Unmarried
+content	others	Religion
+content	others	Islam
+content	others	Languages known
+content	others	English, Urdu
+header	others	Hobbies
+content	others	Coin Collection, Biking, Hiking
+header	others	WORK EXPERIENCE
+content	experience	Android App Developer
+content	experience	Interface Technologies / Jan 2014 - Dec 2014
+content	experience	Elance Technologies Pvt Ltd / Jan 2015 - Dec 2016
+content	experience	Php Developer
+content	experience	CodeIgniter and Laravel
+content	experience	Web Developer
+content	experience	Elance Technologies Pvt Ltd / Jan 2017 - Present
+content	knowledge	Php, mysql , laravel , codeigniter, angular
+header	project	PROJECT DETAILS
+content	project	Unicaf
+content	others	Backend Developer / Duration: 2 Month
+content	others	Team member(s): 4
+content	project	Cafeteria Management System
+content	project	School ERP
+content	experience	Lead Developer / Duration: 3 Month
+content	others	Team member(s): 5
+content	project	School Management System at www.sbssrinagar.com
+content	project	Attendance App
+content	experience	Programmer / Duration: 1 Month
+content	others	Team member(s): 2
+content	project	Attendance Management Android Aop
+header	education	EDUCATION DETAILS
+content	education	10th with 91.2 % in 2010
+content	education	Minto Circle School
+content	education	JKBOSE
+content	education	12th with 85.8 % in 2012
+content	education	SP College
+content	education	JKBOSE
+content	education	Dip. in Software Engineering with 92 % in
+meta	others	2013
+content	education	NIIT Srinagar
+content	content	NIIT
+content	education	BTECH CSE with 7.53 CGPA in 2017
+content	others	Islamic University Of Science And
+content	others	Technology Awantipora
+header	others	SKILLS
+content	knowledge	JavaScript
+content	knowledge	(Angular)
+content	knowledge	PHP (Code Igniter
+content	knowledge	/ Laravel)
+content	knowledge	Android
+content	knowledge	Development
+content	knowledge	MySql Database
+content	knowledge	Native Script
+content	knowledge	Firebase
+content	knowledge	Flexible Approach
+content	knowledge	Team Leader
+content	others	DECLARATION
+content	others	I hereby declare that the above cited information is true to the best of my knowledge and
+content	others	belief, if given a chance, I can prove myself.
+content	others	Date: 01/10/2018
+content	others	Place: Srinagar
+content	others	Aamir Amin
+content	others	Powered by TCPDF (www.tcpdf.org)

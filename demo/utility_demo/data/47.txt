@@ -1,0 +1,93 @@
+content	others	Name – Danish Wadoo
+content	others	Contact No - +91 – 9797282792
+content	others	Email Address – Danishwadoo786@gmail.com
+header	experience	Professional Summary
+content	experience	Currently Working as a Full stack Developer (MEAN stack Developer).
+content	experience	Extensive experience in .NET applications development, Software Design and Maintenance.
+content	knowledge	Excellent team player with Strong interpersonal skills, problem-solving, and trouble-shooting capabilities with almost 2 year Experience in .NET Development, using C#, ASP. Net, VB.Net, ADO. Net, SQL Server, XML, API 2 .
+content	experience	Experience in design and development of n-tier Internet/Intranet based Client Server applications using ASP.Net, C#,AJAX, .Net Framework ,Visual Studio.Net 2015/2012/2010,XML,JSON,Web APIs, Entity Framework,ADO.NET etc.
+content	experience	Experience in design and development Windows based applications using C#, .Net Framework, Visual Studio.Net 2015/2012/2010, XML, Web APIs, ADO.NET etc..
+content	knowledge	Experience and knowledge of GitHub, Git.aware, and SmartGit
+content	experience	Expertise in developing GUI (Graphical User Interfaces) using C# Win Forms and ASP.Net Web Forms.
+content	experience	Extensive experience in design and development of web forms and web pages using ASP.Net.
+content	others	Ability to work both independently and in collaborative teams to communicate design and build ideas effectively
+content	experience	Experience using asynchronous RESTful services (JSON)
+content	experience	Extensive experience on modern front-end template frameworks and libraries for JavaScript including Angular JS, JQuery etc.
+content	experience	Payment System with Stripe (charges, customers, Recurring payments, web hooks, plans, subscriptions, cards, payments history with filtering and ordering etc.).
+content	experience	Experience in working with Entity framework, WEB API.
+content	knowledge	RDBMS experience includes SQL Server 2008 R2/2012/2016, MS Access; database programming and connectivity using SQL, TSQL, SQL Queries, Triggers, Views, Stored Procedures, ADO /ADO.NET objects.
+content	experience	Extensively worked with Stored Procedures, Functions and Performance tuning using SQL Server.
+content	experience	Extensive experience in re-writing existing VB 6.0/ASP 3.0 applications to Microsoft .Net (C# / VB.Net).
+content	experience	Experience in developing rich, uniformed User Interface using CSS, Master pages, AJAX Controls, JavaScript,BOOTSTRAP,JSON, JQuery and HTML.
+content	experience	Have a good experience on the web services. Developed many web services for different applications.
+content	experience	Have good experience working on Visual Studio Setup project and deploying them on other servers.
+content	knowledge	Have knowledge on JavaScript libraries like JQuery and java script framework like Angular js etc.
+content	experience	Have a very good experience in developing the web APIs.
+content	experience	Implemented user interface guidelines and standards throughout the development and maintenance of the website using HTML, BOOTSTRAP,CSS and JavaScript .
+content	experience	Implemented Client side validations with JavaScript for fast computation and Server side validations with ASP.NET server controls.
+content	experience	Created different user controls to enhance the performance of the application and to use the same functionalities across different applications.
+content	knowledge	Hands on knowledge in Object Oriented Programming, Software Engineering, and Database Management.
+content	experience	Experience in Testing, Debugging and Bug fixing.
+content	experience	Used Master Pages to provide a unified look and feel to the application.
+content	others	Have strong analytical and debugging skills with problem solving attitude and self-learning desire.
+content	others	Ability to work and communicate efficiently in a group environment.
+content	experience	Experience in implementing .NET Security features like Authentication and Authorization using Form based and Window-based authentication, Authorizing Users, Roles and User Account Impersonation, tracing.
+header	others	Technical Skills
+content	knowledge	Languages: C#, VB.NET, PL/SQL, T-SQL, Visual Basic
+content	knowledge	.Net Technologies: Net Framework, ADO.NET, Entity Framework, ASP.NET, AJAX,Web APIs.
+content	knowledge	Web Technologies: ASP, ASP.NET, ADO.NET, HTML, Angular JS, AJAX, Web Services, XML, JQuery.
+content	knowledge	Scripting Languages: JavaScript, JQUERY.
+content	knowledge	Debugging Tools – IE Developer Toolbar ,Chrome, Firebug, Fiddler, , Post Man
+content	knowledge	Browsers: IE, Firefox, Chrome
+content	knowledge	Data bases: MS Access, MS SQL 2008 R2/2012/2014/2016, Oracle 10g and
+content	knowledge	Database Tools: SQL Enterprise Manager 2000 and Management Studio 2008 /20012/14/16 /dbforge.
+content	knowledge	Operating Systems: Windows 7/8/8.1/10
+header	others	Areas of Expertise
+content	knowledge	Business Analysis
+content	knowledge	Handling client interaction for requirement gathering, finalization of functional specifications, generating and compiling reports based on findings; with causes and solutions to issues.
+content	experience	Engaging and coordinating Business Analysis sessions for understanding client business processes.
+content	experienceexperience	Suggesting appropriate as well as technology-based solutions for enhancing functional efficiency of the organization.
+content	others	Preparing Business Requirement Documents, Functional Requirement Specification Document, Impact Assessment and Test Cases
+content	knowledge	Software Development
+content	experience	Handling various technical aspects like project documentation, and integration, monitoring critical paths and taking appropriate actions.
+content	experience	Planning and Creating Business Logics, Data Access ,APIs etc. and ensuring that business requirements and functional specifications are fulfilled.
+content	others	Coordinating with the engineering team to resolve the environmental issues (if any).
+header	experience	Professional Experience
+content	others	National IT Solutions, Srinagar, INDIA
+content	experience	Responsibilities at National IT Solutions.
+content	others	It was my responsibility that all of the developers in my team are adhering to the software quality standards agreed by my team and the wider development team so that work is done to the highest possible quality.
+content	experience	To understand and be able to talk coherently about the any practices we are implementing and their benefits so that we are all working together and understand why they are so valuable.
+content	experience	To ensure the features developed by my team are produced to the highest possible quality in the fastest possible time and no less, so that we are able to continue to do so in the future.
+content	experience	To show the developers on my team better ways of doing things and help they improve their skills so that we all become better at our jobs.
+content	experience	Develop software, specifications and technical interfaces.
+content	experience	Develop user interfaces and client displays.
+content	experience	Design, initiate and handle technical designs and complex application features.
+content	experience	Develop, deliver and test software prototypes.
+content	others	Initiate and drive major changes in programs, procedures and methodology.
+content	others	Coordinate with other developers and software professionals.
+content	others	Quickly produce well-organized, optimized, and documented source code.
+content	experience	Create and document software tools required by artists or other developers.
+content	experience	Debug existing source code and polish feature sets.
+header	others	Key Project(s) :
+content	experience	Role: Lead .Net Developer
+content	project	(1) Govt.SMHS Hospital Srinagar Kashmir.
+content	project	(2) Govt.Pulwama Hospital Kashmir.
+content	project	(3) Govt.Royal Spring Golf Course Srinagar Kashmir.
+content	project	(4) Govt.ITI Srinagar Kashmir.
+content	project	(5) Cemtac Cements PVT. LTD, Kashmir.
+content	project	(6) Shalimar Construction PVT. LTD, Kashmir.
+content	project	(7) Green Valley School kashmir.
+content	project	(8) R.P School Kashmir.
+content	project	(9) Oasis School Kashmir.
+content	project	(10)Crescent School Kashmir.
+header	experience	Responsibilities:
+content	experience	Worked with business to design the project from scratch by understanding the complete requirement.
+content	experience	Developed core functionality with the ASP.NET Web Forms.
+content	experience	Developed services using ASP.NET Web API, C# and used it to send Asynchronous API requests.
+content	others	Worked on all most on all modules from scratch.
+content	knowledge	Used Object Oriented Programming (OOP’s) concepts and Agile Methodology (SCRUM) in developing the project.
+content	knowledge	Worked on Database creations, restores, writing stored procedures, views etc.
+content	others	Code walks through and Code reviews.
+content	others	Participated in various meetings with the team and the Project manager to discuss improvements/amendments in the development of the section.
+content	others	Deploying the code and maintain and perform changes to the project as per the requirement.
+content	knowledge	Environment: Visual Studio 2010/2012, .Net Framework 4.5/4.5.1, C#, ASP.NET, ADO.NET, Entity Framework, Web Api, HTML, CSS, Java Script, AJAX, SQL Server 2008/2012, JSON, IIS 7.0

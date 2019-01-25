@@ -1,0 +1,19 @@
+content	others	Ahsan Bin Tariq
+content	others	Batamaloo, J&K
+content	others	Contact No. +91-9682671387
+content	others	Having Good communication skills and a quick learner.
+content	others	Willing to learn new things and motivates people very well.
+content	others	Logical, analytical and computational skills.
+content	others	Flexible to work individual as well as in team.
+content	others	Proficient in maintaining the existing program with implementation of new techniques.
+header	experience	Experience
+content	experience	Worked as Executive Engineer at Sntpl
+content	experience	Worked at tata motors as sales executive
+content	experience	Presently working at Jamkash NEXA as Social Media Executive (IT)
+content	others	Fathers Name: Tariq Ahmed Bhat
+content	others	Date of Birth: 31 March 1994
+content	others	Permanent Address: Batamaloo sgr.
+content	others	Marital Status: Single
+content	others	Sex: male
+content	others	Language Proficiency: English, Hindi, Urdu and Kashmiri
+content	others	Nationality: Indian

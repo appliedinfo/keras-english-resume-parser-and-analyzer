@@ -1,0 +1,32 @@
+content	others	Mohd Ibrahim Mir /ibrahimmir11
+content	others	Mob. +91-7780980889 /princemir11
+content	others	E-Mail – /ibrahimmir11
+content	others	Looking for a full time position in an environment that offers a greater challenge, increased benefits for my family, and the opportunity to help the company advance efficiently and productively.
+header	experience	Eight months of working Experience in Tech Mahindra, Hyderabad as an Associate Proofreader. (Oct., 2016 - May, 2017). Role: I was supposed to check the Artworks against the reference documents which were provided, using the required tools and techniques to flag the markups if available.
+content	education	Big Data and Hadoop Developer Certified from Edureka () with Grade A.
+content	knowledge	Operating Systems : Windows OS’s and Mac.
+header	knowledge	Programming Languages : C, C++, C#, .NET, HTML5, JAVA.
+content	knowledge	Databases : MS-SQL Server 2005-2012, MS-Access.
+content	project	1. Project Name : Center Management System (BCA)
+content	experience	Role : Designer, Developer
+content	others	Duration : Mar 2009-Dec 2009.
+content	knowledge	Technology Used : VB, MS-Access.
+content	project	Description : This system is basically designed for private institutes or coaching classes. It includes course enquiry, admission details & fee calculation. In this system various kinds of reports are automatically generated.
+content	project	2. Project name : Deadlock (MCA) Duration : July 2012-Nov 2012. Role : Designer, Developer. Technology used : C++ with Graphics Description : A system showing how processes create a Deadlock during processing. First we are checking if the system is in SAFE State. 3. Project name : Hospital Management System (MCA)
+content	others	Duration : July 2013--Nov 2013.
+content	experience	Role : Designer, Developer.
+content	knowledge	Technologies used : VB.net, Oracle 10g.
+content	project	Description : proposed system stores detailed information of doctors (visiting, non-visiting), patients & also staff members of the hospital. It calculates the bill for patients, salary of doctors & staff and charges for visiting doctors. Report generation is also there.
+content	project	4. Project Name : Knowledge Management System (MCA)
+content	others	Duration : March 2014- June 2014
+content	others	Role : Designer, Developer
+content	knowledge	Technology Used : JAVA ,SQL Server 2005.
+content	project	Description : Proposed system stores detailed information of project related document. All the data will be maintained at central location in relational database. Every user will be given user-id to log-in system, where he can log document, update the document and store the document. Readily upload the latest updates, allows user to download the alerts & to share the documents.
+content	others	Name : Mohd Ibrahim Mir
+content	others	Parentage : Ab Hamid Mir.
+content	others	Address : Adipora Sopore, Baramulla, J&K - 193201
+content	others	Birth Date : 29/10/1989
+content	others	Languages : Urdu, Hindi, English, Kashmiri
+content	others	I here declare that all statements made in this application are true, complete and correct to the best of knowledge and belief.
+content	others	DATE : 09-11-2018
+content	others	Place : Kashmir Mohd Ibrahim Mir.

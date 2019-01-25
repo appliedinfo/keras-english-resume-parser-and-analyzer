@@ -1,0 +1,39 @@
+content	Name	SHAFAUTH MAN ZOOR
+content	Personal	MOMINABAD BATAMALOO,
+content	Personal	SRINAGAR.
+header	Label	KEY STRENGHTS
+header	Label	EDUCATION
+content	Summary/Objective	A ﬁrm believer in hard work, open to all kinds of challenges.  Job commitment. Leadership skills, ability to inﬂuence and handle people Self-confidence. Hardworking, quick grasping power dedicated and devoted. Teamwork. Good at practical.  Fun loving and easy going.
+header	Label	Course
+content	Education/Qualification/Workshop	University/Board
+content	Label	Institute name
+content	Education/Qualification/Workshop	University of Kashmir
+content	Education/Qualification/Workshop	University of Kashmir
+content	Education/Qualification/Workshop	M.Sc. IT
+content	Education/Qualification/Workshop	Govt. Degree College Sopore
+content	Education/Qualification/Workshop	IGNOU
+content	Education/Qualification/Workshop	MTTM
+content	Education/Qualification/Workshop	S.P College
+content	Education/Qualification/Workshop	University of Kashmir
+content	Education/Qualification/Workshop	B.Sc (Non-Med)
+content	Education/Qualification/Workshop	BTS
+content	Education/Qualification/Workshop	S. P College
+content	Education/Qualification/Workshop	IGNOU
+header	Label	TECHNICAL SKILLS
+content	Certification	Six months basic computer course AutoCAD
+content	Personal	+918491811354/ 9906695250
+header	Label	CAREER OBJECTIVE
+content	Summary/Objective	To work in a competitive and challenging working environment. To contributes to the best of ability towards the growth of the Organization.  To fully utilize my interpersonal and academic skills and thereby. Learning continuously to purse a rewarding career.
+content	Personal	smanzoor93@gmail.com
+header	Label	PROJECTS
+content	Personal	PERSONAL DETAILS  Father’s Name: Late Manzoor Ahmad Khan
+content	Project	Diabetes Prediction System.  Impact of 2016 Unrest on Marketing of Tourism Destination with special reference to Gulmarg.  A study of cultural tourism and socio-economic Features of people of  tehsil Handwara. Scope of Wildlife Tourism in Kashmir. “A case study of Dachigam National Par ”.
+content	Personal	Mother’s Name: Mehmooda Akhter
+content	Personal	Date of Birth
+content	Personal	 10/04/1993
+content	Label	Gender
+content	Personal	 Female
+header	Label	DECLARATION
+content	Label	Nationality Languages
+content	Personal	. Indian : English,urdu,Hindi & Kashmiri
+content	Others	I, hereby declare that the above given information is true to the best of my knowledge.  w

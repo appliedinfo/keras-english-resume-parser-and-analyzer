@@ -1,0 +1,33 @@
+header	others	NAME
+content	others	ALIYAH MANZOOR
+header	others	ADDRESS
+content	others	Nandapora Khanabal,
+content	others	Anantnag 192101,
+header	others	CONTACT NUMBER:
+content	others	09622673878, 07006309402
+content	others	EMAIL ID: aliyahmanzoor@gmail.com
+header	others	CAREER OBJECTIVE:
+content	others	  To work in a competitive and challenging environment.
+content	others	  To contribute to the best of ability towards the growth of
+content	others	organization.
+content	others	  To fully utilize my interpersonal and academic skills and thereby
+content	others	  Learning continuously to pursue a rewarding career.
+header	education	Educational Qualification
+content	education	 Hsc (JKBOSE)
+content	education	 BCA (University Of Kashmir)
+content	education	 MscIT(University Of Kashmir)
+header	others	AREA OF SPECIALISATION
+content	knowledge	DBMS
+content	knowledge	Machine Learning
+content	knowledge	Programming Languages:  JAVA, Python, Dot Net, C, CPP, PHP,
+content	knowledge	HTML
+header	others	Personal Details
+content	others	Father’s name    :    Manzoor Ahmad Wani
+content	others	Mother’s name   :   Dilshada Banu
+content	others	D.O.B            :       25-03-1994
+content	others	Gender         :       Female
+content	others	Nationality   :       India
+content	others	Languages Known   : English, Urdu, Kashmiri
+header	others	DECLARATION:
+content	others	I, hereby declare that the above given information is true to the
+content	others	best of my knowledge.

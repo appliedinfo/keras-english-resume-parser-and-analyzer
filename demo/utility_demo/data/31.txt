@@ -1,0 +1,195 @@
+content	others	MUDASIR HUSSAIN
+content	others	Email: mudsr6july@gmail.com / mudsrhussain@yahoo.com
+content	others	Phone: (M) +919596553412,+919419065883
+header	experience	IT SOFTWARE TESTING & QUALITY ASSURANCE—4 + YEARS
+header	experience	PROFESSIONAL SYNOPSIS
+content	experience	  An IT Professional with 4+ years of experience in Software Testing,  Training, Quality Assurance, SDLC, STLC, defect tracking
+content	experience	and reporting
+content	experience	  An  active  contribution  in  the  design,  development,  testing,  troubleshooting  &  debugging  of  the  process,  post-
+content	experience	implementation, application maintenance and enhancement support to the client for the product/software application
+content	experience	  Expertise in understanding requirement, creating open questions document, test plan, test design & review, QA/UAT testing
+content	experience	and production deployment
+content	experience	  Special proficiency in preparing test data, executing test cases, recording test results, maintaining defects and preparing test
+content	experience	status reports
+content	experience	  Adroit in identifying Test Scenarios and preparing Test Scripts using Automation test tools; Recognized for implementing
+content	experience	automation testing for major products of BQE Software Inc. (www.bqe.com)
+content	experience	Improve quality; reduce defects by supporting best quality practices & implement effective process improvement methods
+content	others	  Cohesive Team Player with Fast Learning Curve along with strong analytical, problem-solving, innovation and planning
+content	others	  Highly  articulate,  demonstrating  excellent  relationship  building,  communication  and  interpersonal  skills  across  all  levels
+content	others	including management, employees and external agencies
+content	knowledge	  Have sound knowledge and understanding of QA Processes, STLC and SDLC.
+content	knowledge	Implement and develop automated test practices for both web and windows applications primarily using Visual Studio’s
+content	knowledge	Coded UI module for both web and windows applications.
+content	experience	  Design  and  create  test  scripts  using  C#  and/or  VB.NET  to  address  areas  such  as  database  impacts,  software  scenarios,
+content	experience	regression testing, negative testing, error or bug retests, or usability in preparation for implementation.
+content	experience	Identify, analyze, and document problems with program function, output, online screen, or content.
+content	knowledge	  Plan test schedules or strategies in accordance with project scope/delivery dates.
+content	experience	  Participate in product design reviews to provide input on functional requirements, product designs, schedules, or potential
+content	others	problems.
+content	experience	  Demonstrates accuracy, thoroughness, and attention to detail at all times.
+content	experience	  Looks for ways to improve and promote quality; Applies feedback to improve performance; Monitors own work to ensure
+content	others	quality.
+content	experience	  Pursues training and development opportunities; Strives to continuously build knowledge and skills; Shares expertise with
+content	others	others.
+content	experience	  Meets productivity standards; Completes work in a timely manner; Strives to increase productivity; Works quickly.
+content	experience	  Displays original thinking and creativity; Meets challenges with resourcefulness; Generates suggestions for improving work;
+content	experience	Develops innovative approaches and ideas; Presents ideas and information in a manner that gets others' attention.
+content	experience	  A team leader: Balances team and individual responsibilities; Exhibits objectivity and openness to others' views; Gives and
+content	experience	welcomes feedback; Contributes to building a positive team spirit; Puts success of team above own interests; Able to build
+content	others	morale and group commitments to goals and objectives; Supports everyone's efforts to succeed.
+header	others	AREAS OF EXPERTISE INCLUDE...
+content	knowledge	Software Testing
+content	knowledge	Test Case Preparation & Execution
+content	knowledge	Quality Assurance & Control
+content	knowledge	Project Planning & Execution
+content	knowledge	Requirement Gathering
+content	knowledge	Developing Test Plans
+content	knowledge	Test Automation
+content	knowledge	Test Scripts Execution & Reporting
+content	knowledge	Bug Reporting
+content	knowledge	Defect Management
+content	knowledge	Test Case Management
+content	knowledge	Client Coordination
+header	knowledge	Databases:
+content	knowledge	Microsoft Technologies:
+content	knowledge	Java Technologies:
+content	knowledge	CI and Deployment
+content	knowledge	Testing Tools:
+content	knowledge	Tracking Tools:
+content	knowledge	Web Technologies:
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	Oracle, MS-Access, MySQL, MS SQL Server 2000/2005/2008, Other Databases
+content	knowledge	C#, VB.Net, SQL, ASP, VBScript, VB 6.0, Qt, HTML, C++, C
+content	knowledge	Java
+content	knowledge	Team City, TFS
+content	knowledge	NUnit, Selenium, SOAPUI, JMeter, Fiddler,Ranorex,Microsoft Test Manager, Postman
+content	knowledge	Jira, Mantis, Seapine TestTrack Pro.
+content	knowledge	Ajax, PHP, J-query, CSS, XML, JSP, Java Script, ASP, VBScript, HTML5
+content	knowledge	Open Source Technologies  Apache Server, MYSQL
+header	knowledge	Utility Software:
+content	knowledge	Systems:
+content	knowledge	MS Office, MS Visio
+content	knowledge	Windows (10, 8, 7, 9X, NT, 2000/2008 Server, XP), UNIX/LINUX
+header	others	ACHIEVEMENTS
+content	knowledge	  Recognized for designing & implementing UI test automation of Web Based Software, WebSuite and ArchiOffice using
+content	knowledge	Selenium and NUnit.
+content	experience	Efficiently leading a team of 3 and overseeing implementation of test automation of MVC4 cloud based application
+content	experience	Logged bug for Google Assistant where if a user sends  WhatsApp message to iPhone user via Google Assistant, Last seen
+content	others	stamp never works.
+content	experience	Logged bug for iCloud  Apple where if we get an email from Apple support it was displayed with HTML tags.
+content	experience	Logged bug for iOS Apple where Emoji were not working on standby phone mode.
+content	experience	Logged bug for WhatsApp messenger where search box was not working in starred messages on iOS.
+content	experience	Logged bug for WhatsApp messenger where repeated messages are displayed to a user where you are not participant
+content	others	anymore in a Group in iOS.
+content	experience	Logged bug for WhatsApp messenger where if you forward same message more than one time only one time it was getting
+content	others	displayed on iOS.
+content	experience	Logged bug for Hike messenger where if we click passbook and go to home screen and then come back, Hike messenger
+content	others	gets locked.
+header	experience	EMPLOYMENT
+content	experience	SDET –Quality Assurance, BQE SOFTWARE INC., J&K, India (www.bqe.com)
+header	others	Key Deliverables
+content	others	Since  May 2015
+content	others	Efficiently develop and execute plans for Security and Penetration test
+content	experience	  Accountable for preparing Test Scenarios, designing Test Cases for modules integration and system testing
+content	experience	  Accountable for developing Automated Functional Tests using QTP/UFT and Performance tests via JMeter
+content	experience	  Recognized for developing  automated
+content	experience	  Tests of Cloud-Based MVC4 Application in C# NUnit Framework and SQL
+content	experience	  Tests of web applications using Selenium
+content	experience	  Performance tests via JMeter
+content	knowledge	  Used several schemas and data comparison tools like Dtm, Dbdiff, RedGate for executing database conversion tests
+content	experience	Expertise in  performing automation of Cloud-Based Applications developed in C# -MVC4 using the NUnit Framework
+content	experience	Skilled in performing Black Box and White Box testing of Cloud, Mobile, web-based and Desktop Applications and also
+content	experience	execute automation test of web based applications using Sahi
+content	experience	  Responsible for programming, debugging and unit testing software modules according to the module specifications &
+content	knowledge	SRS
+content	experience	  Responsibe for CI of the software project using Team City and TFS.
+content	experience	Proactively  update  Team  Lead  &  Project  Manager  on  progress,issues  &  plan  further  developments  during  regular
+content	others	meetings
+content	experience	  Work closely with the testing team for bug fixing and also track/respond to the defects on the tracking system
+content	experience	  Hands on experience in preparing prototypes using  latest  technologies, explain pros & cons to the team and integrate
+content	experience	the same in the system
+content	others	  Accountable for communicating and  maintaining documents of the changes and additions to the software modules
+header	experience	Test Engineer, TECHMUTNAUQ TECHNOLOGIES, J&K, India (www.techmutnauq.com)
+content	others	July’14 –April’15
+content	othexperienceers	Preparation of Test Scenarios and Execution of Test Cases
+content	experience	Performed Automated Tests on System Modules
+header	project	PROJECTS HANDLED:
+header	project	1) Archioffice-(May 2015 – Mar 2016):
+content	project	ArchiOffice is a project management solution for architects. It is networkable, multi-user, device-agnostic software. It
+content	others	was created by architects, for architects, and has continued to evolve  to meet  the needs  of a growing worldwide
+content	others	customer base. ArchiOffice takes all the disparate pieces of information in your office and organizes them in a most
+content	others	remarkable  way  by  offering  solutions  such  as  contact  management,  document  management,  task  and  project
+content	others	management, time and expense tracking, billing and reporting.
+header	project	2)BillQuick-(May 2015-Jan 2017):
+content	project	BillQuick is a time and expense tracking, billing, project and business management solution.Initially used by
+content	others	architects and engineers, BillQuick has grown to be adopted by every type of service professional. Consultants,
+content	others	programmers, accountants, attorneys, contractors, etc. have all discovered the unmatched features and flexibility of
+content	project	BillQuick and made it their time billing solution. Virtually any company that tracks hours for job costing (and payroll)
+content	others	or bills by fixed fee, recurring amount, hourly, cost plus and variations will find strong value in BillQuick.
+header	project	3)WEBSUITE-(July 2015-To Present):
+content	project	Web Suite is an Internet or Intranet based program that extends the reach of BillQuick by allowing remote users to
+content	others	track their time and expenses, do billing, manage projects and business, run reports and so on. It uses the latest
+content	others	Microsoft® ASP.Net technology and is compatible with browsers such as Safari, Mozilla Firefox, and Internet Explorer
+content	others	for Windows® computers and Mac. The program links directly to your Web Suite Access or SQL Server database. The
+content	others	procedure is safe and can be setup on a secured server.Web Suite provides the main time and expense tracking,
+content	others	billing, project management, and reporting functionality. Using Internet browsers, you have the ability to create and
+content	others	review profiles of your activities, expenses, employees, clients and projects. This program enables you to log your
+content	others	time and expenses, submit and approve the entries, review and modify your invoices, etc. It's reporting, settings and
+content	others	preferences modules are a powerful and useful tool for project managers, company administrators and principals of
+content	others	a firm. This definitely helps in increasing the efficiency and productivity of any business concern. You are also able to
+content	others	implement Web Suite security settings and custom labels.
+header	project	4)Core-(Jan 2016-To Present): Core is a smart online business management solution for the professional services
+content	others	industry. It is a cloud-based, SaaS (software as a service) solution that handles all the Core functions of your
+content	others	company including time and expense tracking, project management, billing, accounting and reporting. Your data is
+content	others	always on the cloud with no local storage, whether you are using it from your desktop browser, laptop, mobile
+content	others	phone or tablet. With Core, you do not have to worry about software installation or backups. Giving you access
+content	others	anywhere through the Internet, it allows you to focus on your business instead of the technology aspects of hosting
+content	others	and managing a web-based application on your own servers. Implementation of Core is the right step towards
+content	others	increasing your business productivity and investing in technology that helps manage your business.
+content	others	Core is built using the latest technology and it integrates with other cutting-edge software and mobile technologies
+content	others	that have APIs. It uses Microsoft SQL Server Reporting Service to generate reports and invoices.
+header	project	ACADEMIC PROJECTS:
+header	project	Project#1:
+header	others	Role:
+header	knowledge	Technology used:
+content	project	Vehicle Registration System
+content	knowledge	SRS,Database Designer
+content	knowledge	Frontend: VB 6.0 Backend: SQL Server
+header	project	Project#2:
+header	others	Role:
+header	knowledge	Technology used:
+header	others	Description:
+header	others	Project#3:
+header	others	Role:
+header	knowledge	Technology used:
+content	project	Mobile Store
+content	knowledge	SRS, Database Designer,Programmer
+content	knowledge	Frontend: C#.NET Backend Support: Microsoft Access 2003 / 2007
+content	project	A Shopping Portal for Mobile Phones
+content	project	Kashmir House
+content	knowledge	SRS, Database Designer,Programmer
+content	knowledge	Frontend: C#.NET Backend Support (DB): MS-Access
+header	others	Description:
+content	project	It’s an electronic – Kashmiri Shawls, Carpets market. The project bridges the gap by providing an online
+content	others	marketplace for the Kashmiri Handicraft and dealers of Kashmir valley to reach  to  the  larger  markets
+content	others	around the world.
+content	project	E-Gas Seva
+header	others	Project#4::
+header	others	Role:                                       SRS,Database Designer,Programmer
+header	knowledge	Technology used:
+header	others	Description:
+content	knowledge	Frontend: C#.NET Backend Support (DB): SQL-Server
+content	project	E-Gas Seva is the Online Version of Shopping of Gas Products.
+content	education	  MCA (Software Development) from Guru Gobind Singh Indraprastha University in 2014 with 73.88%
+content	education	BCA  from Caset College, Kashmir University in 2011 with 65%
+header	education	ACADEMIC & TRAINING
+header	others	Date of Birth:
+header	others	Languages Known:
+header	others	Address:
+header	others	References:
+header	others	PERSONAL MINUTIAE
+content	others	22nd August 1989
+content	others	English, Urdu, Hindi & Kashmiri
+content	others	House No 300/301, Sector 1/B, Bemina, Srinagar, J&K, India
+content	others	Will be pleased to furnish upon request
+content	others	(MUDASIR HUSSAIN)

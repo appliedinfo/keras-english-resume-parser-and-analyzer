@@ -1,0 +1,48 @@
+content	Name	Aagib Habib
+content	Personal	Email: baagib2@gmail.com
+content	Personal	Mobile: 9797973600
+header	Label	Summary
+content	Work/Experience	2 years of experience in developing applications /MVC/SQL Server/ Android.
+content	Knowledge/Skill	.Net Platform
+content	Trait	Managing and supporting multiple projects.
+content	Knowledge/Skill	Analysis and design of databases and user interfaces.
+content	Trait	Highly adaptable in quickly changing technical environments with strong organizational and analytical skills
+header	Label	Skills Exposure
+content	Knowledge/Skill	Server Side Programming languages
+content	Knowledge/Skill	C#
+content	Knowledge/Skill	Database : SqlServer, mySqI
+content	Knowledge/Skill	Server Side technologies
+content	Knowledge/Skill	 Ado.Net
+content	Knowledge/Skill	Razor,Entity Framework
+content	Knowledge/Skill	Mobile technologies
+content	Knowledge/Skill	Android
+content	Knowledge/Skill	Client Side technologies
+content	Knowledge/Skill	 Html ,XML,CSS,Ajax,JavaScript,JQuery
+content	Knowledge/Skill	APls: Google maps, Facebook Login, Goog|e+ Signln, and Youtube.
+header	Label	Professional Exposure
+content	Knowledge/Skill	Good understanding on Net/ Android, SQL -Sever,ADO.NET, MVC, HTML,  CSS ,JavaScript ,Jquery ,JSON,C#. Faster ability to learn and understand New Technologies.
+header	Label	Academic Details
+content	Education/Qualification/Workshop	B. Tech in Computer Science & Engineering (Oct-2011 to Oct—2015) from University of Kashmir, jammu & Kashmir with 69.2% aggregate.
+content	Education/Qualification/Workshop	I have 72.9% in 12th and 76.6% in 10th Projects
+content	Work/Experience	Haleeb (Group - Magnatec)  2016— tilldate Domain : Manufacturing
+content	Knowledge/Skill	SqI-Server
+content	Knowledge/Skill	.Net‘
+content	Project	Haleeb is a cost effective and efﬁcient,Automated,Web Based solution to manual maintenance records of the manufactured products and bi—products of milk manufacturing industry.Company can maintain the records regarding the raw material purchased(Purchase Order),Products manufactured,cost inccuerd ,Sales order ,Shipment,maintenance , ﬁnancial transactions,Payment Payable,Payment Recievable.ln Addition to that customers can shop online to get their products delevered to their doorstep.|n short this application acts as an in— house as well as end to end online business solution to the milk manufacturing company
+content	Project	FreCher  January 2016 - March 2016 Domain : Internet
+content	Knowledge/Skill	 Android
+content	Project	Frecher “Freedom to Teacher” a product of SKOL system India is a mobile application that provides its afﬁliates with complete classroom study support for Senior Secondary Board examinations, PMT and IIT—JEE. Rooted in academic rigor, the courseware is scientiﬁcally designed by subject experts and is systematically divided into modules and sub—groups to aid thorough study. The tests are meticulously designed to integrate with the course programme on various parameters. Also, ranking software has been developed to generate students’ ranks at the batch, district, state and national levels, which gives an overview of the progress made by students as well as the mentors' success ratio.
+content	Project	FreCher provides a customized programme and schedule for its afﬁliates. A dedicated R&D team works around the clock to update and integrate the changes in curriculum in real time. Video resources available through FreCher  help clear doubts 24x7. All these features help students, teachers, promoters and entrepreneurs to not only realize their potential but raise the level of their results manifold.
+content	Project	https:L/p|ay.goog|e.com/store/apps/details?
+content	Project	Elocate (IAC) Domain : Internet
+content	Knowledge/Skill	 Android
+content	Summary/Objective	Emergency Communication “EC/eLocate" is a mobile application that runs on android based mobile devices. It provides user a procedure for response to emergencies that causes disruption to him. EC helps user to take desired help from a particular authority or department (Hospital, Police Station, Fire Station, Nearby Friends, etc.) depending on the type of emergency. It locates  the point of interest (POls) on a map and retrieves information about point of interest such as contact number, e—mail id, etc.
+content	Project	Play Store id=com.e|ocate.eca
+header	Label	Work Experience
+content	Work/Experience	Software Developer at IAC Software Solutions From 06—08—2015 to Feb 2016
+content	Work/Experience	Software Developer at Group Magnatec From July 2016 to Present
+header	Label	Personal Profile
+content	Name	Aaqib Habib
+content	Label	Name:
+content	Personal	Current Address: MirjanPora Nawa kadal Srinagar J&K ,190002  Permanent Address: MirjanPora Nawa kadal Srinagar J&K ,190002 Date of birth: 20—May—1993  Languages known: English, Urdu, Kashmiri Phone no. : 9797973600  E-mail : baagib2@gmai|.com
+content	SpokenLanguage	Kashmiri
+content	Name	Aaqib Habib

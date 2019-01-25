@@ -1,0 +1,21 @@
+header	others	Davoud Yousuf
+content	others	Barzullah, Srinagar, J&K – 190005 davoudyousuf@gmail.com +91 – 7006703932
+content	education	Masters in Information Technology (M.Sc. IT) at University Kashmir with excellent academic record and keen interest and practical exposure in the field of information technology & Management, especially Windows/web applications, custom designing solutions.
+content	education	MSc. Information Technology 2014-16
+content	others	University of Kashmir ,
+content	education	Graduation (Bachelor of Business Administration)
+content	education	University of kashmir, 75.2% 2011- 2013
+content	education	12th (Senior Secondary) 2009
+content	education	Jammu and kashmir Board of school Education, 75%
+content	education	10th (SecondaryExamination) 2007
+content	education	Jammu and kashmir Board of school Education, 70%
+content	experience	One Year Teaching Experience at IIPM Srinagar w.e.f June 2016 to July 2017.
+content	experience	Four month teaching Experience at Sri Pratap College, Srinagar w.e.f November 2017 to February 2018.
+content	knowledge	Java Technologies – Core Java, Advance Java, J2EE, Struts, EJB, JDBC.
+content	knowledge	Web Technologies – PHP,HTML/ CSS, JSP,UML.
+content	knowledge	Languages – C, C++, C#.
+content	knowledge	Database – Oracle, MS Access, MYSQL, & SQL server.
+content	knowledge	Operating system – Windows, Linux.
+content	knowledge	Servers – Tomcat , Apache, JBOSS.
+content	knowledge	Applications – MS office, FrontPage, crystal reports etc.
+content	others	Hobbies include reading, gaming, cricket, football, and writing.

@@ -1,0 +1,47 @@
+content	others	LIAQUN NISA
+content	others	IT Professional Graduate
+header	others	C A R E E R   O B JE C T I VE
+header	others	A B O U T  M E
+content	others	Self-motivated and hardworking fresher
+content	others	seeking for an opportunity to work in a
+content	others	challenging environment to prove my skills
+content	others	and utilize my knowledge & intelligence in the
+content	others	growth of the organization.
+content	others	Date of Birth: Sept 18, 1993
+content	others	Age: 25
+content	others	Gender: Female
+content	others	Birth of Place: Srinagar
+content	others	+91-9797757747
+content	others	Dalipora Kawdara
+content	others	qazi.liaqun@gmail.com
+header	others	A C A D EM I C  B A C K G R O U N D
+content	education	MASTERAL DEGREE – 2015 - 2018
+content	education	Master of Computer Application.(Results Awaited)
+content	education	University of Kashmir.
+header	projects	P R O J E C T S   C OM P L E T E D
+content	project	LIBRARY MANAGEMENT SYSTEM .
+content	project	Library Management System is a software used
+content	others	to manages the catalog of a library. This helps
+content	education	BACHELOR DEGREE – 2012 - 2015
+content	others	to keep the records of whole transactions of the
+content	others	books available in the library. It is very easy to
+content	others	use and fulfills all the requirement of a librarian.
+content	project	ANDROID SHOPPING APP (TOOKR).
+content	project	Having sentimental analysis for Product Rating
+content	project	using Logistic Regression  on amazon product
+content	others	reviews.
+content	project	FAKE NEWS DETECTION USING NAÏVE BAYES
+header	others	I N T E R E S T S
+content	education	Bachelor Of Computer Application.
+content	education	ICSC, University of Kashmir.
+header	knowledge	K E Y   S K I L L S
+content	knowledge	Language: C, C++, JAVA,
+content	knowledge	JavascriptHTML,CSS,Bootstrap,PHP,Python,
+content	knowledge	Android,Latex.
+content	knowledge	Database:  MySQL, Oracle  10g.
+content	knowledge	Operating Systems: MS DOS, Windows
+content	knowledge	98/2000/xp.
+header	knowledge	S K I L L S
+content	others	Creativity
+content	others	Imaginative
+content	others	Communication

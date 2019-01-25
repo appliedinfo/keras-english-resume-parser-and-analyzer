@@ -1,0 +1,76 @@
+content	Personal	Nationality: India Location: Jammu and Kashmir
+content	Personal	Contact: +91 - 9906925025 +91 - 7006151621
+content	Label	Email:
+content	Personal	mzhemraan@gmail.com
+content	Name	lmran Nisar Hakiem
+header	Label	Executive Summary
+content	Work/Experience	I have more than 5 years of IT experience working extensively as Software Engineer/ Web Developer with diversiﬁed experience in Software analysis, design, development, testing and deployment. Have extensive development experience in web-based and client-server  applications.
+content	Work/Experience	Highlights of his professional experience are mentioned below:
+content	Work/Experience	0 Expertise in full software development life cycle (SDLC) with speciﬁc expertise in .Net technologies, C# , ASP.Net,JavaScript, JSON, Jquery, HTML, HTML5, Bootstrap, mdbootstrap, CSS and C553. 0 Skills in development and back-end programming with speciﬁc skills in SQL Server 2005/2008. 0 Skills of AJAX technology. Skills of XML technology. Expert in Visual Studio.Net, user interface design. Good experience with Web Services. Skills of Asp.Net. Experience in RDBMS such SQL SERVER 2005/2008/2012/2017. Database Design, Creation of Databases, Tables, Views, Stored Procedure. 0 Quick Learner with a sound understanding of latest computer system techniques and practices. 0 Excellent technical problem solving and code debugging skills. 0 Excellent communication skills and ability to learn new technologies. 0 Worked extensively on web service. 0 Working knowledge of open source Web Content Management (CMS) framework like Wordpress - for building websites. 0 Evaluate and recommend new technologies to satisfy business and VT requirements. 0 Publishing and maintain websites and applications.  OOOOOO
+header	Label	Trainings:
+content	Education/Qualification/Workshop	0 Two Month Training at Kerrox Technologies Rajouri garden, New Delhi, India.
+header	Label	Primary Skills
+content	Knowledge/Skill	Skills Operating Platforms
+content	Knowledge/Skill	Experience  Windows 95/98, Windows NT, Windows XP, Windows 2003, Windows Vista, Windows 7, Windows 8, Windows 10 ASP.Net, AJAX, SQL, HTML, HTML5, JavaScript, Jquery, JSON, Net Framework 2.0, 3.5,4,4.5 ASP.NET,  C#, .NET, ADO.NET, Web Services, XML, Visual SVN.  MS SQL Server 2005, 2008, 2012
+content	Knowledge/Skill	Development Tools, Application Servers & Languages
+content	Knowledge/Skill	Databases
+header	Label	Proiect Experience
+content	Project	June 2018 - Current http://www.phekashmir.co India m
+content	Project	Title: phekashmir
+content	Work/Experience	Company: NITS Role: Developer (Full Time). Team-Size: 1
+content	Project	Description: The proposed system (phekashmir) is an Information Portal, designed for the use of general public to ﬁnd information pertaining to Phe Dept. ofjammu and Kashmir Government and in a well laid out format that is logical and does not confuse the users.
+content	Knowledge/Skill	Environment: User N-Tier architecture, Asp.net 4.5, C#, Ajax, XML, Visual SVN, jQuery Framework, SQL Server 2008.
+content	Work/Experience	Responsibilities: 0 Design, Develop the user interface. 0 Designing and coding database tables to store the application’s data and used stored  procedures and views to retrieve data. 0 Prepare functional and technical requirement documents.  0 Follow the architecture guidelines and standards throughout the process.
+content	Work/Experience	Nov 2015 - May 2018 http://ezksa.com _
+content	Project	Title: EZKSA
+content	Work/Experience	Company: Snowﬂakes Software Solutions Role: Sr. Developer (Full Time). Team-Size: 7
+content	Project	Description: The proposed system (EZKSA) is an Information Portal, designed for the use of general public to ﬁnd information pertaining to Government, Diplomatic, Commercial and Services Sectors easily and in a well laid out format that is logical and does not confuse the users. And also the information related to Government and Diplomatic Sectors is updated and maintained by the EZKSA administration while all other information is added by the users which include individuals as well as owners of the commercial organizations and the  service providers
+content	Knowledge/Skill	Environment: User N-Tier architecture, Asp.net 4.5, C#, Ajax, XML, Visual SVN, jQuery Framework, SQL Server 2008, GIS Map services.
+content	Work/Experience	Responsibilities: 0 Design, Develop the user interface. 0 Designing and coding database tables to store the application’s data and used stored  procedures and views to retrieve data. 0 Prepare functional and technical requirement documents.  0 Follow the architecture guidelines and standards throughout the process.
+content	Work/Experience	Feb 2015 - Oct 2015 Web Study Centre India
+content	Label	Responsibilities:
+content	Work/Experience	Asp.net Trainer
+content	Work/Experience	March 2013 - jan 2015 Inﬁnity Solutions India
+content	Project	Title: Touristay.
+content	Work/Experience	Role: Technical Lead (Full Time). Team-Size: 4
+content	Project	Description: A web based Open Source (Wordpress), Deciding on which hotel to choose from the hundreds of hotels is no easy feat if you are new to a Place. Each person has their own individual way for choosing their hotel. To help you ﬁnd your hotel as quickly as possible Touristay has organized the hotel information on map locations and mere click on a particular area provides you the list of hotels in that area to choose from. Once you make your choice on a mere click you get all the information regarding the hotel and booking can be done instantly. Many word-press plug—in have been used in this website.
+content	Knowledge/Skill	Environment: Word-press, My SQL
+content	Work/Experience	Responsibilities:  0 Prepare functional and technical requirement documents. 0 Design, Develop and Testing of the application.  0 Code Review.
+content	Project	Title: Buyinkashmir.
+content	Work/Experience	Role: .Net Developer (Full Time). Team-Size: 7
+content	Project	Description: Buyinkashmir is an intended online pharmacy portal, ﬁrst of its kind in the state ofJammu and Kashmir, to sell authenticated medicines with genuine invoices at horizontally discount rates.
+meta	Knowledge/Skill	Environment: User N-Tier architecture, JavaScript, Asp.net 3.0, Microsoft SQL Server (2008)
+header	Work/Experience	Responsibilities:  0 Design, Develop the user interface.  0 Prepare functional and technical requirement documents.  0 Testing of the application.  0 Code Review.  0 Designing and coding database tables to store the application’s data and used stored  procedures and views to retrieve data.
+content	Work/Experience	July 2012- Feb 2013 TMU Diagnostic Center India
+content	Work/Experience	Role: .Net Developer and Tech Support (Full Time).
+content	Work/Experience	Responsibilities:  0 Monitoring and maintaining the computer systems.  0 Networks of an organization.  0 Installing and conﬁguring software in computer systems.
+content	Work/Experience	Sep 2011 — June 2012 Academic Project India
+content	Project	Title: Student Registration System.
+content	Work/Experience	Role: .Net Developer (Full Time). Team-Size: 3
+content	Project	Description: The proposed system is an intranet based web-application which can be accessed on local network of university. The application automatically generates Unique Registration Numbers, Enrollment Numbers and Roll Numbers generate reports, lists etc. New schools/departments can be added dynamically, new courses can be registered dynamically, semester details, subject details, conﬁguration of employee/faculty accounts, student details etc. are some of the tasks that can be handled by the proposed system.
+content	Knowledge/Skill	Environment: User N-Tier architecture, JavaScript, JQuery, Asp.net, SQL Server 2008
+content	Work/Experience	Responsibilities: 0 Prepare functional and technical requirement documents.
+content	Knowledge/Skill	0 Design, Develop and Testing of the application.  0 Code Review.  0 Designing and coding database tables to store the application’s data and used stored procedures and views to retrieve data.
+header	Label	Education and Certiﬁcations
+content	Education/Qualification/Workshop	Certiﬁcations Degree Masters In Computer Application BSC.
+content	Education/Qualification/Workshop	Subject(s) Computer Science
+content	Education/Qualification/Workshop	Year of passing 2012
+content	Education/Qualification/Workshop	Math, Electronics, Physics & General English Math, chemistry, Physics & General English General English, Science, Math, Social Science and Urdu
+content	Education/Qualification/Workshop	2007
+content	Education/Qualification/Workshop	HSE
+content	Education/Qualification/Workshop	SSE
+header	Label	Achievements & Work Experience :
+content	Work/Experience	Working at niits as a Developer.  Working at Mateensoft Solutions as a part time Developer.  Worked at Snowﬂakes Software Solutions as a Web Developer.  Worked at Inﬁnity Solutions as a Web Developer.  Worked as trainer at Web Study Centre Barzulla for 8 months.  Worked at TMU as Developer and Tech Support for 8 months.  Worked as trainee in Web Development at Snowﬂakes Software Solution.  Worked as a Team-Leader (Procurement & Logistic team) in the ﬁrst national IT festival  "VastoorVan Tech Fete” held in Kashmir at Islamic University of Science & Technology. 0 Worked as AUDITOR in AIR-TEL in Srinagar Kashmir for a period of 6 months. 0 Assisted in the computerization of one of the branches of J&K BANK LIMITED.  OOOOOOOO
+content	Label	Full Name
+content	Label	Marital Status
+content	Name	Imran Nisar Hakiem
+content	Personal	Unmarried
+content	Personal	Date of Birth
+content	Personal	+91-9906925025 +9l-700615l621
+content	Personal	27-07-1986 Indian
+content	Personal	Contact
+content	Label	Nationality
+content	Personal	28/6 Naidyar Rainawari Srinagar, Kashmir. 190003
+content	Personal	Jammu and Kashmir
+content	Label	Permanent Address
+content	Label	Current Location

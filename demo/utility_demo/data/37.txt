@@ -1,0 +1,52 @@
+content	others	HUJAT UL ISLAM BEIGH
+content	others	Umar Colony, Lal Bazar
+content	others	Srinagar Jammu and Kashmir, India 190023
+content	others	hujatslaveofallah@gmail.com
+content	others	+91 7006 079 892
+content	education	BACHELORS OF COMPUTER APPLICATIONS (SPECIALIZATION IN DATABASE)
+header	education	EDUCATION
+content	education	UNIVERSITY OF KASHMIR, INDIA
+content	education	BACHELORS OF COMPUTER APPLICATION (BCA)
+header	others	PROGRAMMING , WEB DEVELOPMENT and DESIGNING)
+content	knowledge	BACK END LANGUAGE
+content	knowledge	FRONT END LANGUAGE
+content	knowledge	PHP, MYSQL, MYSQLi
+content	knowledge	HTML5, JAVASCRIPT, CSS
+content	knowledge	DATA BASE AND INFORMATION SYSTEMS
+content	knowledge	DYNAMIC WEBSITE DEVELOPMENT
+content	knowledge	RESPONSIVE WEBSITE DESIGN
+content	knowledge	RESEARCH INTERESTS
+header	project	PROJECTS DEVELOPED
+content	experience	Developer of http://www.blinkandtravel.com
+content	experience	Developer of http://www.touristhouseboat.com
+content	experience	Developer of http://www.touristkashmir.com
+content	others	OUTSTANDING COMMUNICATION AND PRESENTATION SKILLS
+content	others	EXCELLENT ABILITY TO QUICKLY LEARN AND GRASP NEW CONCEPTS, GENERAL OR
+header	others	ACHEIVEMENTS
+content	others	FIRST BATCH TOPPER OF ORACLE UNIVERSITY EXAMS HERE AT RATIONAL TABS
+content	others	TECHNOLOGIES.
+header	others	OTHER SKILLS
+content	others	TECHNICAL.
+content	others	ADAPTIVE.
+header	others	EXPERIENCE
+content	others	HAVING THE ABILITY OF TYPING WITH THE SPEED OF 30-35 WORDS PER MINUTE
+content	others	OPEN MINDED, CURIOUS, GOOD SOCIAL SKILLS, DYNAMIC, PROACTIVE, AMBITIOUS,
+content	experience	WORKING AT SOA WEB TECHNOLOGIES AS WEB DEVELOPER FROM PAST 3 YEARS.
+content	experience	WORKED AT TIMES COMPUTERS AS WEB DEVELOPMENT TRAINER .
+content	experience	WORKED AT PRISM CREATIONZ AS GRAPHIC DESIGNER.
+header	others	CONNECT ME
+content	others	Facebook: hujatbeigh
+content	others	LinkedIn: Hujat Ul Islam
+header	others	PERSONAL INFORMATION
+header	others	NATIONALITY
+header	others	PARENTAGE
+header	others	DATE OF BIRTH
+header	others	MARITAL STATUS
+header	others	LANGUAGE
+header	others	RELIGION
+content	others	INDIAN
+content	others	MOHAMMAD IQBAL BEIGH
+content	others	24-01-1992
+content	others	MARRIED
+meta	others	ENGLISH AND URDU.
+content	others	ISLAM

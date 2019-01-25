@@ -1,0 +1,75 @@
+content	others	wahdat jan
+content	experience	Android developer
+content	others	wahdat.kashmiri@gmail.com
+content	others	+918493901343
+content	others	Srinagar,jammu & Kashmir
+content	others	linkedin.com/in/wahdatkashmiri
+content	others	twitter.com/WahdatKashmiri
+content	others	github.com/wahdatkashmiri33
+content	others	stackoverﬂow.com/users/8205099/wahdat-kashmiri
+content	others	medium.com/@wahdat.kashmiri
+content	experience	Working as an Android Application Developer. I have been developing Apps as an amateur developer since 2017.
+header	experience	WORK EXPERIENCE
+content	experience	Android developer(Intern)
+content	experience	Rooman Technologies
+content	others	08/2018 – 11/2018
+header	knowledge	SKILLS
+content	knowledge	Android
+content	knowledge	java
+content	knowledge	Firebase
+content	knowledge	Arduino
+content	knowledge	Sqlite
+content	knowledge	Bangalore
+content	knowledge	Git
+content	knowledge	Github
+content	knowledge	Android architecture components
+content	knowledge	Advanced vocational Training in Telecom
+header	experience	Workplace/Company
+content	others	02/2018 – 03/2018
+content	experience	PATENTS
+header	project	PERSONAL PROJECTS
+content	project	IOT BASED SMART GAS LEVEL MONITORING SYSTEM &
+content	project	LEAKAGE DETECTION WITH AUTOMATIC BOOKING
+content	project	(05/2018 – 07/2018)
+content	project	Smartphone/RF remote controlled voltage stabilizer
+content	others	Filed(Filed Mar 4, 2016)PATENT NO 201611007646
+content	others	Gas leakage detection with vibrating pillow for
+content	others	leakage Notiﬁcation(Filed 10 OCT 2018)PATENT NO
+content	others	201811037969
+content	project	ONLINE FOOD ORDER APP USING FIREBASE
+content	others	(03/2018 – 05/2018)
+header	others	CERTIFICATES
+content	project	TRANSLATIONAL ANDROID APP(PUBLISHED TO
+content	project	PLAYSTORE) (08/2017 – 10/2017)
+content	project	FIREBASE FRIENDLY CHAT APP (05/2018 – 05/2018)
+content	project	SANDWICH CLUB CODE APP (06/2018 – 06/2018)
+content	project	MULTIDUINO(PUBLISHED TO PLAYSTORE)
+content	project	(01/2017 – 01/2017)
+content	project	POPULAR MOVIE APP(PUBLISHED TO PLAYSTORE)
+content	project	(07/2018 – 08/2018)
+content	project	BAKING APP (09/2018 – 09/2018)
+content	others	Android Developer Nanodegree Co created with
+content	others	Google (11/2018 – Present)
+content	others	Google India Challenge Scholarship
+content	others	(05/2018 – Present)
+content	others	Introduction to Modern Application Development
+content	others	(02/2018 – Present)
+content	others	Paper Presentation on IOT based smart gas
+content	others	monitoring system at a conference on software
+content	education	engineering and data sciences(CoSEDS 2018)
+content	education	University of kashmir (06/2018 – Present)
+content	education	Certiﬁcation of participation in the conference on
+content	education	software Engineering and data science
+content	others	(06/2018 – Present)
+header	education	EDUCATION
+content	education	Bachelors of Technology in Electronics
+content	education	Communication Engineering
+content	education	Institute of Technology, University of kashmir
+content	education	08/2014 – 07/2018
+content	experience	Android developer Nanodegree
+content	others	Udacity
+content	others	05/2018 – 11/2018
+header	others	LANGUAGES
+content	others	English
+content	others	Urdu
+content	others	Hindi

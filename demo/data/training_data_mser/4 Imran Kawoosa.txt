@@ -1,0 +1,76 @@
+content	Name	IMRAN KAWOOSA
+content	Personal	Firdous Colony, Buchpora Srinagar,J&K
+content	Personal	+91 7006303956
+content	Personal	kawoosaimran@gmail.com
+header	Label	PROFESSIONAL SUMMARY
+content	Work/Experience	13 years of hands-on experience in providing training and developing DotNet based windows and web applications.  0 Extensive knowledge and experience in Software Product Development and
+content	Work/Experience	Development and
+content	Knowledge/Skill	Production Support / Maintenance (Enhancements) of applications using ASP.NET 3.5/4.0/ ADO.NET, Visual C# .NET, GoogleMap Api, Jason, JavaScript, JQuery,
+content	Knowledge/Skill	JavaScript,
+content	Knowledge/Skill	JQuery,
+content	Knowledge/Skill	XML, HTML 5 and AJAX
+content	Work/Experience	Configured and Deployed a variety of
+content	Knowledge/Skill	.NET Framework Applications
+content	Knowledge/Skill	including Win Forms,
+content	Knowledge/Skill	Web Forms,
+content	Knowledge/Skill	Windows Services,
+content	Knowledge/Skill	Web Services and WCF
+content	Knowledge/Skill	Services.
+content	Work/Experience	Hands-0n experience with databases including SQL Server 2005, 2008R2,
+content	Knowledge/Skill	MySql
+content	Knowledge/Skill	Functions and database
+content	Knowledge/Skill	and involved in developing complex Stored Procedures,
+content	Knowledge/Skill	design.
+content	Knowledge/Skill	Expert in advanced development methodologies, tools and processes contributing to
+content	Knowledge/Skill	the design and rollout of cutting-edge software applications.  Known for excellent troubleshooting skills — able to analyze code and engineer well-
+content	Knowledge/Skill	researched, cost-effective and responsive solutions.
+content	Work/Experience	Experience in developing applications on Information Directory,
+content	Work/Experience	HealthCare,
+content	Knowledge/Skill	commerce domains using Dotnet technologies like ASP.Net, C#, SqlServer, Jquery
+content	Work/Experience	Expertise in Troubleshooting by Debugging of an application.
+content	Trait	Ability to work well in both a team environment and individual environment.
+content	Trait	Good work ethics with interpersonal skills, self-motivated, quick learner and team
+header	Label	EDUCATION AND CREDENTIALS
+content	Education/Qualification/Workshop	Advanced Diploma in Information Technology (DOEACC / NIELIT — Govt. of India)
+content	Education/Qualification/Workshop	Graduation (B.Sc) University of Kashmir
+header	Label	TECHNICAL TOOLS
+content	Knowledge/Skill	Databases: MySql, SQL Server 2005/2008 Reports: SQL Server reports  Tools: Telerik Controls, Kendo UI, Tortoise SVN. Web Servers: IIS 5.1, 6.0, 7.0, 7.5, 8.0.
+content	Knowledge/Skill	Langages: Java Script, HTML, XML, C, C++, C#, Jason  Technologies: Asp.Net, ADO.NET, Web Services, .NET Framework 2.0, 3.5, 4.0  Operating Systems: Windows 7/8/8.1, Windows XP/2000/2003 Server/2008 R2  Server/ 98
+header	Label	WORK HISTORY
+header	Label	ORGANIZATION NAME PLACE
+content	Label	JOB TITLE
+header	Label	DURATION
+content	Work/Experience	Centre Head (Software Development Trainer )  Software Developer
+content	Work/Experience	Adv.Training & Computer Systems  Nowhatta, Srinagar
+content	Work/Experience	May 2018 — Present
+content	Work/Experience	TECHCURVE Software & Services Pvt. Ltd.  Old Zero Bridge Srinagar     Adv.Training & Computer Systems  Nowhatta, Srinagar
+content	Work/Experience	Software Development Trainer
+content	Work/Experience	May 2009 — May 2017
+content	Work/Experience	Projacs International Qatar  NICT HazratBaI, Srinagar
+content	Work/Experience	Document Controller I IT Adm.
+content	Work/Experience	Sep 2007 — June 2009
+content	Work/Experience	Aug 2004 — Feb 2006
+content	Work/Experience	Facuﬂy
+content	Name	Imran Kawoosa Page 2 of 3
+header	Label	KEY PROJECTS UNDERTAKEN
+content	Project	QuantumBill
+content	Project	Description:  QuantumBill is a user-friendly billing software that operates in real time designed for business dealing with travel. The purpose of this application is to let user generate invoices/bills that too without any professional accounting knowledge  Tools [Technologies Used:  C#,ADO.NET SqlServer 2008-R2, .NetFrameWork 3.5, lnfragestics Controls
+content	Knowledge/Skill	.NetFrameWork 3.5, Infragestics Controls
+content	Project	Goldenharvesttravels.com
+content	Project	Description: A web portal of Tour and Travel Agency Tools [Technologies Used:  Asp.NET,ADO.NET Java Script, HTML, C#, Jason, Jquery, Webservices, Google-Map APi's, SqlServer 2008-R2, .NetFrameWork 3.5
+content	Project	Qnskashmir.com
+content	Project	Description: It is a web application for a news agency. Tools [Technologies Used:  Asp.Net, Java Script, HTML, C#, Jason, Jquery, Webservices, GoogIe-Map APi's , SqlServer 2008—R2, .NetFrameWork 4.0
+content	Knowledge/Skill	APi'S
+content	Label	Other Projects
+content	Work/Experience	Besides these projects have worked on a lot of projects as a freelancer and have guided numerous students for developing their B.Tech. / M.C.A Projects.
+content	Label	Some of the projects are as
+content	Project	School Management System, e-service book, online management system, Fund office, Virtual class room .
+header	Label	ADDITIONAL INFORMATION
+content	Personal	Driving Lic. N0.
+content	Personal	JK-0120140091186
+content	Personal	Marital Status
+content	Personal	Married
+content	SpokenLanguage	English, Urdu, Kashmiri.
+content	Personal	Date of Birth
+content	Personal	23rd March 1977
+content	Name	Imran Kawoosa Page 3 of 3

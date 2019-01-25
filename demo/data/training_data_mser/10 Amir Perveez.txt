@@ -1,0 +1,38 @@
+content	Name	Amir Perveez
+content	Personal	Mufti Bagh Harwan,
+content	Personal	Mobile: 7889759313  E-mail: amirpervee2123@gmai|.com Github url:  httpﬂgithub.com[amirperveez
+content	Personal	Srinagar, Jammu & Kashmir
+content	Personal	Pin- 191123.
+content	Summary/Objective	Career Objective     Seeking a position to utilize my skills and abilities in the information technology industry that offers professional growth while being resourceful particularly in UI, UX.  Educational Qualiﬁcation
+content	Education/Qualification/Workshop	Masters of computer applications
+content	Education/Qualification/Workshop	may 2017,
+content	Education/Qualification/Workshop	Punjab Technical University, Punjab, India.
+content	Education/Qualification/Workshop	Bachelor in computer Applications
+content	Education/Qualification/Workshop	may 20,
+content	Education/Qualification/Workshop	Punjab Technical University, Punjab, India. Academic Projects
+content	Project	Project Name: Medico linea
+content	Work/Experience	6 months
+content	Work/Experience	Team Size: 4
+header	Label	Description:
+content	Project	This is a web based project which provides patients Facility to book online appointment with the doctor of their choice.
+content	Label	Role:
+content	Knowledge/Skill	Wrote front end code using html, css and JavaScript Wrote business logic code in php  Wrote data base queries in Mysql  Integrated the code of the team members in the project Worked as team leader
+content	Project	Project Name: smart ride Duration: 3 months  Team size: 2 Description:
+content	Project	This is a web based store that provides world class shopping experience and bike ride at lowest price.  Role: D Wrote front end code using Php, Mysql, WordPress and HTML Wrote business logic code in php Wrote Database queries in Mysql Wrote code in Xamp  Integrated 3rd party templates and plug-ins the code of the project Worked as Team lead  |:ll:ll:ll:ll:l
+content	Project	Project Name: Customer Relationship Management
+content	Work/Experience	Team Size: 2 Role:
+content	Knowledge/Skill	Wrote front end code using html5, css,bootstrap and JavaScript Wrote business logic code and Models in c#  Wrote data base queries in Mysql  Integrated the code of the team members in the project Worked as team leader
+content	Project	Other than above projects I had also worked on small projects like:
+content	Project	|-|  Simple login and signup using PHP.  2. Simple htm|5 canvas (Draw a triangle, Drag a triangle, 3.Drop a triangle and Double click to delete a triangle).  3. Simple login and signup using html and css design  4. Simple upload, read and download ﬁle using java script.  Technical Skills  OperatmgéystemAMmdews, Linux Applications: MS- ofﬁce, Photoshop  Skills: HTML5, JavaScript, css, php, Bootstrap Mysql,asp.net,C# Others: AdobephotoshopCS4
+content	Trait	Extra Co-curricular activities     Participated in Inter College cultural activities & debate competition. Participated in art of living (yoga). Participated in modelling (fashion show).
+content	Trait	Positive Traits  Believe in hard working.
+content	Trait	Conﬁdent.
+content	Interest/Hobby	Interests and Hobbies     Reading Newspaper
+content	Interest/Hobby	Playing cricket
+content	Interest/Hobby	Listing soft music.
+content	Personal	Personal Details  Date of Birth: 20-sept—1989
+content	Personal	Marital status: Single
+content	SpokenLanguage	Linguistic capability: Hindi, English, Kashmiri
+content	Personal	Father's Name: Mr.Parveez Ahmad dar
+content	Others	I hereby declare that the information furnished above is true to the best of my knowledge.
+content	Name	Amir Parveez

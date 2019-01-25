@@ -31,12 +31,26 @@ class AnnotatorGui(Frame):
     def build_line(self, table_content, line_index, line):
         line_content = line[0]
 
-        line_index_label = Label(self.master, width=10, height=1, text=str(line_index))
-        self.master.create_window(50, line_index * 60, height=60, width=80, window=line_index_label)
+        
+        line_type_button = Button(self.master, text="Type: Unknown", width=20,
+                                  command=lambda: line_type_button_click(line_index))
+        # self.master.create_window(2200, line_index * 60, height=60, width=300, window=line_type_button)
+        self.master.create_window(0, line_index * 60, height=60, width=300, window=line_type_button)
 
-        line_content_text = Text(self.master, width=50, height=1)
+        line_label_button = Button(self.master, text='Label: Unknown', width=20,
+                                   command=lambda: line_label_button_click(line_index))
+        # self.master.create_window(2500, line_index * 60, height=60, width=300, window=line_label_button)
+        self.master.create_window(300, line_index * 60, height=60, width=300, window=line_label_button)
+
+        line_index_label = Label(self.master, width=10, height=1, text=str(line_index))
+        self.master.create_window(490, line_index * 60, height=60, width=80, window=line_index_label)
+
+
+        line_content_text = Text(self.master, width=30, height=1)
         line_content_text.insert(INSERT, line_content)
-        self.master.create_window(1100, line_index * 60, height=60, width=2000, window=line_content_text)
+
+        self.master.create_window(1520, line_index * 60, height=60, width=2000, window=line_content_text)
+
 
         def line_type_button_click(_line_index):
             line_type = table_content[_line_index][1]
@@ -50,12 +64,23 @@ class AnnotatorGui(Frame):
             table_content[_line_index][2] = line_label
             line_label_button["text"] = "Type: " + line_labels[line_label]
 
-        line_type_button = Button(self.master, text="Type: Unknown", width=20,
-                                  command=lambda: line_type_button_click(line_index))
-        self.master.create_window(2200, line_index * 60, height=60, width=200, window=line_type_button)
-        line_label_button = Button(self.master, text='Label: Unknown', width=20,
-                                   command=lambda: line_label_button_click(line_index))
-        self.master.create_window(2400, line_index * 60, height=60, width=200, window=line_label_button)
+        
+
+        # def key(event):
+        # # print("pressed",event.char)
+        # # global root
+        # if ord(event.char)==27:
+        #     # process_output()
+        #     root.quit()
+        # elif event.char=='1':
+        #     key_fxn()
+        # elif event.char=='v' or event.char=='V':
+        #     value_fxn()
+        # else:
+        #     pass
+        # self.master.bind('1',lambda: line_type_button_click(line_index))
+        # self.master.bind('2',lambda: line_label_button_click(line_index))
+        
         if line[1] != -1:
             line_type_button["text"] = "Type: " + line_types[line[1]]
         if line[2] != -1:
@@ -89,6 +114,7 @@ def gui_annotate(training_data_dir_path, index, file_path, file_content):
     root.rowconfigure(0, weight=1)
     root.geometry("{0}x{1}+0+0".format(root.winfo_screenwidth(), root.winfo_screenheight()))
 
+    # root.bind("<Key>", key) 
     canvas = Canvas(root, width=170, height=300)
     vsb = Scrollbar(root, orient="vertical", command=canvas.yview)
     hsb = Scrollbar(root, orient="horizontal", command=canvas.xview)
@@ -100,10 +126,28 @@ def gui_annotate(training_data_dir_path, index, file_path, file_content):
     table_content = [[line, guess_line_type(line), guess_line_label(line)] for line in file_content]
     gui = AnnotatorGui(canvas, table_content)
 
+    # def key(event):
+    #     # print("pressed",event.char)
+    #     # global root
+    #     # if ord(event.char)==27:
+    #     #     # process_output()
+    #     #     root.quit()
+    #     # elif event.char=='k' or event.char=='K':
+    #     #     key_fxn()
+    #     # elif event.char=='v' or event.char=='V':
+    #     #     value_fxn()
+    #     # else:
+    #     #     pass
+    #     gui.key(event,root)
+
     def callback():
         root.destroy()
-        output_file_path = os.path.join(training_data_dir_path, str(index) + '.txt')
-        if os.path.exists(output_file_path) and os.path.getsize(output_file_path) > 1:
+        # output_file_path = os.path.join(training_data_dir_path, str(index) + '.txt')
+        output_file_path = os.path.join(training_data_dir_path, index + '.txt')
+        # print(output_file_path)
+        # print(table_content)
+        if os.path.exists(output_file_path) and os.path.getsize(output_file_path) > 1 : #
+            # print(len(table_content))
             return
 
         # while(os.path.exists(output_file_path)):
@@ -151,15 +195,18 @@ def main():
     current_dir = current_dir if current_dir is not '' else '.'
 
     data_dir_path = current_dir + '/data'  # directory to scan for any pdf files
-    
-    training_data_dir_path = current_dir + '/data/training_data'
-    collected = read_pdf_and_docx(data_dir_path, command_logging=True, callback=lambda index, file_path, file_content: {
-        gui_annotate(training_data_dir_path, index, file_path, file_content)
-    })
-
-    # collected = read_pdfs(data_dir_path, command_logging=True, callback=lambda index, file_path, file_content: {
+    # method 1 (simple text extraction)
+    # training_data_dir_path = current_dir + '/data/training_data'
+    # collected = read_pdf_and_docx(data_dir_path, command_logging=True, callback=lambda index, file_path, file_content: {
     #     gui_annotate(training_data_dir_path, index, file_path, file_content)
     # })
+
+
+    # method 2 (mser)
+    training_data_dir_path = current_dir + '/data/training_data_mser'
+    collected = read_pdfs(data_dir_path, command_logging=True, callback=lambda index, file_path, file_content: {
+        gui_annotate(training_data_dir_path, index, file_path, file_content)
+    })
 
 
     print('count: ', len(collected))

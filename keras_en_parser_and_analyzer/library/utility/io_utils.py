@@ -20,7 +20,9 @@ def read_pdf_and_docx(dir_path, collected=None, command_logging=False, callback=
                 txt = pdf_to_text(file_path)
             if txt is not None and len(txt) > 0:
                 if callback is not None:
-                    callback(len(collected), file_path, txt)
+                    # callback(len(collected), file_path, txt)
+                    file_name=f.split('.')[0]
+                    callback(file_name, file_path, txt)
                 collected[file_path] = txt
         elif os.path.isdir(file_path):
             read_pdf_and_docx(file_path, collected, command_logging, callback)

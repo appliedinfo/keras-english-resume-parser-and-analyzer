@@ -1,0 +1,66 @@
+content	others	SHAFAUTH MANZOOR
+content	others	MOMINABAD  BATAMALOO,
+content	others	SRINAGAR.
+header	others	KEY STRENGHTS
+content	others	A firm believer in hard work,
+content	others	open to all kinds of
+content	others	challenges.
+content	others	Job commitment.
+content	others	Leadership skills, ability to
+content	others	influence and handle people
+content	others	Self-confidence.
+content	others	Hardworking, quick
+content	others	grasping power dedicated
+content	others	and devoted. Teamwork.
+content	others	Good at practical.
+content	others	Fun loving and easy going.
+content	others	PHONE
+content	others	+918491811354/
+content	others	9906695250
+header	others	EMAIL
+content	others	smanzoor93@gmail.com
+header	others	PERSONAL DETAILS
+content	others	Father’s Name: Late Manzoor
+content	others	Ahmad Khan
+content	others	Mother’s Name: Mehmooda Akhter
+content	others	Date of Birth     : 10/04/1993
+content	others	Gender
+content	others	: Female
+header	education	EDUCATION
+meta	others	Course
+header	education	Institute name
+content	education	University/Board
+content	education	M.Sc. IT
+content	education	University of Kashmir
+content	education	University of Kashmir
+content	education	MTTM
+content	education	Govt. Degree College Sopore
+content	education	IGNOU
+content	education	B.Sc (Non-Med)  S.P College
+content	education	University of Kashmir
+content	education	BTS
+content	education	S. P College
+content	education	IGNOU
+meta	others	TECHNICAL
+header	others	SKILLS
+content	knowledge	  Six months basic computer course
+content	knowledge	  AutoCAD
+header	others	CAREER OBJECTIVE
+content	others	  To work in a competitive and challenging working environment.
+content	others	  To contributes to the best of ability towards the growth of the
+content	others	Organization.
+content	others	  To fully utilize my interpersonal and academic skills and thereby.
+content	others	  Learning continuously to purse a rewarding career.
+header	projects	PROJECTS
+content	project	  Diabetes Prediction System.
+content	project	Impact of 2016 Unrest on Marketing of Tourism Destination with special
+content	project	reference to Gulmarg.
+content	project	  A study of cultural tourism and socio-economic Features of people of
+content	project	tehsil Handwara.
+content	project	  Scope of Wildlife Tourism in Kashmir. “A case study of Dachigam
+content	project	National Park”.
+content	others	Nationality        :   Indian
+content	others	Languages         : English,urdu,Hindi
+content	others	&  Kashmiri
+header	others	DECLARATION
+content	others	I, hereby declare that the above given information is true to the best of my knowledge.

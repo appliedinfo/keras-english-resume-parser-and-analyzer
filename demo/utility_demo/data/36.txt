@@ -1,0 +1,33 @@
+content	others	Mohammad Taha Hussain Bhat +91-9596413223
+header	others	Career Objective
+content	others	Eager to work in a challenging environment to prove my skills and utilize my knowledge to succeed in an environment of growth and excellence and earn a job which provides job satisfaction and self-development and helps me achieve personal as well as organizational goals.
+header	knowledge	Key Skills
+content	knowledge	Cloud Platform: Azure Administration (IAAS & PAAS)
+content	knowledge	Working knowledge of Azure cloud computing environment.
+content	knowledge	Working knowledge of Azure IaaS, Provisioning VM’s, Virtual Hard disks, Virtual Networks.
+content	knowledge	Working knowledge of Creating Storage, Backup.
+content	knowledge	Working knowledge of creating and managing of VM machines and setting up of availability set, load balancers.
+content	knowledge	Create and Manage blob, File storage accounts
+content	knowledge	Working Knowledge of ARM Templates.
+content	knowledge	Working Knowledge of Docker Containers, and setting up of docker swarm.
+content	knowledge	Working Knowledge of Git Source Control, Git Bash, Git Branching and Branch Policies.
+content	knowledge	Working Knowledge of setting up of CI/CD using Azure DevOps build and release pipelines.
+content	knowledge	Working Knowledge of setting up of CI/CD using Jenkins.
+header	knowledge	Skills
+content	knowledge	C#, PowerShell, Azure, Jenkins, Docker, Git, MS Unit Tests
+header	others	TOOLS
+content	knowledge	VS Code, VS 2017, Git Bash, Azure Storage Explorer.
+header	project	Academic Project
+content	project	Title: Embedded Web Server. Languages Used: Java, C in Aurdino. Platform Used: Aurdino Based Platform.
+content	project	Details: This Project presents a low cost and flexible controlling/monitoring system using an embedded micro-web server, with IP connectivity for accessing and controlling devices and appliances remotely using a web-based application. The proposed system does not require a dedicated server PC with respect to similar systems and offers a novel communication protocol to monitor as well as control the remotely connected environments with more than just the switching functionality.
+content	others	Strengths
+content	others	Good communication skills.
+content	others	Good knowledge of Core subjects
+content	others	Ability to grasp the new skills quickly.
+content	others	Hard-working.
+header	others	Academic Qualification
+header	others	Personal Profile
+content	others	Name : Mohammad Taha Hussain Bhat
+content	others	Father’s Name : Ashaq Hussain Bhat
+content	others	Date of Birth : 10 September 1991.
+content	others	Languages know : English, Urdu, Hindi and Kashmiri.

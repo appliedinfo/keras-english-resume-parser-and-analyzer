@@ -1,0 +1,43 @@
+header	others	CURRICULUM VITAE
+content	others	Mohammad Younis
+content	others	Address : 11 Mir Masjid Khanyar. email : Sheikhyounis.2020@gmail.com
+content	others	Skype id : Same as Email id Phone : 9149445622.
+header	experience	Experience : 6 years as IT ADMIN.
+header	experience	2 YEARS IN KSA AS IT INCHARGE. Cisco Qualification : CCNA /CCNP/CCIE
+header	experience	PROFESSIONAL SUMMARY
+content	others	An innovative multi disciplined solution oriented network professional possess huge experience with a consistent track record of designing implementing and integrating cost effective high performance technical solutions . Possessing a process driven mind set means I can work in fast paced commercial environment where quick decisions are required .
+header	experience	EXPERTISE’S CORE RESPONSIBILITIES
+content	experience	T Shooting . Assist employees in the office and retail outlet for all their desktop
+content	experience	Firewalls systems and applications requirements.
+content	experience	Patch Management . Responsible for up keeping company’s IT network ( LAN,WAN,VPN,
+content	experience	Internal Networks SERVERS, BIOMETRIC SYSTEMS AND CCTV ) peripherals updated .
+content	experience	Network Solutions . Working knowledge of current communication devices Routers and
+content	experience	Layer 1 2 3 Integrity Switches Firewalls and Protocols ( TCP/IP, POP3 ,SMTP ,HTTP etc )
+content	experience	. Configure LAN , ADSL and Leased line and VPN technology .
+content	experience	. Troubleshooting of Complex LAN/WAN infrastructure including
+content	experience	Routing protocols such as RIP, EIGRP ,OSPF, BGP, HSSRP,VVRP.
+content	knowledge	. Well versed knowledge of IP telephony including PABX systems .
+header	experience	EXPERIENCE ACHIEVEMENTS
+content	others	CNS INFOTEL Pvt Ltd.
+content	experience	Lal Chowk . . Best employee for the consecutive 5 months in
+content	experience	6 YEARS AS IT MANAGER. my organization.
+meta	experience	. Participated in cricket as captain in high school.
+header	knowledge	Technical Competences
+content	knowledge	Personal skills . Worked on L2 and L3 MPLS and internet related bandwidth issues.
+content	knowledge	Proactive attitude . Professional hands on experience on cabling and wireless networks.
+content	knowledge	Resourceful . Structured network cabling such as Fiber optics UTP Co axial installs.
+content	others	Team Player . Giving quality feedback to customers at all times.
+content	experience	Building Realtions. . Implementing security on network systems by enforcing policies .
+content	experience	. Providing L3 support to resolve complex faults on 24/7 basis.
+content	experience	. Acting as a network escalation point with in a network team.
+header	education	QUALIFICATIONS
+content	education	Commercial awareness 10TH FROM JKBOSE
+content	education	Customer service skills 12TH FROM JKBOSE
+content	education	Communication skills B.sc FROM KASHMIR UNIVERSITY.
+content	education	Data Management MBA IT FROM ASSAM UNIVERSITY
+content	knowledge	Rise above Pressure CCNA / CCNP/ CCIE FROM NETWORK BULLZ
+content	others	Coordinative .
+header	others	Language Proficiency Document Details
+content	others	ENGLISH, URDU . Passport No. : K 5106837
+content	others	KASHMIRI. . Issue date : 28/03/2012.
+content	others	. Expiry date : 27/03/2022.

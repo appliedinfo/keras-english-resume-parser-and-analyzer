@@ -1,0 +1,64 @@
+content	others	Irfan Rasheed
+content	others	+91 9018111800
+content	others	irfan66655@yahoo.com
+header	others	CAREER OBJECTIVE
+content	others	To work at a responsible level with an organization offering excellent work culture, providing ample opportunities for career growth and care for job responsibilities and satisfaction and help to reach the zenith of my profession. I am interested to execute every bit of my capability in your esteemed organization.
+header	experience	WORK EXPERIENCE
+content	experience	EAO IT SERVICES NOWGAM
+content	experience	software Developer Aug,2018 to current
+content	experience	Designed a website in content management system.
+content	experience	Handled php CRUD operation for dynamic database driven website.
+content	experience	Learned how to fetch data without refreshing the browser through Ajax & Jquery.
+content	knowledge	Proficient in designing and development frameworks like Bootstrap,Bulma & Css.
+content	knowledge	Learned how to make a web page responsive on different devices.
+header	knowledge	SKILL HIGHLIGHTS
+content	knowledge	php
+content	knowledge	Html
+content	knowledge	Css
+content	knowledge	Ajax
+content	knowledge	Bootstrap
+content	knowledge	Jquery
+content	knowledge	My Sql
+content	knowledge	Wordpress
+header	others	AREAS OF EXPERTISE
+content	knowledge	Responsive web development
+content	knowledge	Front end programming
+content	knowledge	User interfaces
+content	knowledge	Hardware(A+)
+content	knowledge	Coding work
+content	knowledge	Networking(N+)
+content	knowledge	Database Design
+content	knowledge	Object Oriented programming
+header	education	ACADEMIC DETAILS
+content	education	Masters in computer applications, 2017
+content	education	University of Kashmir Srinagar.
+header	project	PROJECT DETAILS
+content	project	Title : Online News Portal
+content	experience	Role : Front end Developer.
+content	knowledge	Front-end : Html, Css, Jquery, Bootstrap.
+content	knowledge	Back-end : Php, MySQL.
+content	others	Team Members : 03
+content	project	Description : Online News Portal is a web application which allows users to read up to date news related to many fields like Entertainment, National, International, Business, Politics, Sports, Education etc.
+header	knowledge	CORE COMPETENCIES
+content	others	Spirit of team work.
+content	others	Optimistic.
+content	others	Flexibility.
+content	others	Adaptability.
+content	others	Self-motivate.
+header	others	PERSONAL DETAILS
+content	others	Name : Irfan Rasheed.
+content	others	Father's Name : Abdul Rasheed Charloo.
+content	others	Date of Birth : 01/04/1991.
+content	others	Permanent Address : Rainawari Srinagar.
+content	others	State : Jammu and Kashmir.
+content	others	Mailing Address : Rainawari Srinagar.
+content	others	Gender : Male
+content	others	Languages Known : English, Urdu, and Hindi.
+content	others	Marital Status : Single
+content	others	Nationality : Indian
+content	others	State : Jammu and Kashmir.
+header	others	DECLARATION
+content	others	I do here-by declare and affirm that all the details given above are true and correct to the best of my knowledge and belief.
+content	others	Date:
+content	others	Place: Srinagar.
+content	others	Irfan Rasheed.

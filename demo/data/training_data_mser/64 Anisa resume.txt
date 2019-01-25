@@ -1,0 +1,26 @@
+content	Personal	Anjsa Nazjr  La] Bazar
+content	Personal	Umer Colony 13
+content	Personal	Srinagar
+content	Personal	Jammu
+content	Personal	& kashmjr
+content	Personal	Emai1_1'd: anisanazir7 7@gma1'1. com
+content	Personal	Contact 110: 96228 78393
+header	Label	Career Obiective:
+content	Summary/Objective	To secure a challenging position where I can eﬁ‘ectively contribute my skills as software professional. In addition, the scope for personal growth in terms of acquiring new skills and handling challenging tasks are also very critical in my choice of a career.
+header	Label	Educational Qualiﬁcation:
+content	Education/Qualification/Workshop	Pursuing Master of Computer AQQIica ti0ns(6”‘h semester )in university  of Kashmir North campus sgr BCA with an aggregate of 68%.
+header	Knowledge/Skill	Computer skills:
+content	Knowledge/Skill	Programming language.- C, 0+ +,]a va,ja vascrjpt,pnp Opera ting system .- Windo WS/Xp/7/8/1 0 Da tabase system: MySQL, Oracle, Ms Access
+header	Label	Pro iects Undertaken:
+header	Label	Title.-
+content	Project	Title: Sales Management system for BCA ﬁnal year (ka usar college of  computer sciences) Duration: 2 months  Platform: Vb
+header	Label	Professional traits:
+content	Trait	Willingness to work in team and hard worker. Disciplined & good etiquette.  Good sense of humor.  Ability to deal with people.  Give my 100% for achieving the goal.
+header	Label	Personal proﬁle:
+content	Personal	Name: Anise Nazjr Father’s Name.- Nazjr Ahmad Soﬁ  Date ofbjrth: 10june 1994 Gender: Female
+content	Personal	Contact No: 9622878393
+header	Label	Declaration:
+content	Trait	I hereby declare that the above mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above mentioned particular
+content	Name	Ma 06: Nazjr
+content	Personal	Srinagar
+content	Name	Anjsa

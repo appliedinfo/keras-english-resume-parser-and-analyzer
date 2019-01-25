@@ -9,6 +9,8 @@ class SegmentText(object):
         import cv2
         import sys
         import numpy as np
+        import pytesseract
+
 
         mser = cv2.MSER_create()
         img = cv2.imread(name)
@@ -88,10 +90,11 @@ class SegmentText(object):
         imgO = img.copy()
         # img = cv2.imread('mser/img.jpg')
         img = text_only.copy()
+        img0 = img.copy()
 
         gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
-        ret, thresh = cv2.threshold(gray, 240, 255,
+        ret, thresh = cv2.threshold(gray, 210, 255,
                                     cv2.THRESH_BINARY)
 
         kernel = np.ones((1, 1), np.uint8)
@@ -121,8 +124,8 @@ class SegmentText(object):
         bboxes = []
         for c in range(len(contours)):
             x, y, w, h = cv2.boundingRect(contours[c])
-            img0 = cv2.rectangle(imgO, (x, y), (x + w, y + h), (255, 0, 255), 2)
-            img = cv2.rectangle(img, (x, y), (x + w, y + h), (0, 255, 5), 2)
+            # img0 = cv2.rectangle(img0, (x, y), (x + w, y + h), (255, 0, 255), 2)
+            # img = cv2.rectangle(img, (x, y), (x + w, y + h), (0, 255, 5), 2)
             if [x, y, w, h] not in bboxes:
                 bboxes.append([x, y, w, h])
 
@@ -143,34 +146,83 @@ class SegmentText(object):
     #     cv2.imwrite(res, imgO)
 
         # return res
-        cv2.namedWindow('image', cv2.WINDOW_NORMAL)
-        cv2.imshow('image', imgO)
-        cv2.waitKey(0)
-        cv2.destroyAllWindows()
+        # cv2.namedWindow('image', cv2.WINDOW_NORMAL)
+        # cv2.imshow('image', imgO)
+        # cv2.waitKey(0)
+        # cv2.destroyAllWindows()
 
-        import pytesseract
         file_content=[]
         # print('11')
         if len(bboxes) == 0:
             return file_content
 
-        img3 = img0.copy()
+
+
+        # horizontal merging
+
+        # i = 0
+        # j = 0
+        # while i < len(bboxes):
+        #     j = i + 1
+        #     if not j < len(bboxes):
+        #         break
+        # #     print(i,j)
+        # #     print(abs(bb[i][1] - bb[i][3]) ,'--', frame.shape[0]/2)
+        #     if abs(bboxes[i][1] - bboxes[i][3]) > thresh.shape[0] / 2 or bboxes[j][1] - bboxes[j][3] > thresh.shape[0] / 2:
+        #         #         print(bb[i][1] - bb[i][3] ,'--', frame.shape[0]/2)
+        #         i = i + 1
+        #         continue
+
+        #     while j < len(bboxes):
+        #         if (bboxes[j][1] + 2 >= bboxes[i][1] and bboxes[j][3] - 2 <= bboxes[i][3]) or (bboxes[i][1] + 2 >= bboxes[j][1] and bboxes[i][3] - 2 <= bboxes[j][3]):
+        #             bboxes[i][0] = min(bboxes[j][0], bboxes[i][0])
+        #             bboxes[i][1] = min(bboxes[j][1], bboxes[i][1])
+        #             bboxes[i][2] = max(bboxes[j][2], bboxes[i][2])
+        #             bboxes[i][3] = max(bboxes[j][3], bboxes[i][3])
+
+        #             # bboxes = np.delete(bb, j, axis=0)
+        #             print(bboxes.pop(j))
+        #             j = j - 1
+
+        #         j = j + 1
+        #     i = i + 1
+
+        # cv2.namedWindow('image', cv2.WINDOW_NORMAL)
+        # cv2.imshow('image',imgO)
+        # cv2.waitKey(0)
+        # cv2.destroyAllWindows()
+
+        img3 = imgO.copy()
+        img2 = imgO.copy()
         for b in range(len(bboxes)-1,-1,-1):
             # print(b)
             x, y, x2, y2 = bboxes[b]
-            # img2 = cv2.rectangle(img2, (x, y), (x2, y2), (255, 0, 255), 2)
+            img2 = cv2.rectangle(img2, (x, y), (x+x2, y+y2), (255, 0, 255), 2)
+
+
 
             i=img3[y:y+y2,x:x+x2]
+            _,i =cv2.threshold(i,120,255,cv2.THRESH_BINARY)
+            # i = cv2.adaptiveThreshold(i,255,cv2.ADAPTIVE_THRESH_GAUSSIAN_C,cv2.THRESH_BINARY,11,2)
+            # i = cv2.threshold(i,127,255,cv2.THRESH_BINARY+cv2.THRESH_OTSU)[1]
+
+
             # cv2.namedWindow('image', cv2.WINDOW_NORMAL)
             # cv2.imshow('image',i)
-            # cv2.waitKey(0)
+            # cv2.waitKey(400)
             # cv2.destroyAllWindows()
 
             text=pytesseract.image_to_string(i)
             if text.strip() != '':
                 text=text.replace('\n',' ')
                 text=text.replace('\t',' ')
+                if text.startswith(':'):
+                    text=text[1:]
                 file_content.append(text)
+                # print(text)
+        # cv2.imwrite(name.split('/')[-1],img3)
+        cv2.imwrite(name,img2)
+
 
         return file_content
 

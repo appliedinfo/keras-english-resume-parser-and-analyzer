@@ -1,0 +1,25 @@
+header	others	Curriculum Vitae
+content	others	Mohd. Ashraf Dar
+content	others	Contact No.:9622695335/ 8491871222
+content	others	ashrafdard48@gmail.com
+content	others	Adress… Baliharen pattan
+content	others	District-- Baramulla
+header	others	Objective:
+content	others	To seek a challenging position in your reputed organization where my skills can be utilized in best way there by contributing in organization growth and also in my carrer.
+header	education	Educational Credentials
+content	education	BCA from Chaudhary Charan Singh University, Meerut.
+content	education	12TH from JKBOSE.
+content	project	Completed web designing project in INFOVISION ,Kashmir.
+header	exprerience	Experience
+content	experience	Two year experience in teaching at kashmir public vidayala mirgund pattan
+header	others	Computer Awareness:
+content	knowledge	Good knowledge of computer applications
+content	knowledge	MS-Word, Excel, Power Point.
+content	knowledge	HTML Language
+header	others	Hobbies:
+content	others	Watching movies, playing cricket and listening music.
+header	others	Languages known:
+content	others	English, Urdu & Kashmiri
+header	others	Co-curricular activities
+content	others	Active participant of various functions at college level.
+content	others	Mohd. Ashraf Dar.

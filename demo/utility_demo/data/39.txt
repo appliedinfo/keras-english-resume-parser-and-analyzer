@@ -1,0 +1,87 @@
+header	others	OBJECTIVE
+header	others	RESUME
+content	others	I S H F A Q
+content	others	H U S S A I N
+header	others	(C/O) Address:
+header	others	MOBILE:
+header	others	Email:
+content	others	BATAMALOO SRINAGAR
+content	others	9906507972/7006213687
+content	others	(ratherashfaq88@gmail.com)
+content	others	A  Great  Believer  In  Hardworking,  Looking  For  An  Opportunity  To  Render  Services  By  Utilizing  Skills  For  Effective
+content	others	Accomplishment  Of  The  Organization  Objectives,  To  Have  Professional  Growth  By  Doing  Best  And  Getting  Best  From  The
+content	others	Industry.
+header	experience	WORK
+content	project	1.  ALFURQAN COMPUTERS Website.
+content	project	2.  ASIAN THANG-TA FEDERATION Website.
+content	project	3.  JAMMU & KASHMIR THANG-TA ASSOCIATION Website.
+content	project	4.  RBS Travels Website with CMS (WWW.rbstravels.com)
+content	project	5.  Fajr construction Company Website and CMS (WWW.Fajrcon.co)
+content	project	6.  Golden Harvest Tours And Travels Website with CMS (www.goldenharvesttravels.com)
+content	project	7.  Ahmad Couture Fashion Website with CMS (www.AhmadCouture.com )
+content	project	8.  Travel hunks website with CMS (www.travelhunks.com )
+content	project	9.  Quick News Service Website ( www.qnskashmir.com )
+content	project	10. Kader Exports Pvt. Ltd. Erp Software  (www.kelp.pg-erp.com)
+content	project	11. Craft India Paper Mill Erp Software    (www.cipmpl.pg-erp.com)
+header	project	PROJECTS
+content	project	  ONLINE COLLEGE MANAGEMENT SYSTEM   (MCA PROJECT)
+content	project	  ONLINE VISIT MONITERING SYSTEM
+content	project	  ONLINE FRUITIQUE MANAGEMENT PORTAL
+content	project	  ONLINE GRIEVENCE PORTAL FOR NIELIT
+content	project	  STUDENT EVENT MANAGER CUM COMMUNICATOR SYSTEM
+content	project	  Online Examination System
+header	experience	Work Experence
+content	experience	  Data Migration Developer
+content	experience	Working as a database Migration developer at BQE Rengrath Srinagar
+content	others	  Techcurve Software Solutions
+content	experience	Worked as Senior software Developer as techcurve Software solutions more than 1 Year
+content	others	  PNG Software Enterprise Solutions
+content	experience	Working as Senior software Developer as PNG Software Enterprise Solutions
+header	education	EDUCATION
+content	education	  MASTER OF COMPUTER APPLICATIONS (MCA)
+content	education	Indira Gandhi National Open University 2015
+content	education	  Bachelor of ARTS
+content	education	Govt. Degree College Bemina    2011
+header	education	CERTIFICATION
+content	education	  ADVANCED DIPLOMA IN COMPUTERS (A-LEVEL)
+content	education	National Institute Of Electronics And Information Technology (NIELIT) 2014
+content	knowledge	  ASP.NET
+content	education	National Institute Of Electronics And Information Technology (NIELIT) 2014
+content	education	  POST GRADUATE DIPLOMA IN COMPUTER SCIENCE (PGDCA)
+content	education	Indira Gandhi National Open University 2013
+content	education	  ONE YEAR DIPLOMA IN COMPUTER APPLICATIONS (DCA)
+content	education	Excellent Computer Institute Batamaloo Srinagar.
+content	education	  COMPUTER COURSE FINANCIAL ACCOUNTING USING TALLY (CCFA)
+content	others	Alfurqan Computers Rambagh Payeen Srinagar.
+content	education	  COURSE ON COMPUTER CONCEPTS (CCC)
+content	education	National Institute Of Electronics And Information Technology (NIELIT)
+header	education	WORKSHOPS ATTENDED
+content	education	  Two week ISTE Workshop on Computer Networking conducted by IIT Bombay-2014.
+content	education	  Android & Robotics workshop Conducted by N-Vision IIT Hyderabad-2014.
+header	knowledge	SKILL
+header	knowledge	WEB DESIGNING
+content	knowledge	  HTML 5 / CSS 3
+content	knowledge	  JavaScript / JQuery / AJAX
+header	knowledge	WEB DEVELOPMENT
+content	knowledge	  ASP.NET / MVC
+content	knowledge	  C-Sharp.
+content	knowledge	  Java Swings
+content	knowledge	  Php Development
+header	knowledge	DATABASES
+content	knowledge	  SQL Server 2008 R2/ Server 2012.
+content	knowledge	  SQLITE Database
+header	knowledge	MOBILE APP DEVELOPMENT
+content	knowledge	  Android / SQLite.
+header	others	PERSONAL INFORMATION
+content	others	Name:            ISHFAQ HUSSAIN RATHER
+content	others	D.O.B:            11-MARCH-1988
+content	others	ADDRESS:    Batamaloo Srinagar (Kashmir)
+content	others	S/O:          GH MOHAMMAD RATHER
+content	others	PHONE:   (+91) 9906507972/7006213687
+content	others	EMAIL:    (ratherashfaq88@gmail.com)
+content	others	(rgulzar2@gmail.com)
+content	others	The truthfulness of the details furnished above is assured to the best of my knowledge and belief proves for the above
+content	others	furnished details would be produced at the time of interview declare that above given information is true and to the best of
+content	others	my Knowledge
+content	others	Date:    10-NOV-2018
+content	others	Ishfaq Hussain

@@ -1,0 +1,44 @@
+content	others	Soura, Srinagar,
+content	others	Jammu & kashmir
+content	others	+91-7006331588
+content	others	eclipse@live.in
+header	knowledge	SKILLS
+content	knowledge	PHP, JAVA, C/C++,
+content	knowledge	Ionic Framework,
+content	knowledge	HTML, CSS, JavaScript,
+content	knowledge	Angular,  MySQL
+content	others	LANGUAGES
+content	others	Kashmiri, English, Urdu
+content	others	Owais Majid Draboo
+header	experience	EXPERIENCE
+content	experience	No Industrial Experience Currently
+content	project	Have Worked On Few Small Projects for Learning Purposes
+header	education	EDUCATION
+content	education	Caset College Of Computer Science,​—
+content	education	Bachelors in Computer Applications
+content	others	July 2012 - March 2015
+content	knowledge	Studied: Data Structures, Operating Systems, C/C++
+content	knowledge	programming, Database Management Systems.
+content	education	University of Kashmir,North Campus​—
+content	education	Masters in Computer Applications
+content	others	August 2015 - Present
+content	knowledge	Studied: Data Structures and Algorithms, Operating Systems,
+content	knowledge	C/C++, Java, Fundamentals of Image processing, Python
+content	knowledge	programming, Database Management Systems, Artificial
+content	knowledge	Intelligence & Machine Learning, Introduction to theory of
+content	knowledge	computation, OOMAD (Object Oriented Modeling and Design),
+content	knowledge	Introduction to Computer Graphics, Unix / Linux programming.
+header	project	PROJECTS
+content	project	Rapidtracker (BCA Project) ​— ​http://rapidtracker.co.nf/
+content	project	A Lost and Found WebApp, where Users Post about the things they
+content	others	lost or found somewhere.
+content	others	Worked On both frontend and backend.
+content	knowledge	HTML, CSS, PHP, MySql
+content	project	Bus Tracking System (MCA Project)​— Under Development
+content	project	Presently Working and learning On An IOT based web service and
+content	project	Hybrid Application (IOS/Android) for North Campus, University Of
+content	project	Kashmir Transportation System which will keep track of
+content	others	university buses in real time with a comprehensive transport
+content	others	management solution.
+content	knowledge	Ionic Framework, Angular, PHP, MySQL,Bootstrap
+content	others	https://github.com/G33kzD3n/locate_mobile

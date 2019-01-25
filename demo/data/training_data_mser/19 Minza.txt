@@ -1,0 +1,37 @@
+content	Label	Curriculum
+content	Label	Vitae
+content	Name	MINZA SHAKEEL
+header	Label	Career Objective:
+content	Personal	Contact Details: Mobile No.2- +91-9086848896 +91-8825056464
+content	Summary/Objective	Looking for a suitable position with an ambitious company where I will be working with industry experts, people who have the skills and experience to make a real difference to my future and to compete in the present challenging field of Technology, where my skills and abilities would be of utmost importance for the profitable growth of the company that I most likely to serve and utilize my potential while being resourceful, innovative and ﬂexible.  Area of Interests:
+content	Personal	Email: - bhatminza1995 @gmail.com
+content	Personal	Permanent Address:  Gojwara, Srinagar, Kashmir. J&K 190002.  Permanent Address:  Alamdar Colony B, Lal Bazar, Srinagar, Kashmir, J &K 190023.
+content	Knowledge/Skill	Database Technologies. IT Support Services. Computer Software
+header	Label	Technical Skills:
+header	Label	Personal Details:
+content	Knowledge/Skill	C#, Asp.net Database Administration SQL Web designing using any tool or language.
+content	Personal	Parentage: Shakeel Ahmad. Date of Birth: 20-01-1995 Blood Group: B+. Gender: Female Nationality: Indian Marital Status: Single Linguistics Proﬁciency: English, Urdu, Hindi and Kashmiri.
+content	Label	Hobbies:
+content	Interest/Hobby	Travelling to different Places Netsurfing (social media)
+header	Label	Educational Qualiﬁcation:
+content	Education/Qualification/Workshop	QUALIFICATION  UN I/B OARD  YEAR  %AGE     Currently perusing M.C0m. through IGNOU                       B.C0rn. KU 2016 64 12TH JKBOSE 2013 90 10TH JKBOSE 2011 80
+content	Work/Experience	Experience 1 year and 6 months experience as Web Developer.
+content	Label	Company: - Designation: - Duration:- Address : -
+content	Work/Experience	Techcurve Software & services  Web Developer.  May 2017 T0 Sep 2017  Old Zero Bridge, Lal Chowk, Srinagar.
+content	Label	Company: - Designation : - Duration:- Address : -
+content	Work/Experience	MY FAJ IR Pvt. Ltd.  Web Developer.  13 Sep 2017 T0 31St Jan 2018 Buchpora, Soura, Srinagar.
+content	Label	Company: - Designation: - Duration:- Address : -
+content	Work/Experience	The Kashmir Box Private Limited. Frontend Developer (HTML Developer). March 2018 T0 Till Date.  Nawab Bazar, Srinagar.
+header	Label	Technical ualiﬁcation:
+content	Education/Qualification/Workshop	3 years GNIIT Software Engineering from NIIT.  1 year Advanced Software Engineering in Computer Software Development from NIIT.  IEEE SWEBOX.  .Net Specialization from NIIT. Non Certificate Course in communication Skills from NIIT.
+header	Label	Curriculum for the Courses:
+content	Knowledge/Skill	Basic Fundamentals, Microsoft Office, Web Designing. ASP.Net MVC 4.5 using C#  RDBMS using SQL 2012 server.  HTML, CSS, J avaScript, XML
+header	Label	Professional Traits:
+content	Trait	Willingness to work in team and hard worker. Ability to deal with people dramatically. Disciplined & good etiquette.  Quick learner.
+header	Label	Professional Traits:
+content	Trait	Willingness to work in team and hard worker. Ability to deal with people dramatically. Disciplined & good etiquette.  Quick learner.
+header	Label	Achievements:
+content	Work/Experience	Worked on the Content Management System in Enterprise Java in project assigned at NIIT Residency in the GNIIT Software Engineering.
+header	Label	Declaration:
+content	Others	I hereby solemnly declare that the above furnished particulars are true to the best of my knowledge and belief and can be supported with documental proof any time required.
+content	Name	(MINZA SHAKEEL)

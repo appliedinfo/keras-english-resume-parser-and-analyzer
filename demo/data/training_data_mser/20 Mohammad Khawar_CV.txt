@@ -1,0 +1,32 @@
+content	Name	MOHAMMAD KHAWAR
+content	Work/Experience	ASSOCIATE DEVELOPER  Detail oriented professional with 3+ years of overall experience in GreenPlum Database, Hadoop, AD & Computer Troubleshoot. Seeking to take the next career step with  respected organization dedicated to world class quality. Open to learn and apply emerging technologies.
+content	Work/Experience	ASSOCIATE DEVELOPER SERVISCO PVT LTD —
+content	Work/Experience	June 20..1 7 — August 2018
+content	Work/Experience	Involved in all phases of software development lifecycle right from gathering business requirements from client, configure and design solutions, code review, development and testing and handover of below projects.
+content	Label	CONTACTS
+content	Knowledge/Skill	Campaign Management Data Mart Offloading and Optimization  0 Perform code migration to the production environment after optimizing the existing code, identify and replace the existing tables with more efficient tables.  0 offloading the data contained in three massive schemas from existing system into new environment from 05 level.  0 Testing the code, data checks and validations, tracking the execution time.
+content	Personal	mohammadkhwngmail.com
+content	Personal	7006496185 , 7289036398
+content	Personal	Srinagar
+content	Personal	mohammadkhawar
+content	Work/Experience	Bl Optimization and Hadoop Offload  Offloading the data from Greenplum database servers into HDFS. Maintaining and verifying data quality in production tables before and after hand-over.  Execution, debugging and identify potential issues of ETL functions handed over by development team.  Monitor and verify program execution, processing variances (e.g. run time, record counts, etc.)  Purging the migrated data on GPDB after testing and validating the data on HDFS.
+header	Label	SKILLS
+content	Work/Experience	mL tttt Customer Support ** * *
+content	Knowledge/Skill	Data Quality
+content	Knowledge/Skill	Data Migration
+content	Knowledge/Skill	Unix
+content	Work/Experience	APPLICATION SUPPORT DEL 2015 — Jan A IBM INDIA PVT LTD — 0 High level application, Active directory and Hardware support.  0 Implement Incident Management Process to resolve incidents. 0 Monitoring & checking the incidents for accuracy & correctness. 0 Perform routine reports & escalate any anomaly detected.  a To have regular calls with different/next level teams for new activities/updates, documentation & sharing.  TECHNICAL SUPPORT EXECUTIVE Nov 2014 — Nov 2( UNOSIS TECHNOLOGIES PVT LTD —  o Supervising issues regarding Computer Software & Networking.  0 Handling customer’s queries & giving solutions with their problems.  0 Approaching customers with a warm & zealous attitude so as to win over them.  a Escalation of customer issues with different levels of support. 0 Troubleshooting Software remotely using Net meeting, VNC viewer.
+content	Work/Experience	DEL 2015 - Jun 2017
+content	Label	LANGUAGES
+content	SpokenLanguage	English
+content	SpokenLanguage	Urdu
+content	SpokenLanguage	Hindi
+header	Label	PERSONAL DETAILS
+content	Personal	01/05/1989
+content	Personal	D.O.B
+header	Label	EDUCATION
+content	Label	Gender
+content	Personal	Male
+content	Personal	Marital Status
+content	Personal	Single
+content	Education/Qualification/Workshop	UNIVERSITY OF KASHMIR MASTER IN COMPUTER APPLICATIONS BACHELOR IN COMPUTER APPLCATIONS

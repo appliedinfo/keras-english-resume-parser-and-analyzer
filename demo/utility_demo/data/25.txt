@@ -1,0 +1,120 @@
+content	others	Burhan S. Shah
+content	others	Full Stack Web Developer
+header	experience	EXPERIENCE
+content	experience	GetMax Infotech, ​Mohali— ​Application Programmer and
+content	experience	Team Lead
+content	others	July 2017 - July 2018
+content	experience	Responsible for managing a team of 5 besides building database extensive
+content	others	web applications. Also responsible for coordinating with extrinsic teams
+content	others	to whom few projects were outsourced. Communicating with them and
+content	others	push forward projects to completion. Testing and validation of projects
+content	others	assigned to them. Working in a data analyst role and with business
+content	others	intelligence applications. Developing projects keeping in mind the user
+content	experience	experience.
+content	experience	The Girafe, ​Mohali— ​Senior Web Developer
+content	others	March 2017 - May 2017
+content	experience	Was majorly responsible for building, designing and implementing
+content	others	custom modules for opencart based ecom portals, alongside integrating
+content	experience	payment gateways to products as they came. Also built web products from
+content	others	scratch in the tenure I served.
+content	experience	NTIC, ​Armenia— ​Full Stack Web Developer
+content	others	OCTOBER 2016 - FEBRUARY 2017
+content	experience	Working with designers and developers, Front End and project
+content	experience	management staff to capture requirements for the functional elements of
+content	experience	web products.
+content	experience	Freelance, ​Unanimous— ​Full Stack Web Developer
+content	others	MARCH 2012 - PRESENT
+content	experience	Building PHP websites using PHP based frameworks.
+content	experience	Planning and conducting cross-browser usability testing  against
+content	knowledge	W3C.
+content	experience	Testing and validating work produced as part of the development
+content	others	process.
+content	experience	● Developing advanced database driven websites & systems
+content	experience	including e commerce.
+content	knowledge	Back end development and maintenance of websites using PHP
+content	knowledge	and MySQL.
+content	experience	● Developing compatible User Interface functionality using jQuery
+content	others	Banghlow Bagh, Baramulla
+content	others	Kashmir
+content	others	(+91) 990 67 607 67
+content	others	sb.shahburhan@gmail.com
+header	knowledge	SKILLS
+content	knowledge	PHP
+content	knowledge	Design Pattern : MVC, MVCL,
+content	knowledge	Registry Pattern
+content	knowledge	MySQL
+content	knowledge	HTML5
+content	knowledge	CSS3
+content	knowledge	Bootstrap
+content	knowledge	jQuery
+content	knowledge	Git (Version Control)
+content	knowledge	Facebook API
+content	knowledge	Twitter API
+content	knowledge	Opencart
+content	knowledge	Custom E-commerce
+content	knowledge	Custom CMS
+content	knowledge	Payment Gateway
+content	knowledge	Integrations
+content	knowledge	PayPal API
+content	knowledge	CodeIgniter
+content	knowledge	Twig
+header	others	TESTIMONIALS
+content	others	Richard Riechmann​ -
+content	others	abbaequipmentleasing.com
+content	others	Thank you for the speedy
+content	others	response. Excellent
+content	others	Freelancer to work with
+content	others	Alex Yu​ - kindlebio.com
+content	others	I must say I am completely
+content	others	satisfied with the work. My
+content	others	friend gave me a lot of good
+content	others	words on the website. This is
+content	others	all because this contractor. He
+content	others	worked very fast, tailored to
+content	others	all the criteria, speaks very
+content	others	good english, no
+content	others	miscommunication. I am
+content	others	usually a picky guy, but he
+content	others	earned my all 5-star ratings.
+content	others	My website will evolve and
+content	others	expand, and he will be the
+content	others	guy I trust to the future work.
+content	others	Jean Lapointe​ -
+content	others	altechmobile.ca
+content	others	Burhan did a beautiful website
+content	others	for a low budget which is
+content	others	impressive. We recommend
+content	others	this freelancer to anyone
+content	others	wanting a good looking
+content	others	ecommerce website for a
+content	others	fraction of the price.
+header	others	LANGUAGES
+content	others	English (First), Kashmiri,
+content	others	Hindi, Urdu
+content	others	& other libraries.
+content	experience	● Developing web sites using MySQL, PHP & other programming
+content	others	tools.
+content	experience	● Documenting features, technical specifications & infrastructure
+content	others	requirements.
+content	experience	● Working with a multi-disciplinary team to convert business
+content	others	needs into technical specifications.
+header	education	EDUCATION
+content	education	St. Joseph’s School, ​Kashmir— ​High School (+2)
+content	education	Completed my high school graduation from above school
+header	project	PROJECTS
+content	project	PREAM ​— ​sardargangasinghji.com/pream
+content	experience	Designed and developed a bi-lingual Supply Chain Management portal
+content	experience	based on MVCL and Registry Pattern.  (​Work in progress)
+content	project	UWMP ​— ​uwmacrophotographers.com
+content	project	Designed and developed a custom CMS based Photo Portfolio and
+content	project	Personal Profile site from scratch for Underwater Macro Photographers.
+content	others	Redesign in process.
+content	project	Priscilla Paige​— ​priscillapaige.com
+content	project	Designed and developed a cab and room booking site for a hotel.
+content	project	Gemona West​— ​www.gemonawest.com
+content	project	Designed and developed a wordpress site for an interior design company.
+content	project	AeroDev Solutions ​— ​aerodevsolutions.com
+content	project	AeroDev is a wordpress site for which I did some design configs.
+content	project	Kindle Biosciences​— ​kindlebio.com
+content	project	Designed and developed an ecommerce website from scratch to sell
+content	others	particular products. Featured with CMS and anywhere buying.

@@ -1,0 +1,111 @@
+header	others	PERSONAL INFORMATION  Ali Hussain Mir
+content	others	Eidgah, Srinagar, 190002 SRINAGAR (India)
+content	others	9086447495
+content	others	alihussainmeer@gmail.com
+content	others	Skype​ alihussainmeer
+content	others	Sex​ ​Male ​| Date of birth ​25/11/1995 ​| Nationality ​Indian
+header	experience	WORK EXPERIENCE &
+header	education	TRAININGS
+content	experience	09/10/2018–Present  Project Management
+content	others	Design And Innovation Centre (DIC)
+content	experience	▪ Analyzed software requirements to meet potential customer needs.
+content	experience	▪ Formulation and Evaluation of project summaries which include goals,marketing strategies,
+content	experience	timelines, milestones, budgetary targets.
+content	experience	01/2018–02/2018  Data Analysis Intern
+content	others	Rajesh Rajat And Associates, New Delhi (India)
+content	experience	Employed the use of Python Data Analysis suite especially Pandas for cleaning and
+content	experience	manipulating data into a specific format and utilized packages such as Matplotlib and
+content	experience	Seaborn for providing valuable visual insights and data analysis reports.
+header	others	Link to Certificate
+content	others	01/03/2017–20/04/2017
+header	experience	Junior Developer
+content	others	IAC Software Solutions,190002 Srinagar (India)
+content	others	www.iacsoftware.com
+content	experience	▪ Took part in software and architectural development activities
+content	experience	▪ Developed, implemented and maintained application software
+content	experience	▪ Conducted software analysis, programming, testing and debugging
+content	experience	▪ Developed application code for java programs
+header	others	Link to Certificate
+content	others	07/2016–08/2016  Lab Upgradation
+content	education	University of Kashmir, Srinagar (India)
+content	education	Administered the upgradation of the Open Source Lab (LAB001) at Department of CSE, North
+content	education	Campus, University of Kashmir.
+header	education	EDUCATION
+content	education	10/2014–10/2018  Bachelors of Technology (Engineering) in Computer Science
+content	education	University of Kashmir, Srinagar (India)
+content	education	7.1 (Grade A)
+content	education	2014
+content	education	Intermediate College
+content	education	Jammu Kashmir Board of School Education
+content	education	2012  High School
+content	education	Jammu Kashmir Board of School Education
+header	knowledge	PERSONAL SKILLS
+header	others	Languages Proficient in
+content	others	▪ English - IELTS overall band score 7.0 ​(​Link to Test Report​)
+content	others	▪ Kashmiri & Urdu
+content	education	83.4%
+content	education	94.2%
+meta	others	18/11/18
+content	others	Organizational/Managerial skills
+content	others	Project, Time and Team Management
+content	others	▪ Problem-Solving skills
+content	knowledge	Computer/ IT Skills
+header	knowledge	▪ Programming Languages :
+content	knowledge	▫  Python (Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-learn).
+content	knowledge	▫▫  Familiarity with Shell programming, Java, SQL, C++, Linux Command Line, Git, and
+content	knowledge	Github.
+header	knowledge	▪ Special Skills:
+content	knowledge	▫ Data Analysis with Python
+content	knowledge	▫ Data Visualization with Python
+content	knowledge	▫ Machine Learning with Python
+header	others	ADDITIONAL INFORMATION
+header	others	Certifications
+header	others	Achievements​
+content	knowledge	▪ Python for Data Science ​(Link to E-certificate)
+content	knowledge	▪ Data Analysis with Python ​(Link to E-certificate)
+content	knowledge	▪ Data Visualization with Python ​(Link to E-certificate)
+content	knowledge	▪ Machine Learning with Python ​(Link to E-certificate)
+content	knowledge	▪ SQL Fundamentals ​(Link to E-certificate)
+content	experience	▪ Earned A Level 2 Data Analyst Badge at IBM cognitive classes:
+content	experience	▫▫  IBM certified Level 2 Data Analyst ​(Link to Badge)
+header	experience	▪ Co-Founder of Farloop-labs :
+content	experience	▫▫ Co-founder of the technology startup FarLoop Labs which has designed and imparted
+content	experience	technological solutions to many satisfied businesses and organizations.
+content	others	▪ Bronze Medal - Tangsoodo World Cup championship:​
+content	experience	▪ Honored for Problem-solving at Data Journalism workshop:​
+content	others	▫  Represented India and Earned a Bronze Medal (​Link to Certificate​)
+content	experience	▫  Used Regular expressions for a task to remove some inconsistencies in data, thus
+content	others	saving a lot of time and efforts of scores of participants (​Link to Certificate​)
+header	others	Publications
+content	others	“Hyperparameter tuning for augmenting feature selection methods: Application in a bank
+content	experience	telemarketing dataset ” (currently being reviewed - IEEE and Scopus indexed) - 2018
+content	experience	▪ “Data Analytics for Formulation of Effective Public Policy”  presented at National Conference
+content	others	on Recent Advances in Computer Science and IT (NCRACIT) - 2018 ​(Link to Publication)
+content	experience	▪  “Artificial Intelligence in Mechanical Engineering” presented at National Conference on
+content	experience	Recent Advances in Computer Science and IT (NCRACIT) - 2018 ​(Link to Publication)​.
+content	others	the International Conference on Machine learning & Computational Intelligence - 2018
+content	others	(Currently under review)
+content	experience	▪ “Machine Learning: Concept and Applications in Smart City Projects in India'”, presented at
+content	others	Workshops
+header	education	▪ Workshop on Data Science:
+content	education	▫ Attended a workshop on Data Science tools and technologies.
+content	knowledge	▫▫ Understood Basics Open Refine, Google sheets, Python and Pandas
+content	others	(​Link to Certificate​).
+content	project	▪ First Aid Drill - Indian Red Cross Society:
+header	others	Conferences
+content	others	Volunteer Work
+content	experience	▫ Participated in 16 hr First Aid Training Program on 24/10/2018  (​Link to Certificate​
+content	education	International Conference on Machine Learning and Computational Intelligence ​(Link to
+content	others	Certificate)
+content	education	▪ Conference on Software Engineering and Data Science ​(Link to Certificate)
+header	others	Craft Promoter
+content	others	Company Name: Su:riti from Dec 2012 – Jan 2013
+content	others	▪ Explored various crafts of Kashmir and formulated hook points to attract people.
+content	others	▪ Developed a pleasing aura of the exhibition along with colleagues.
+content	others	▪ Explained the craft to people from different cultures and ethnicity.
+content	others	(​Link to Certificate)
+header	others	Hobbies And Interest
+content	others	▪ Hobbies include Trekking, indulging in Fitness Activities and Cooking.
+content	knowledge	Interested in Artificial Intelligence, Machine learning, Deep learning, Automation, Business
+content	knowledge	Analytics.
+content	others	18/11/18

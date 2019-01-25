@@ -121,6 +121,7 @@ class WordVecCnn(object):
             ys.append(self.labels[label])
 
         X = pad_sequences(xs, maxlen=self.max_len)
+        print(self.labels)
         Y = np_utils.to_categorical(ys, len(self.labels))
 
         x_train, x_test, y_train, y_test = train_test_split(X, Y, test_size=test_size, random_state=random_state)

@@ -1,0 +1,95 @@
+header	others	CURRICULUM VITAE
+content	others	Maneesa Masarat
+content	others	E-mail id: maneesa.masarat1@gmail.com
+content	others	Contact No: +91- 7006656769
+header	others	Career Objective
+content	others	To achieve excellence in technology and use my skills to the utmost benefit of the organization. Be a good Team player with high levels of motivation and sincerity.
+header	others	Profile Summary
+content	experience	Currently working as a Project Manager(Software development) with an expertise in PHP programming, requirement analysis, design, development, testing and implementation.
+content	experience	Having experience of 3 Years.
+content	knowledge	Good database skills and working experience with SQL Server and MongoDB.
+content	knowledge	Good knowledge of OOPs concept.
+content	knowledge	MVC architecture and design pattern experience.
+content	others	Result oriented and able to work independently as well as in teams.
+content	others	Deploying the code on test and production environments and maintaining client instances and databases.
+content	knowledge	Managing various technical aspects like software design, coding of modules and application maintenance, etc.
+header	knowledge	Technical Proficiency
+header	experience	Work Experience
+content	experience	Currently working with E-Resolute Consultancy & Services (P) Ltd
+content	experience	(From 4-September till date)
+content	experience	Position: Project Manager (Software development)
+header	experience	Responsibilities
+content	experience	Requirement analysis
+content	experience	Documentation at various steps of Software Development Life Cycle
+content	experience	Resource Planning
+content	experience	Team leadership
+content	experience	Controlling Quality
+content	experience	Working with vendors
+content	experience	Benefits realization
+content	experience	Worked with The Retail Insights, Bangalore, India.
+content	experience	(From 29-jan-2018 to 25-july-2018)
+content	experience	Position: Software Engineer/Developer
+header	experience	Responsibilities
+content	experience	Requirement analysis
+content	others	Research and Development
+content	knowledge	Involved in Front End Coding using HTML 5, CSS 3, JS and in Back end coding using PHP.
+content	experience	Responsible for Database queries and information Updates using SQL-Server.
+content	experience	Used Magento 1 and Magento 2 for application development.
+header	project	Projects worked at The Retail Insights:
+content	project	Title: I Love Diamonds.com
+content	knowledge	Web Services: PHP, Java Script, HTML, CSS.
+content	knowledge	Database: SQL-Server
+content	others	Team Size: 5 Members.
+content	others	Description:
+content	project	Online store for buying and selling diamond jewelry.
+content	project	Key Features: Separate login for Admin, buyer and seller, with separate permissions and environments for all logins.
+content	experience	B to B and B to C functionalities in one website.
+content	experience	Omni-Channel retailing.
+content	experience	Worked with LeLafe IT Solutions Pvt. Ltd., Bangalore, India.
+content	experience	(From Dec. 2016 to 8 Jan. 2018)
+header	experience	About LeLafe IT Solutions Pvt. Ltd.
+content	experience	LeLafe is an IT services and software firm, founded in 2011, that specializes in providing high value solutions to our government, corporate and nonprofit clients by leveraging mature process and technology improvement techniques, innovative software, sub-contracting and IT talent augmentation. Specialized with Information Technology, eGovernance, eCommerce, Consultation, Management, Web Application, Professional, Process Improvement, Application Development, IT Infrastructure
+header	others	Website:
+content	experience	Position: Software Engineer/Developer
+header	experience	Responsibilities
+content	experience	Requirement analysis
+content	experience	Research and Development
+content	knowledge	Involved in Front End Coding using HTML 5, CSS 3, JS and in Back end coding using PHP.
+content	experience	Responsible for Database queries and information Updates using MongoDB.
+content	experience	Responsible for deploying code on test and production environment.
+content	experience	Maintaining client instances
+content	experience	Maintaining Databases and running database migrations.
+content	experience	Used MVC architecture for application development.
+header	experience	Projects worked at LeLafe IT Solutions Pvt. Ltd.:
+content	project	Title: Educian
+content	knowledge	Web Services: PHP, Java Script, HTML, CSS.
+content	knowledge	Database: MongoDB
+content	others	Team Size: 8 Members.
+content	others	Description:
+content	project	This web application is developed for Educational Institutes to manage their campus.
+content	project	The application maintains student information, fee and payment details, employee details, transport, library, attendance and hostel details for an institute.
+content	project	Key Features: Separate log-in for Admin, employee, student and parent.
+content	others	Payment and Attendance Reports
+content	others	History of Student
+content	experience	Worked with BQE Software Inc, Srinagar, India.
+content	experience	(From Nov. 2015 to July 2016)
+content	experience	Position: Technical Support Engineer/Developer
+header	experience	Responsibilities:
+content	experience	Handling client issues.
+content	experience	Diagnosing hardware and software faults.
+content	experience	Solving technical and application issues.
+content	experience	Solving database related issues.
+content	experience	Fixing IIS and database issues on the client side using GTM.
+content	experience	Identifying and reporting bugs in the application.
+header	education	Academic and Professional Qualification
+header	others	Achievements
+content	education	Successfully completed Summer training in VB.NET at CAAPS.
+content	experience	Attended the seminar on ‘ASP.Net’ ’organized by the Deptt Of Computer Eng. SSM College of Engineering & Technology, Kashmir, India.
+content	experience	Attended the seminar on ‘Cyborgs’ ’organized by the Deptt Of Computer Eng. SSM College of Engineering & Technology, Kashmir, India.
+header	others	Personal Profile
+content	others	Name Maneesa Masarat
+content	others	Gender Female
+content	others	Date of Birth 7th January 1991
+content	others	Marital Status Single
+content	others	Languages known English, Urdu, Kashmiri, Hindi
+content	others	Maneesa Masarat

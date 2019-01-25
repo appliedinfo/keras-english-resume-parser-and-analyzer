@@ -8,19 +8,19 @@ def main():
 
     from keras_en_parser_and_analyzer.library.dl_based_parser import ResumeParser
 
-    # from keras_en_parser_and_analyzer.library.classifiers.cnn_lstm import WordVecCnnLstm
-    from keras_en_parser_and_analyzer.library.classifiers.cnn import WordVecCnn
+    from keras_en_parser_and_analyzer.library.classifiers.cnn_lstm import WordVecCnnLstm
+    # from keras_en_parser_and_analyzer.library.classifiers.cnn import WordVecCnn
 
 
 
     classifier = ResumeParser()
     # for cnnlstm
-    # classifier.line_label_classifier = WordVecCnnLstm()
-    # classifier.line_type_classifier = WordVecCnnLstm()
+    classifier.line_label_classifier = WordVecCnnLstm()
+    classifier.line_type_classifier = WordVecCnnLstm()
 
     # for cnn
-    classifier.line_label_classifier = WordVecCnn()
-    classifier.line_type_classifier = WordVecCnn()
+    # classifier.line_label_classifier = WordVecCnn()
+    # classifier.line_type_classifier = WordVecCnn()
 
     random_state = 42
     np.random.seed(random_state)
@@ -28,7 +28,11 @@ def main():
     current_dir = os.path.dirname(__file__)
     current_dir = current_dir if current_dir is not '' else '.'
     output_dir_path = current_dir + '/models'
-    training_data_dir_path = current_dir + '/data/training_data'
+    # training_data_dir_path = current_dir + '/data/training_data'
+
+    # for method 2 (mser)
+    training_data_dir_path = current_dir + '/data/training_data_mser'
+
 
     # classifier = ResumeParser()
     batch_size = 64

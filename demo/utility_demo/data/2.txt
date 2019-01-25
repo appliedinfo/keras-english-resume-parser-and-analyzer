@@ -1,0 +1,90 @@
+header	others	CURRICULUM VITAE
+content	others	Syed Waseem Abbas
+content	others	Mobile : +91-7006984910 Email : wasimw3@gmail.com
+header	others	CAREER OBJECTIVE
+content	others	To give my best performance in whatever I do. To help the organization grow through high standards of professional excellence, learning and unceasing team spirit.
+header	others	PROFILE
+content	others	Highly dedicated and enthusiastic Professional. Qualified up to the MCA with objective to work in a professional organization, assure responsibility and strive for collective growth and development, always keeping organization goals as a priority.
+content	others	achievements
+content	others	Participated in various workshops on Drupal, Word Press.
+header	education	EducationAL DETAILs
+content	education	2012-2015 Master of Computer applications
+content	education	Passed with First Division, 63.40% Agg, from Islamic University of Science And Technology (Awantipora)
+content	education	2008-2011 Bachlor Of Computer Applications
+content	education	Passed with Second Division, 56.61% aggregate, from University Of Kashmir , Srinagar
+content	education	2006-2007 Class XII: From JK Board
+content	education	Passed with First Division, 57.16% aggregate, from S.P Higher Secondary, Srinagar
+content	education	2004-2005 Class X: From JK Board
+content	education	Passed with Second Division, 58.20% aggregate, from Woodland High School, Srinagar
+header	project	PROJECT
+content	project	Work in developing ONLINE EXAMINATION .months (AUG 2014 - MAY 2015).
+content	others	BRIEF DETAILS OF PROJECTS / TRAININGS UNDERTAKEN
+content	knowledge	Training for asp.net in HCL New Delhi for 1 ½ months (Jan 2015 – Feb 2015).\
+content	experience	Intern at iquasar in it support and website maintenance support (Dec 2017 – march 2018
+meta	others	skills.
+content	others	Operating Systems : Window 7, Windows8, Windows10, Mac
+content	knowledge	Internet Applications : Proficient in Web - Searching, Net Surfing and Technologies : HTML5, CSS3, BOOTSTRAP, GITHUB, UNBOUNCE. Areas : Network Support.
+header	experience	EXPERIENCE
+content	experience	Freelancer Web developer/SEO Expert at GBTECHSOLUTIONS247
+content	others	Duration: May-2018 to Present
+content	others	Role:
+content	experience	Developing Websites.
+content	experience	Maintaining Websites.
+content	experience	On Page and Off Page SEO.
+content	experience	Intern Web developer at Apexure Srinagar
+content	others	Duration: March 2018 to June 2018
+content	project	Projects on HTML5, CSS3 and Bootstrap.
+content	experience	Developing Landing Pages in Unbounce.
+content	experience	Maintaining Websites.
+content	experience	On Page and Off Page SEO.
+content	experience	Digital Communications, Jammu & Kashmir Srinagar as Project Co-coordinator
+content	others	Duration: june-2016 to Apr-2017
+content	others	Role:-
+content	others	Coordinating with Team About the project
+content	others	Project schedules, work hours.
+content	others	Undertaking project tasks as required.
+content	others	Ensuring project deadlines are met.
+content	experience	Ikya Human Capital Solution(Bangalore), Jammu & Kashmir as a Network Engineer under project of Cisco-Rjil 4G.
+content	others	Duration: NOV-2015 to MARCH 2016
+content	others	Role:-
+content	others	Cisco ASR 900(920o, 920i, 903,901) series routers Installation.
+content	others	Dealing with SFP, XFP and patch cord details and Re-conciliation.
+content	others	Giving support to other end teams and maintains the time limit.
+content	others	Work under the pressure of MRO and customers (Rjil) requirement.
+content	others	Troubleshoots the issues like Link Down, Link Fluctuation and link flapping.
+content	others	ATP 1A, ATP 1B & ATP 1C (Acceptance Test Procedure)
+content	others	Checking Links And making reports of them
+content	experience	Rocket Network Srinagar, Jammu and Kashmir as Technician
+content	others	Duration: March-2015 to Oct-2015
+content	others	Role:-
+content	experience	Responsible for Installation and troubleshooting of wired LAN network
+content	others	Install and upgrade the systems with virus protection software, software, etc.
+header	others	PROFESSIONAL Competencies
+content	others	Strong presentation, communication, and interpersonal skills.
+meta	others	Ability to analyze diverse information and formulate recommendations quickly.
+content	others	Willingness to take risks, deal with uncertainty and accept occasional failure.
+content	others	Ability to perform well under pressure.
+content	others	Ability to take criticism lightly, handle multiple tasks/multiple bosses.
+content	others	Aggressiveness, strong internal motivation and ambition.
+content	others	Team player, ability to work with a wide variety of people.
+header	others	PASSPORT DETAILS:-
+content	others	Passport No: H3627060
+content	others	Place of Issue: Srinagar, India
+content	others	Date of Issue: 09/03/2009
+content	others	Date of Expiry: 08/03/2019
+header	others	Hobbies
+content	others	Reading and creative writing.
+content	others	Playing Indoor games &Bike riding
+content	others	Listening to music.
+content	others	Social profile
+content	others	Facebook ID : www.facebook.com/Fast00768
+content	others	Linkedin : https://in.linkedin.com/in/syed-waseem-b12bb74b
+header	others	PERSONAL pROFILE
+content	others	Name : SYED WASEEM ABBAS
+content	others	Father’s Name : Mr. SYED MUZAFFAR SHAH
+content	others	Date of Birth : 21.11.1987
+content	others	Gender : Male
+content	others	Residence : Bagh ali mardan khan, nowshera, srinagar
+header	others	CREDENTIALs
+content	others	Certificates/credentials shall be provided upon request.
+content	others	Date: June, 2018

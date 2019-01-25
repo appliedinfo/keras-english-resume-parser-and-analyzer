@@ -1,0 +1,70 @@
+content	others	BAZEELA
+content	others	NAQEEB
+content	others	IT PROFFESIONAL
+header	education	EDUCATION
+content	education	Bachelor Of Computer Application
+content	education	ICSC, University Of Kashmir  2012-2015
+content	education	Master Of Computer Application
+content	education	University Of Kashmir  2015-2018(6th sem Results Awaited).
+header	others	RESUME
+content	others	Address: Bemina Sgr,190018
+content	others	Phone:
+content	others	+91-9797730570
+content	others	Email: qumers.naqeeb@gmail.com
+header	others	ACHIEVEMENTS
+content	education	✓  First position in 5 semesters of
+content	education	MCA (Kashmir Div).
+content	education	✓  First position in BCA (Kashmir Div).
+content	education	✓  Merit Holder in 10th BOSE Exam.
+header	project	PROJECTS COMPLETED
+content	others	2018
+header	project	Research Work
+content	project	Tookr -Android shopping App incorporating
+content	project	Sentiment Analysis for Product Rating.
+content	knowledge	Front End : Android,JAVA.
+content	knowledge	Back End: Django Rest Frame work,Python
+content	project	. The project “TOOKR” uses the android platform to
+content	project	build an application which is a convenient connection
+content	others	to the best of Kashmir, an easy way to get basic
+content	others	Kashmiri products as easily and hassle free as is
+content	others	possible. In addition, Sentiment Analysis for Product
+content	others	Rating is incorporated that detects hidden
+content	others	sentiments in reviews and rates the product
+content	others	accordingly, consequently allows Users to make an
+content	others	informed decision about buying a particular offering.
+content	knowledge	Implemented Different Machine Learning
+content	knowledge	Agorithms
+content	project	Fake News Detection Using Naïve Bayes Classifier.
+content	project	Sentiment Analysis On Amazon Product Reviews
+content	knowledge	by Logistic Regression.
+header	knowledge	RELATED SKILLS
+header	others	LANGUAGES :
+content	knowledge	C, C++,Java, HTML, CSS,
+content	knowledge	SQL, Bootstrap, PHP,
+content	knowledge	,Python,Android,Latex.
+header	knowledge	DATABASES:
+content	knowledge	Microsoft SQL Server,Oracle .
+header	knowledge	PLATFORMS:
+content	knowledge	MsOffice,Django,Selinium,
+content	knowledge	Anaconda Navigator
+content	knowledge	Jupyter Notebook, Ms
+content	knowledge	Visual Studio, Pycharm,
+content	knowledge	NetBeans, Spyder, Android
+content	knowledge	Studio etc.
+header	others	OTHER SKILLS
+content	others	Communication
+content	others	Creativity
+content	others	Leadership
+content	others	Team Coordination
+header	others	OBJECTIVE
+content	others	Assist a stable and thriving company in achieving its mission and goals by being able to continuously learn and
+content	others	improve  the  necessary  skills  and  knowledge  needed  to  help  push  both  the  company  and  myself  forward  into
+content	others	success.
+header	others	INTERESTS
+content	others	✓  Reading.
+content	others	✓  Writing poems.
+content	others	✓  Food .
+content	others	✓  Travel.
+content	others	✓  Music.
+content	others	I hereby declare that the information stated above is authentic and true to the best of my knowledge.
+content	others	Place : Srinagar

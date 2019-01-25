@@ -1,0 +1,43 @@
+header	others	CURRICULUM VITAE
+content	others	IBRAHIM FAROOQ MATTOO
+content	education	B. Tech (Electronics & Communication)
+content	others	Ph. No.7006879903
+content	others	Srinagar, J&K
+header	others	Email:
+header	others	CAREER OBJECTIVE
+content	others	Continuously strive to achieve organizational success by focusing my energies on satisfying the customer, thereby accomplishing my own career growth.
+header	experience	WORK EXPERIENCE
+content	project	Project done for watermarking in medical images.
+content	experience	Worked for Simulink & Matlab software.
+content	others	Working function of communication systems.
+header	experience	Role / Function
+content	experience	RF engineer in Harpy core private limited which provides technical support to RELIANCE 4G
+content	experience	Done Emf,Installation,Atp11b,Clot
+content	experience	Done SCFT for Bhat Mubarak
+content	experience	Was working in ORBIS LIFE RESEARCH have a first hand knowledge of MARG software.
+header	education	EDUCATIONAL QUALIFICATIONS
+content	education	B. Tech(Electronics and Communication) from DEPT. OF ELECTRONICS & IT UNIVERSITY OF KASHMIR with First division in 2015.
+header	others	ACHIEVEMENTS & STRENGTHS
+content	education	Attended three days of workshop for robotics.
+content	education	Attended three days of training program for telecommunication in BSNL.
+content	others	Comprehensive problem solving ability.
+content	others	Passion to learn and meet challenges.
+content	others	Ability to handle multiple tasks in high pressure environments and under tight deadlines.
+content	others	Excellent communication and interpersonal skills.
+content	others	Willingness to work and ability to adapt according to the situation.
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	Knowledge of MATLAB and SIMULINK.
+content	knowledge	Working knowledge of – MS Word, Outlook, Excel and PowerPoint
+header	others	PERSONAL INFORMATION
+content	others	Name : IBRAHIM FAROOQ MATTOO
+content	others	Father’s Name : MOHD FAROOQ MATTOO
+content	others	Date of Birth : 08-NOV-1991
+content	others	Birth place : Srinagar (JAMMU AND KASHMIR)
+content	others	Mobile No : +91-7006879903
+content	others	Email :ibrahimmattoo@gmail.com
+content	others	Sex : MALE
+content	others	Nationality : INDIAN
+content	others	Religion : ISLAM
+content	others	Present Address : Illahibagh BuchporaSrinagar, J&K - 190006
+content	others	I hereby declare that the information provided is correct up to my knowledge.
+content	others	Date: IBRAHIM FAROOQMATTOO

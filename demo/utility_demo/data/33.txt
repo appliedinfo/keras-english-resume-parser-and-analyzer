@@ -1,0 +1,46 @@
+content	others	Mansoor Ahmad Sheikh
+content	others	“Seeking a position that will benefit from my Quality assurance, team leading, sale and service
+content	others	experience in Information technology industry, positive interaction skills and experience can improve the
+content	others	products, sales and service results.”
+header	others	Current Address
+header	others	Permanent
+header	others	Address
+header	others	Contact No.
+header	others	E-mail Id
+content	others	Sheshadripuram Bangalore. 560020
+content	others	Batapora ( A )  Hazratbal Srinagar Kashmir 190006
+content	others	+91-9797866474, +91-7006002019
+content	others	sheikhm59@gmail.com
+content	others	05th September 1992
+content	others	Male
+content	others	Valid
+content	others	Unmarried
+content	others	English, Hindi, Urdu & Kashmiri
+header	others	Date Of Birth
+header	others	Gender
+header	others	Passport
+header	others	Marital Status
+header	others	Languages Known
+content	knowledge	C, C++, VB, PHP, Java, PYTHON, C#,  HTML, CSS, Networking, Hardware, CCNA, Oracle,
+content	knowledge	MySQL, MS SQL.
+content	knowledge	▪ Windows XP, Vista, 7-10, linux, CentOS, FEDORA.
+content	knowledge	▪ Good at skills to lead a team.
+content	others	Excellent communication skills with good interpersonal skills.
+content	others	Very enthusiastic and optimistic.
+content	education	Master’s in Information Technology (MSIT) Kashmir University. 2014-2016
+content	education	Bachelor’s of Computer applications (BCA) Kashmir University. 2011-2014
+content	project	​ Chat Application with a Authentication, encryption and Database at backend.Developed
+content	project	​Data Warehouse for Heterogeneous Data Sources. Developed using open source
+header	education	Graduate Level:​
+content	knowledge	using Visual Basic and MS SQL.
+header	education	Master’s Level:   ​
+content	knowledge	Technologies like Java,JSP, MongoDB, and MySQL etc.
+content	knowledge	▪ Quality Assurance
+content	others	Sales/services
+content	others	Travelling
+content	others	Teaching
+content	others	▪ Gaming
+content	others	▪ Web savvy
+content	others	Comparative religion
+content	others	Science fictions
+content	others	The information provided above is true to the best of my knowledge.

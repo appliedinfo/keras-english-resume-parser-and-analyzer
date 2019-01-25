@@ -1,0 +1,41 @@
+content	Name	Mohammad
+content	Name	Taha
+content	Name	Hussain
+content	Personal	B h at +9l-95964l3223 Tahabhat70@gmail.com  www.tahabhat.com
+header	Label	Career Objective
+content	Summary/Objective	Eager to work in a challenging environment to prove my skills and utilize my knowledge to succeed in an environment of growth and excellence and earn a job which provides job satisfaction and self- development and helps me achieve personal as well as  organizational goals.
+header	Label	Key Skills
+content	Knowledge/Skill	0 Cloud Platform: Azure Administration (IAAS & PAAS)  0 Working knowledge of Azure cloud computing environment.  0 Working knowledge of Azure laaS, Provisioning VM's, Virtual Hard disks, Virtual Networks.  0 Working knowledge of Creating Storage, Backup.  0 Working knowledge of creating and managing of VM machines and setting up of availability set, load balancers.  . Create and Manage blob, File storage accounts  0 Working Knowledge of ARM Templates.  0 Working Knowledge of Docker Containers, and setting up of docker swarm.  0 Working Knowledge of Git Source Control, Git Bash, Git Branching and Branch Policies.  0 Working Knowledge of setting up of Cl/CD using Azure DevOps build and release pipelines.  0 Working Knowledge of setting up of Cl/CD using Jenkins.
+header	Label	Skills
+content	Knowledge/Skill	C#, PowerShell, Azure, Jenkins, Docker, Git, MS Unit Tests
+header	Label	TOOLS
+content	Knowledge/Skill	VS Code, VS 2017, Git Bash, Azure Storage Explorer.
+header	Label	Academic Project
+content	Project	Title: Embedded Web Server. Languages Used: Java, C in Aurdino. Platform Used: Aurdino Based Platform.
+content	Label	Title:
+content	Project	Details: This Project presents a low cost and ﬂexible controlling/monitoring system using an embedded micro-web server, with IP connectivity for accessing and controlling devices and appliances remotely using a web-based application. The proposed system does not require a dedicated server PC with respect to similar systems and offers a novel communication protocol to monitor as well as control the remotely connected environments with more than just the switching functionality.
+content	Trait	Good communication skills.  Good knowledge of Core subjects Ability to grasp the new skills quickly. Hard-working.
+header	Label	Academic Qualiﬁcation
+content	Label	Name of the Institute/school
+content	Education/Qualification/Workshop	Marks Scored
+content	Education/Qualification/Workshop	Year of passing
+content	Education/Qualification/Workshop	Degree / Qualiﬁcation
+content	Education/Qualification/Workshop	Examining Authority
+content	Education/Qualification/Workshop	B. Tech (Computer Science Engineering)
+content	Education/Qualification/Workshop	Islamic University of Science and Technology
+content	Education/Qualification/Workshop	Islamic University of Science and Technology, J&K
+content	Work/Experience	October- 2016
+content	Education/Qualification/Workshop	64.4%
+content	Education/Qualification/Workshop	Fayaz Educational Institute
+content	Education/Qualification/Workshop	12““(Non-Medical)
+content	Education/Qualification/Workshop	J&K Board
+content	Education/Qualification/Workshop	70%
+content	Others	2009
+content	Education/Qualification/Workshop	Fayaz Educational Institute
+content	Education/Qualification/Workshop	1 0th
+content	Education/Qualification/Workshop	J&K Board
+content	Education/Qualification/Workshop	76%
+content	Education/Qualification/Workshop	2007
+header	Label	Personal Proﬁle
+content	Personal	Mohammad Taha Hussain Bhat . Ashaq Hussain Bhat 10 September 1991. ' English, Urdu, Hindi and Kashmiri.
+content	Label	Name  Father's Name Date of Birth : Languages know

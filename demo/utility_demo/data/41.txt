@@ -1,0 +1,36 @@
+content	others	Hassan Abad Rainawari Srinagar
+content	others	Jammu & Kashmir
+content	others	Mob:- +917889903033
+header	others	Email:-
+content	others	BILKEES AKHTAR
+header	others	CAREER OBJECTIVE
+content	others	To work in a firm with a professional work driven environment and to obtain a full time position in the field of Computer Engineering that utilizes my analytical and interpersonal skills which would enable me to grow while fulfilling organizational goals.
+header	education	BASIC ACADEMIC CREDENTIALS:
+header	knowledge	TECHNICAL SKILLS:
+content	knowledge	Programming languages: -C, C++, Html, Java, SQL.
+content	knowledge	Operating system: - windows
+content	knowledge	Networking: - Troubleshooting of computer networks
+header	education	WINTER INTERNSHIP PROGRAM:
+content	education	Industrial training with Jammu & Kashmir bank in the winter of 2014 at CORPORATE HEAD OF J&K BANK. The internship introduced me to study of “STUDY AND MAINTENANCE OF NETWORKS”.
+header	project	PROJECT UNDERTAKE
+content	education	B-Tech: -
+content	project	Minor Project: - Unmanned Vehicle Using Ultrasonic Sensors.
+content	project	Major Project: - Encryption of Media Files Using Blowfish Algorithm.
+header	knowledge	COMPUTER SKILLS:
+content	knowledge	Microsoft office, Microsoft Word, Microsoft Power-Point-Presentation, Microsoft Excel etc
+header	others	PRESENTATION AND SEMINARS:
+content	experience	Presentation and Seminar on “Raspberry Pi” at Islamic University of Science & Technology
+header	others	WORKSHOPS/CONFERENCES:
+content	education	Attended workshop of Internet of Things, Big Data, and Virtualization.
+header	knowledge	SKILLS
+content	others	Languages: English, Urdu, Kashmiri.
+header	others	HOBBIES:
+content	others	Gardening, Photography, Travelling
+header	others	PERSONAL DETAILS:
+content	others	Father’s Name: - Gh Mohd Wani
+meta	others	Mother’s Name: -Mahmooda
+content	others	Address: - Hassan Abad Rainawari Srinagar
+content	others	Date of Birth: - 07-08-1990
+content	others	Gender: - Female.
+content	others	Date: 21-11-2018
+content	others	Place: Srinagar Bilkees Akhtar

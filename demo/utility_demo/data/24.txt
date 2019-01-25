@@ -1,0 +1,40 @@
+content	others	IMRAN KAWOOSA
+content	others	Firdous Colony, Buchpora Srinagar,J&K || +91 7006303956 kawoosaimran@gmail.com
+header	others	PROFESSIONAL SUMMARY
+content	experience	13 years of hands-on experience in providing training and developing DotNet based windows and web applications.
+content	knowledge	Extensive knowledge and experience in Software Product Development and Production Support / Maintenance (Enhancements) of applications using ASP.NET 3.5/4.0/ ADO.NET, Visual C# .NET, GoogleMap Api, Jason, JavaScript, JQuery, XML, HTML 5 and AJAX
+content	experience	Developed, Configured and Deployed a variety of .NET Framework Applications including Win Forms, Web Forms, Windows Services, Web Services and WCF Services.
+content	experience	Hands-on experience with databases including SQL Server 2005, 2008R2, MySql and involved in developing complex Stored Procedures, Functions and database design.
+content	experience	Expert in advanced development methodologies, tools and processes contributing to the design and rollout of cutting-edge software applications.
+content	experience	Known for excellent troubleshooting skills – able to analyze code and engineer well-researched, cost-effective and responsive solutions.
+content	experience	Experience in developing applications on Information Directory, HealthCare, E-commerce domains using Dotnet technologies like ASP.Net, C#, SqlServer, Jquery
+content	experience	Expertise in Troubleshooting by Debugging of an application.
+content	others	Ability to work well in both a team environment and individual environment.
+content	others	Good work ethics with interpersonal skills, self-motivated, quick learner and team player.
+header	education	EDUCATION AND CREDENTIALS
+header	project	WORK HISTORY
+header	project	KEY PROJECTS UNDERTAKEN
+content	project	QuantumBill
+header	others	Description:
+content	project	QuantumBill is a user-friendly billing software that operates in real time designed for business dealing with travel. The purpose of this application is to let user generate invoices/bills that too without any professional accounting knowledge
+header	knowledge	Tools /Technologies Used:
+content	experience	C#,ADO.NET SqlServer 2008-R2, .NetFrameWork 3.5, Infragestics Controls
+content	project	Goldenharvesttravels.com
+content	others	Description:
+content	experience	A web portal of Tour and Travel Agency
+content	others	Tools /Technologies Used:
+content	experience	Asp.NET,ADO.NET Java Script, HTML, C#, Jason, Jquery, Webservices, Google-Map APi's, SqlServer 2008-R2, .NetFrameWork 3.5
+content	project	Qnskashmir.com
+content	others	Description:
+content	project	It is a web application for a news agency.
+content	others	Tools /Technologies Used:
+content	experience	Asp.Net, Java Script, HTML, C#, Jason, Jquery, Webservices, Google-Map APi's , SqlServer 2008-R2, .NetFrameWork 4.0
+header	project	Other Projects
+content	experience	Besides these projects have worked on a lot of projects as a freelancer and have guided numerous students for developing their B.Tech. / M.C.A Projects.
+content	others	Some of the projects are as
+content	project	School Management System, e-service book, online voter registration, Library management system, Fund office, Virtual class room .
+header	others	ADDITIONAL INFORMATION
+content	others	Driving Lic. No. JK-0120140091186
+content	others	Marital Status Married
+content	others	Languages Known English, Urdu, Kashmiri.
+content	others	Date of Birth 23rd March 1977

@@ -1,0 +1,31 @@
+content	Label	CURRICULUM VITAE
+content	Name	Ummer Mukhtar Malik
+content	Personal	Address: #55 ward o4 dali pora pulwama kashmir Phone#: +919906581597, +917006335061 E-mail: malikumi597@gmail.com
+content	Summary/Objective	Looking for the best opportunity in your esteemed organization where I would be able to utilize and enhance my potential while being resourceful, innovative and flexible, so as to succeed in an environment of growth and excellence and earn a job which provides me a satisfaction and self-  development and to help to achieve an organizational goal.
+content	Trait	Above averge communication skills. Better understanding of basic engineering principles.  Hard and smart worker. Passion for challenging tasks. Initiator and quick learning ability.
+content	Education/Qualification/Workshop	Secondary school education from JKBOSE in the year 2007 with distinction (82%).
+content	Education/Qualification/Workshop	Higher school education from JKBOSE in the year 2009 with distinction (77%).
+header	Label	PROFESSIONAL QUALIFICATIONS.
+content	Education/Qualification/Workshop	B—Tech in Electronics And Communications from M-l-E-T college, University of Jammu.
+content	Certification	Completed the four months training at NIELET Srinagar in the Fundamentals Of Switching And Routing.
+content	Work/Experience	13 months expeience as Netwrok Support Engineer in ROOMAN TECHNOLOGIES New Delhi.
+content	Work/Experience	6 months international BPO experience as CSE in Concentrix Daksh Gurgaon for Amazoncom.
+content	Certification	Completed 6 months basic computer course from Global.net pulwama.
+content	Name	Wali Mohd Malik
+content	Personal	FATHERDS NAME
+content	Personal	PERMANENT ADDRESS
+content	Personal	H.NO. 55 ward 04, Dali Pora Pulwama KASHMIR.
+content	Label	GENDER
+content	Personal	MALE.
+content	Label	NATIONALITY
+content	Personal	INDIAN.
+content	Personal	MARITAL STATUS
+content	Personal	SINGLE.
+content	Personal	BLOOD GROUP
+content	Personal	B+ve.
+content	Label	LINGUISTIC ABILITY
+content	SpokenLanguage	ENGLISH, HIND|,URDU,PUNJAB|
+header	Label	HOBBIES
+content	Interest/Hobby	POEM WRITING, SINGING,NOVEL READING“
+content	Others	I hereby solemnly declare that the above furnished particulars are true to the best my knowledge and belief.
+content	Name	(UMMER MUKHTAR)

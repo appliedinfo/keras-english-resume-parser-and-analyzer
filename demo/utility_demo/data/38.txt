@@ -1,0 +1,40 @@
+content	others	HAZIM NAZIR
+content	others	Email id: - hazimn2.hn@gmail.com
+content	others	Contact no.’s :- 9858134578,8825031279
+header	others	Carrier objective:-
+content	others	To obtain a challenging and responsible position, where I can enhance my ability and professional
+content	others	skill which would help me to contribute in the growth of an Organization.
+header	education	Academia:-
+content	education	Zealous learner with highly motivated skills, completed Bachelor’s in Information Technology (B.I.T)
+content	education	batch 2018 from Sri Pratap College, Srinagar eager to learn new technologies and methodologies.
+content	education	Qualified 12th with non-medical as my stream.
+content	education	Had done schooling from Salfia Muslim Institute, Srinagar.
+header	others	PERSONALITY TRAITS AND INTEREST:-
+content	others	Confident with Good Interpersonal and communication skills
+content	others	Ability to work under pressure, Good Learner
+header	education	Skills gained:-
+content	knowledge	Operating Systems: Windows-98/NT/2000/XP/7/8/8.1/10
+content	knowledge	Have learned various programming languages.
+content	knowledge	Tally 9.0 erp
+content	knowledge	Achieved grade “A+” in computer comprising of basics of windows and windows explorer, MS word,
+content	knowledge	MS excel, Power Point and Photoshop.
+header	experience	EXPERIENCE:-
+content	experience	Worked as customer care executive/technical support in Access infrastructure private limited info.
+content	experience	Sonwar Srinagar from 01-01-2015 to 06-01-2015.
+content	experience	Worked as Investigation manager CMS (Claims Management System) as well as IT expert at
+content	experience	JEHLUM INVESTIGATING SERVICES PVT LTD, Srinagar from 01-08-2017 to 01-09-2018.
+header	others	Extracurricular activities:-
+content	others	Participated in various cultural activities in college.
+content	others	Hosted various events in college.
+content	others	Organized and managed various college and school festivals.
+header	others	Personal details:-
+content	others	HAZIM NAZIR
+content	others	D.O.B:- 31-12-1996
+content	others	Father’s Name : NAZIR AHMED
+content	others	Languages known: - Kashmiri, English, Hindi.
+content	others	Address: - CHANAPORA, SRINAGAR, Jammu and Kashmir.190015.
+content	others	A/P:- OKHLA VIHAR, JAMIA NAGAR, NEW DELHI.
+header	others	DECLARATION
+content	others	I hereby declare that the information furnished above is authentic and complete to the best
+content	others	of knowledge.
+content	others	(hazim Nazir)

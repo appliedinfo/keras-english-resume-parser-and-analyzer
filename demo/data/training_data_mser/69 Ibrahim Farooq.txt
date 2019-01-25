@@ -1,0 +1,39 @@
+header	Label	CURRICULUM VITAE
+content	Personal	IBRAHIM FAROOQ MATTOO  B. Tech (Electronics & Communication) Ph. No.7006879903  Srinagar, J &K  Email: ibrahimmatt00@gmail.c0m
+content	Summary/Objective	CAREER OBJECTIVE  Continuously strive to achieve organizational success by focusing rny energies on satisfying the customer, thereby accomplishing my own career growth.
+header	Label	WORK EXPERIENCE
+content	Work/Experience	Project done for watermarking in medical images. Worked for Simulink & Matlab software. Working function of communication systems.
+content	Work/Experience	Role / Function RF engineer in Harpy core private limited which provides technical support to RELIANCE  4G Done Ernf,lnstallation,Atp11b,Clot  Done SCFT for Bhat Mubarak Was working in ORBIS LIFE RESEARCH have a first hand knowledge of MARG software.
+header	Label	EDUCATIONAL QUALIFICATIONS
+content	Education/Qualification/Workshop	Tech(Electronics and Communication) from DEPT.
+content	Education/Qualification/Workshop	OF ELECTRONICS & IT
+content	Education/Qualification/Workshop	UNIVERSITY OF KASHMIR with First division in 2015.
+content	Education/Qualification/Workshop	ACHIEVEMENTS & STRENGTHS Attended three days of workshop for robotics. Attended three days of training program for telecommunication in BSNL. Comprehensive problem solving ability.
+content	Trait	Passion to learn and meet challenges.
+content	Trait	Ability to handle multiple tasks in high pressure environments and under tight deadlines. Excellent communication and interpersonal skills. Willingness to work and ability to adapt according to the situation.
+content	Knowledge/Skill	TECHNICAL SKILLS Knowledge of MATLAB and SIMULINK.
+content	Knowledge/Skill	Working knowledge of — MS Word, Outlook, Excel and PowerPoint
+content	Label	PERSONAL INFORMATION
+content	Name	IBRAHIM FAROOQ MATTOO
+content	Label	Name
+content	Personal	Father’s Name
+content	Personal	MOHD FAROOQ MATTOO
+content	Personal	Date of Birth
+content	Personal	08—NOV—1991
+content	Personal	Birth place
+content	Personal	Srinagar (JAMMU AND KASHMIR)
+content	Personal	Mobile No
+content	Personal	+91—7006879903
+content	Label	Email
+content	Personal	ibrahimmattoo@gmaﬂ.com
+content	Personal	Sex
+content	Personal	MALE
+content	Label	Nationality
+content	Personal	INDIAN
+content	Personal	Religion
+content	Personal	ISLAM
+content	Personal	Illahibagh BuchporaSrinagar, J&K -
+content	Personal	PRESENT ADDRESS
+content	Personal	- 190006
+content	Others	I hereby declare that the information provided is correct up to my knowledge.
+content	Name	IBRAHIM FAROOQMATTOO

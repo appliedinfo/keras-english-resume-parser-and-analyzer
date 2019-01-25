@@ -1,0 +1,31 @@
+content	Name	Mohammad
+content	Name	Faid
+content	Name	Jalal
+content	Personal	faid.mughal07@gmail.com | Srinagar, Iammu & Kashmir, India | Phone: +91 9797852844
+header	Label	EDUCATION
+content	Education/Qualification/Workshop	MCA (Master of Computer Application) Year 2018
+content	Education/Qualification/Workshop	University of Kashmir BCA (Bachelor of Computer Application) Year 2015
+content	Education/Qualification/Workshop	University of Kashmir
+header	Label	PERSONAL PROFILE
+content	Summary/Objective	Ambitious individual with strong academic qualifications. Lateral thinker with the ability to multitask and work under pressure and within time constraints. Articulate communicator with leadership qualities as well as strong problem-solving skills.  Ready to work in a challenging environment, both individually and also within the context of a group with the aim of using interpersonal as well as other skills in order to be an asset for the organization.
+header	Label	PROJECT WORK
+content	Project	Smart SAPP (Self-Assessment & Planning Program) 0 Period: May 2014 to July 2014
+content	Project	Description: a. Smart SAPP is an android platform-based application. b. It provides information about various courses and colleges across various states. c. 80, helping 10+2 pass out’s by providing information without need to surf the internet.
+content	Work/Experience	Role: Intern
+content	Knowledge/Skill	Environment: ADT (android developer tool)  Technology Used: Java, XML, SQLite  Responsibilities: a. Developed the Code & Design part as per the requirements. b. Handled different types of issues. 0. Handled the back end also.
+content	Project	Android Forensic Master
+content	Work/Experience	Period: July 2018 to October 2014
+content	Project	Description: a. Looks for the forensic artefacts of Cloud applications in mobile storage. b. Identifies the artefacts and present them to user.  Environment: Linux OS & Code Blocks IDE.
+content	Knowledge/Skill	Technology Used: C Language.  Responsibilities: a. Developed the Code & Design part as per the requirements. b. Handled different types of issues.
+header	Label	RESEARCH WORK
+content	Project	Title: Forensic Investigation of Cloud Applications
+content	Work/Experience	Responsibilities . Setting up the environment to carry out the research.  . Selecting the Cloud applications and performed all necessary operations on them. . Looking for the artefacts of interest which will validate our research. . Present our finding to make our argument concrete.
+header	Label	COMPUTER SKILLS
+content	Knowledge/Skill	C & C++  Java  Android  Python (numpy, Pandas, scikit) C#  HTML & CSS  Machine Learning
+header	Label	LANGUAGES
+content	SpokenLanguage	English (Fluent), Urdu (Fluent), Kashmiri (Fluent), Hindi (Conversation)
+header	Label	INTERESTS AND HOBBIES
+content	Interest/Hobby	Travel, Music, backgrounds.
+content	Interest/Hobby	Cricketer,
+content	Interest/Hobby	badminton,
+content	Interest/Hobby	Meeting and interacting with people from diverse cultural

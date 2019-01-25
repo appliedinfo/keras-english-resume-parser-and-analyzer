@@ -1,0 +1,103 @@
+content	others	PEER MUSADIQ JALAL
+content	others	MAKDDOMI
+content	education	BSC.IT, MCA
+content	others	Srinagar, Jammu and Kashmir
+content	others	Email:  musadiq.jalal@gmail.com
+content	others	Phone: +91-9070149483
+content	others	Skype:  musadiq.jalal
+content	others	linkedin.com/in/musadiq-jalal-87845191
+content	others	A  highly  motivated  and  hardworking  individual,  versatile  Computer
+content	others	Professional  with  enhanced  skills  seeking  a  challenging  position  to
+content	others	contribute  skills  as  computer  science  professional,  possessing
+content	others	competent  management  and  technical  skills. Ability  to  work  in  fast-
+content	others	paced,  challenging  environment  and  capable  of  effectively  dealing
+content	others	with  a  culturally  diverse  customer  base  along  with  an  ability  to
+content	others	effectively  troubleshoot  and  efficiently  solve  problems.  Mechanically
+content	others	minded, with a methodical approach to working and an eagerness to
+content	others	learn and develop personal skills in a practical setting. Eventual career
+content	others	goal  is  to  become  a  fully-qualified  and  experienced  Software
+content	others	Developer,  with  the  longer-term  aspiration  of  moving  into  Project
+content	others	Management.
+header	project	PROJECTS WORKED ON
+content	project	We have devised a novel drowsiness detection system for drivers/pilots
+content	project	using  OpenCV  computer  vision  library.  The  system  so  developed  is
+content	others	efficiently able to detect drowsiness based on eye related parameters
+content	others	by monitoring the blink rate and calculating the vertical and horizontal
+content	others	eye ratio and comparing it to the threshold value. Till date, there has
+content	others	not  been  a  stable  real  time  product  incorporated  in  cars  running  on
+content	others	roads or air planes. The proposed system can suitably be ported onto a
+content	others	high  speed  automotive  board  and  be  used  in  cars  and  aerospace
+content	others	vehicles. The camera used to capture the feed designed to cater to the
+content	others	dim or no light conditions around the driver which can be achieved by
+content	others	some additional hardware like led’s. The economics involved in building
+content	others	a  real  time  product  will  also  be  reasonable  considering  the  car  and
+content	others	aerospace vehicles manufacturing costs. The hit rate for the proposed
+content	others	work  was  compared  to  previous  experiments  conducted  on  different
+content	others	platforms and proved to be efficient then those.
+header	education	EDUCATION
+content	education	Senior Secondary Non Medical, Medical
+content	education	Iqbal Memorial Institute
+content	others	October 2008 - December 2010
+content	education	BSc. IT
+content	education	University of Kashmir
+content	others	June 2011 – March 2015
+content	education	MCA
+content	education	University of Kashmir
+content	others	August 2015 - Present
+header	knowledge	Core Competencies
+content	knowledge	Knowledge of Machine
+content	knowledge	Learning.
+content	knowledge	Experience with handling
+content	knowledge	several types of datasets.
+content	knowledge	• GUI development using
+content	knowledge	Python.
+content	knowledge	Familiar with ERP’s.
+content	knowledge	Basic knowledge of object
+content	knowledge	detection using machine
+content	knowledge	learning.
+content	others	Platforms
+content	knowledge	Python 2.7, 3.7
+content	knowledge	• Open CV
+content	knowledge	Familiar with facial
+content	knowledge	recognition with machine
+content	knowledge	learning.
+content	knowledge	Also worked on Human
+content	knowledge	Computer Interaction.
+content	knowledge	Knowledge of HTML, CSS, PhP
+content	knowledge	and Javascript.
+content	others	Basic knowledge of
+content	knowledge	bootstrap.
+content	knowledge	Basic knowledge of MS Office
+content	knowledge	and LATEX.
+content	knowledge	Knowledge of Core Java and
+content	others	some other programming
+content	others	languages.
+header	knowledge	Skills
+content	others	Excellent Communication
+content	others	(written/ verbal) skills in
+content	others	almost all major languages.
+content	others	Experience with content/
+content	others	technical writing techniques.
+content	others	Experienced in handling &
+content	others	management of back to back
+content	others	projects with less time-
+content	others	frames
+content	others	Advanced problem solving
+content	others	and numeracy skills.
+content	others	Accomplished communication
+content	others	skills, both written and
+content	others	verbal, developed through
+content	others	numerous essays and
+content	others	presentations given during
+content	others	my time at college as well as
+content	others	in school.
+content	others	Ability to take the initiative
+content	others	and work well under
+content	others	pressure, ensuring strict
+content	others	deadlines are met, as
+content	others	successfully demonstrated
+content	others	during work experience
+content	others	placement project.
+content	others	Flexibility, whilst maintaining
+content	others	enthusiasm and commitment
+content	others	to each project.

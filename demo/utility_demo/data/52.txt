@@ -1,0 +1,58 @@
+content	others	Manzoor Gull Wani
+content	others	Kanteerava Studio Main Road
+content	others	Yeshwantpur, Bangalore India-560022
+header	others	Cell No.
+header	others	E-Mail ID
+content	others	: +91-7006249537
+content	others	: manzoorgull96@gmail.com
+content	others	:   05/05/1995.
+header	others	Date of Birth
+header	others	Gender
+content	others	Language Proficiency  :   English,Hindi, Urdu, Kashmiri.
+content	others	:   Male.
+header	education	TECHNICAL QUALIFICATIONS
+header	education	Qualification
+header	education	Institute/University
+header	education	Session
+header	education	CGPA
+content	education	B. Tech. (Electronics and
+content	education	communication
+content	education	Engineering)
+content	education	Islamic University of Science & Technology
+content	education	Awantipora, Jammu and Kashmir, India
+content	education	2014-
+content	education	2018
+content	education	6.7
+meta	education	(scale of 10)
+header	education	ACADEMIC QUALIFICATIONS
+content	education	Index
+content	education	Class XII
+content	education	Class X
+content	education	Institute
+content	education	Board
+content	education	Session  Percentage
+content	education	Fayaz Educational institute, Jammu and
+meta	education	Kashmir, India
+content	education	Islamic public high school, Jammu and
+meta	education	Kashmir, India
+content	education	JKBOSE
+content	education	2012
+content	education	89.00
+content	education	JKBOSE
+content	education	2010
+content	education	86.00
+header	others	ACHIEVEMENTS
+content	experience	  Cisco Certified Networking Associate Training Certificate.
+content	experience	  Internship at CDAC CHANDIGARH
+content	experience	  Basic Computer Networks Training Certificate.
+header	project	PROJECTS
+content	project	  Major Project IOT and GSM based Gas management
+header	education	INDUSTRIAL TRAINING
+content	education	IOT AND GSM CDAC MOHALI
+header	others	SUBJECTS OF INTEREST OF INTEREST
+content	knowledge	  Network Security.
+content	knowledge	  Embedded
+content	knowledge	  VLSI
+content	knowledge	  Mathamatics.
+header	experience	EXPERIENCE
+content	experience	  3 year experience in teaching Physics,chemistry and Mathematics for class 9th to 12th.

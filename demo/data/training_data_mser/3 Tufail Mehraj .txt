@@ -1,0 +1,22 @@
+content	Name	TufaH
+content	Name	Mehraj
+header	Label	Professional Summary
+content	Work/Experience	Hands-on, successful Software Engineer with veriﬁable success working in teams in delivering appropriate technology solutions for web and mobile products. Comprehensive knowledge of platform development, enterprise architecture, agile methodologies, cloud services, and web-based applications. Innovative change agent with a unique mix of high-level technology direction and technical expertise.
+header	Label	Personal info
+content	Personal	Phone: (700) 613-5031
+header	Label	Employment history
+content	Personal	Email: tufailmsg@gmail.com
+content	Work/Experience	Software Developer, BitlaSoft. Banglore, Karnataka Feb. 2017 — Present
+content	Personal	Address:  BTM 2nd stage 15th main 213t cross #152 3rd ﬂoor, BENGALURU, Karnataka 560076
+content	Work/Experience	The objective to develop web and mobile application for online Cargo and Ticket booking. - Modify existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance.  . Evaluate interface between hardware and software, develop specifications and performance requirements, or resolve customer problems.  0 Direct software programming and development of documentation.  - Monitor functioning of equipment to ensure system operates in conformance with specifications.  - Research, test, or verify proper functioning of software patches and ﬁxes. PROJECTS: 1) Cargo Simply: The objective was to develop web and mobile application for online Cargo booking. The four types of users, who will be using this web application, Operators - Users who owns the vehicles for transporting the cargos. Branch Users - Users who brings in more business by referring other people the application in their area. Agents — Users who brings in more business by referring other people the application. Administrator —The owner who manages the whole application. Some of the Modules Created: - Crew Trip Report, GST Report, Notifications Tab, Lr History Filtration based on Lr Type, New Booking Type, Service Allotment Tab. 2) Ticket Simply: Client Project: redBus The objective was to develop web and mobile application for online ticketing services. The three types of users, who will be using this web application. Operators - Users who owns the bus. Agents — Users who brings in more business by referring other people the application. Administrator —The owner who manages the whole application.
+header	Label	Skills
+content	Knowledge/Skill	Angular
+content	Knowledge/Skill	Ruby On Rails
+content	Knowledge/Skill	JavaScript
+content	Knowledge/Skill	HTML
+content	Knowledge/Skill	CSS
+content	Knowledge/Skill	Git
+content	Knowledge/Skill	APl's
+content	Knowledge/Skill	SQL
+content	Education/Qualification/Workshop	Kashmir University, Srinagar, Jammu and Kashmir Master of Science, Information Technology, Jun. 2016
+content	Education/Qualification/Workshop	Islamia College of Science and Commerce, Srinagar, Jammu and  Kashmir Bachelor of Science, Electronics, Mar. 2014

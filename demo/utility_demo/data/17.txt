@@ -1,0 +1,72 @@
+content	others	Ubair Majeed Mir
+content	others	Qamarwari Main Chowk,
+content	others	Srinagar J&K 190010.
+content	others	Contact: +91-7006979865
+content	others	mirubair@gmail.com
+header	others	Objective
+content	others	Establish  a career  with a leading company where my  knowledge and efficiency  enable me to
+content	others	work  in  a  competitive  environment  where  new  methodologies  and  innovative  ideas  enhance  my
+content	others	ability to take on new challenges for the development and the success of company.
+header	experience	Experience
+content	experience	Working as a Software Developer at National IT Solutions Pvt Ltd Srinagar.
+content	experience	➢  Worked on number of projects in ASP.NET.
+content	education	o  Green Valley Education.
+content	education	o  Kashmir Harvard.
+content	project	Ingenious School.
+header	project	➢  Currently working on the following projects.
+content	project	o  RP Alamdar Boys.
+content	project	o  Medicare Diagnostic Center.
+header	project	Projects
+header	project	➢  Major Project
+content	project	❖  Project Name: Trek de Kashmir.
+content	experience	❖  Role:  Source Code and Backend Developer.
+content	knowledge	❖  Technologies Used:  Html 5, Css3, Bootstrap4, JavaScript, jQuery,
+content	knowledge	C#, Asp.net, ADO.Net, and SQL Server.
+content	project	❖  Description: This Web App is meant for online Booking of Trekking in
+content	others	Kashmir, Bike Ride to Ladakh and Pilgrimages Trips. This web App also
+content	others	Provide the gears for the trips if anyone needs.
+header	experience	Other Experience
+content	project	➢  Pick N Speak.
+content	project	NOTE: I am also currently working on the website Which I am Developing In
+content	knowledge	MVC.
+header	education	Academic
+content	education	➢  2015-2018:     Completed Bachelor in Computer Applications (B.C.A) from Kashmir
+content	education	University India.
+content	education	➢  2013-2014:     Completed Senior Secondary School Examination from Board of School
+content	education	Education (B.O.S.E), J&K India.
+header	knowledge	Technical Skills
+content	knowledge	➢  Having good experience in ASP.Net, C#, ADO.Net, Java Script, HTML, Boot Strap and
+content	knowledge	CSS
+content	knowledge	➢  Having good knowledge in Python.
+content	knowledge	➢  Having good expertise in SQL Server and MY SQL.
+content	knowledge	➢  Good knowledge of Android Development.
+content	education	➢  One-year diploma in computer basic course.
+content	knowledge	➢  Working knowledge of MS-Windows including MS-Word, MS-Excel, MS-
+content	knowledge	PowerPoint, Tally and internet.
+header	others	Personal Details
+meta	others	Name
+content	others	Ubair Majeed Mir
+meta	others	Father
+content	others	Mr. Abdul Majeed Mir
+meta	others	Date of birth
+header	others	Sex
+content	others	28 October, 1996
+content	others	Male
+content	others	Marital Status               -          Single
+content	others	Nationality
+content	others	Indian
+content	others	Languages Known
+content	others	English, Hindi, Urdu
+content	others	Hobbies
+content	others	Passport No.
+content	others	Phone
+content	others	Browsing Internet, Music and making Friends
+content	others	S5597956
+content	others	7006979865, 9070764595
+content	others	Permanent Address
+content	others	Qamarwari, near J&K Bank, Srinagar (190010)
+meta	others	Undertaking
+content	others	All the particulars mentioned above are true to the best of my knowledge.
+content	others	PLACE: Srinagar
+meta	others	DATE:
+meta	others	(Ubair Majeed Mir)
