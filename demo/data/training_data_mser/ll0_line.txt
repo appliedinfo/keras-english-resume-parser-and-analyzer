@@ -1,0 +1,24 @@
+content	Name	Sofi Nicolson
+content	Work/Experience	Senior Contract Consultant | JavaScript | New York City
+content	Personal	snicolson@premiergroup.us.com
+header	Label	Summary
+content	Work/Experience	Premier Group Recruitment (www.premiergroupuk.com) is a specialist agency recruiting across the
+content	Work/Experience	IT, Media, Engineering and HR market places.
+content	Personal	www.premiergroupuk.com
+content	Personal	Twitter - @premiergrouprec / @premiergroupUSA
+content	Personal	Facebook www.facebook.com\premiergrouprecruitment
+content	Personal	LinkedIn www.linkedin.com/company/premier-group-recruitment
+content	Personal	✉ - snicolson@premiergroup.us.com
+header	Work/Experience	Experience
+content	Work/Experience	Senior Consultant - New York City  at Premier Group Recruitment
+content	Work/Experience	I network extensively within the JavaScript community in NYC. Whether you're a contractor looking
+content	Knowledge/Skill	- UI Engineering
+content	Knowledge/Skill	- React.js
+content	Knowledge/Skill	- Node.js
+content	Knowledge/Skill	- DevOps
+content	Personal	You can reach me anytime on +1 (347) 778 - 0748 or alternatively you can email
+content	Personal	snicolson@premiergroup.us.com. I look forward to working with you!
+content	Work/Experience	Principal Consultant at Parallel Consulting
+content	Knowledge/Skill	DevOps, Python, Golang, Java, .NET, Senior Appointments, Testing & PHP.
+content	Work/Experience	Principal Consultant - JavaScript & Front End Contracts (London) at Opus Recruitment Solutions
+content	Work/Experience	Sales Assistant at Harrods

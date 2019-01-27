@@ -1,0 +1,96 @@
+content	Name	IMRAN KAWOOSA
+content	Personal	Firdous Colony, Buchpora Srinagar,J&K    ||    +91 7006303956
+content	Personal	kawoosaimran@gmail.com
+header	Label	PROFESSIONAL SUMMARY
+content	Work/Experience	13 years of hands-on experience in providing training and developing DotNet based
+content	Knowledge/Skill	windows and web applications.
+content	Work/Experience	 Extensive   knowledge   and   experience   in   Software   Product   Development   and
+content	Work/Experience	Production Support / Maintenance (Enhancements) of applications using ASP.NET
+content	Knowledge/Skill	3.5/4.0/  ADO.NET,   Visual   C#   .NET,   GoogleMap  Api,   Jason,   JavaScript,   JQuery,
+content	Knowledge/Skill	XML, HTML 5 and AJAX
+content	Work/Experience	 Developed,   Configured   and  Deployed   a   variety   of   .NET  Framework  Applications
+content	Work/Experience	including   Win   Forms,   Web   Forms,   Windows   Services,   Web   Services   and   WCF
+content	Work/Experience	 Hands-on experience with databases including SQL Server 2005, 2008R2, MySql
+content	Work/Experience	and involved in developing complex Stored Procedures, Functions and database
+content	Work/Experience	 Expert in advanced development methodologies, tools and processes contributing to
+content	Knowledge/Skill	the design and rollout of cutting-edge software applications.
+content	Work/Experience	 Known for excellent troubleshooting skills – able to analyze code and engineer well-
+content	Work/Experience	researched, cost-effective and responsive solutions.
+content	Work/Experience	 Experience   in   developing   applications   on   Information   Directory,   HealthCare,   E-
+content	Work/Experience	commerce domains using Dotnet technologies like ASP.Net, C#, SqlServer, Jquery
+content	Work/Experience	 Expertise in Troubleshooting by Debugging of an application.
+content	Knowledge/Skill	 Ability to work well in both a team environment and individual environment.
+content	Trait	 Good work ethics with interpersonal skills, self-motivated, quick learner and team
+header	Label	EDUCATION AND CREDENTIALS
+content	Education/Qualification/Workshop	 Advanced Diploma in Information Technology (DOEACC / NIELIT – Govt. of India)
+content	Education/Qualification/Workshop	 Graduation (B.Sc) University of Kashmir
+header	Label	TECHNICAL TOOLS
+content	Knowledge/Skill	Langages: Java Script, HTML, XML, C, C++,
+content	Knowledge/Skill	C#, Jason
+content	Knowledge/Skill	Technologies: Asp.Net, ADO.NET, Web
+content	Knowledge/Skill	Services, .NET Framework 2.0, 3.5, 4.0
+content	Knowledge/Skill	Operating Systems: Windows 7/8/8.1,
+content	Knowledge/Skill	Windows XP/2000/2003 Server/2008 R2
+content	Knowledge/Skill	Server/ 98
+content	Knowledge/Skill	Databases: MySql, SQL Server 2005/2008
+content	Knowledge/Skill	Reports: SQL Server reports
+content	Knowledge/Skill	Tools: Telerik Controls, Kendo UI, Tortoise SVN.
+content	Knowledge/Skill	Web Servers:
+content	Knowledge/Skill	IIS 5.1, 6.0, 7.0, 7.5, 8.0.
+header	Label	WORK HISTORY
+content	Label	JOB TITLE
+content	Work/Experience	Centre Head
+content	Work/Experience	Trainer )
+content	Work/Experience	Software Developer
+content	Work/Experience	Trainer
+content	Knowledge/Skill	Document Controller
+content	Work/Experience	/  IT Adm.
+content	Work/Experience	Faculty
+content	Label	ORGANIZATION NAME
+content	Work/Experience	Adv.Training & Computer
+content	Personal	Nowhatta, Srinagar
+content	Work/Experience	TECHCURVE Software &
+content	Work/Experience	Services Pvt. Ltd.
+content	Work/Experience	Adv.Training & Computer
+content	Work/Experience	Projacs International
+content	Personal	Qatar
+content	Work/Experience	NICT
+content	Label	DURATION
+content	Work/Experience	May 2018 – Present
+content	Work/Experience	June 2017  - May 2018
+content	Work/Experience	May 2009 – May 2017
+content	Work/Experience	Sep 2007 – June 2009
+content	Work/Experience	Aug 2004 – Feb 2006
+content	Name	Imran Kawoosa
+header	Label	KEY  PROJECTS UNDERTAKEN
+content	Project	QuantumBill
+content	Label	Description:
+content	Project	QuantumBill is a user-friendly billing software that operates in real time designed for
+content	Others	business dealing with travel. The purpose of this application is to let user generate
+content	Others	invoices/bills that too without any professional accounting knowledge
+content	Label	Tools /Technologies Used:
+content	Knowledge/Skill	C#,ADO.NET  SqlServer 2008-R2, .NetFrameWork 3.5, Infragestics Controls
+content	Project	Goldenharvesttravels.com
+content	Label	Description:
+content	Project	A web portal of Tour and Travel Agency
+content	Label	Tools /Technologies Used:
+content	Knowledge/Skill	Asp.NET,ADO.NET Java Script, HTML, C#, Jason, Jquery, Webservices,
+content	Knowledge/Skill	Google-Map APi's,   SqlServer 2008-R2, .NetFrameWork 3.5
+content	Project	Qnskashmir.com
+content	Label	Description:
+content	Project	It is a web application for a news agency.
+content	Label	Tools /Technologies Used:
+content	Knowledge/Skill	Asp.Net, Java Script, HTML, C#, Jason, Jquery, Webservices, Google-Map
+content	Knowledge/Skill	APi's ,  SqlServer 2008-R2, .NetFrameWork 4.0
+content	Label	Other Projects
+content	Work/Experience	Besides these projects  have  worked on  a lot of  projects as a freelancer  and  have
+content	Work/Experience	guided numerous students for developing their B.Tech. / M.C.A Projects.
+content	Label	Some of the projects are as
+content	Project	School   Management   System,   e-service   book,   online   voter   registration,   Library
+content	Project	management system, Fund office, Virtual class room .
+header	Label	ADDITIONAL INFORMATION
+content	Personal	Driving Lic. No.                               JK-0120140091186
+content	Personal	Marital Status                                 Married
+content	SpokenLanguage	Languages Known                         English, Urdu, Kashmiri.
+content	Personal	Date of Birth                                    23rd March 1977
+content	Name	Imran Kawoosa

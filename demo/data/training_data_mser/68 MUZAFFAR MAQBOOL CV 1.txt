@@ -1,0 +1,46 @@
+header	Label	CURRICULUM VITAE
+content	Name	MUZAFFAR MAQBOOL
+content	Personal	Buchwara Dalgate Srinagar 190001 Jammu and Kashmir , India  +91 9906662190 / +91 7006724007
+content	Personal	09 — Apr - 1992 muzaffarmagboolQlive.com
+content	Name	MUZAFFAR MAQBOOL
+content	Summary/Objective	To partake in the growth and success of the company | work for. Also I want to become a valuable person the company and work for an organization which provides me the  opportunity to improve my skills and knowledge to growth along with the organization objective.
+header	Label	OBJECTIVE
+content	Knowledge/Skill	0 Ability to Work Independently and Within Groups  0 Java, PHP and Android Programming Experience  0 Design, Test, and Develop Software/Applications to Meet User Needs 0 Document Application Process for Future Maintenance and Upgrades 0 Hands-On Software Troubleshooting Experience  0 Maintain User Manuals and Training Materials  0 Share Knowledge and Expertise with Fellow Team Members  0 Understand Software Design Patterns  0 Knowledge of Social media  0 User Interface/ User Experience  0 Solid Understanding of Company’s Needs  0 Revise Programs for Corrections, Enhancements, or Environment Changes
+header	Label	SKILLS & ABILITIES
+content	Trait	I know how to handle a team, motivate them to work at their best and give their best performance. As a leader I know how to create a good bond between a leader and a team.
+content	Trait	LEADERSHIP
+header	Label	EXPERIENCE
+content	Work/Experience	Prism Creationz. Web Developer
+content	Work/Experience	From 15-10-2018 -
+content	Work/Experience	- Present
+content	Work/Experience	Responsible for development & management of web applications for the  department.  Actively worked in an agile software development environment. Communicating with clients to determine specific requirements and expectations.  Delivering and implementing project as per scheduled milestone.
+content	Work/Experience	Heavens lnfoTech Pvt Ltd. Android Developer
+content	Work/Experience	From 10-1-2018 to 10-05-2018
+content	Work/Experience	Developed and designed Android Apps for the company. Ensure applications are properly integrated with Android APIs. Wrote clean, clear, efficient, well-tested, and maintainable code.
+content	Work/Experience	Interface Technologies Pvt. Ltd. Web Developer
+content	Work/Experience	From 6-11-2012 to 10-02-201 7
+content	Work/Experience	Developed new and customized existing projects using a variety of technologies, languages (Php, Java, JQuery and JavaScript).  Mentoring team members in development and technical progression. Worked with Database’s like MS—SQL Server, MySQL and SQLite.  Defined best practice for project support and documentation.  Cooperating and communicating with team members for better and efficient team management and work.
+content	Education/Qualification/Workshop	BSC-IT
+content	Education/Qualification/Workshop	2015
+header	Label	EDUCATION
+content	Education/Qualification/Workshop	Himalayan University (Itanagar Arunachal Pradesh , India)
+content	Education/Qualification/Workshop	GNIIT (SOFTWARE ENGINEERING)  NIIT (Residency Road, Srinagar, Jammu and Kashmir, India)
+content	Education/Qualification/Workshop	2015
+content	Education/Qualification/Workshop	DCA (DIPLOMA IN COMPUTER APPLICATIONS) Shridhar University (Pilani Rajasthan, India)
+content	Education/Qualification/Workshop	2013
+content	Education/Qualification/Workshop	CCC (COURSE ON COMPUTER CONCEPTS) DOEACC (Srinagar Jammu and Kashmir, India)
+content	Education/Qualification/Workshop	2011
+content	Education/Qualification/Workshop	12TH
+content	Education/Qualification/Workshop	2010
+content	Education/Qualification/Workshop	Tyndale Biscoe School (Srinagar Jammu and Kashmir, India)
+content	Education/Qualification/Workshop	10TH
+content	Education/Qualification/Workshop	2008
+content	Education/Qualification/Workshop	Tyndale Biscoe School (Srinagar Jammu and Kashmir, India)
+header	Label	COMMUNICATION
+content	SpokenLanguage	British English
+content	SpokenLanguage	Hindi
+content	SpokenLanguage	Urdu
+content	SpokenLanguage	Arabic (Basic)
+content	Personal	muzaffarmagboo|@|ive.com Buchwara Dalgate Srinagar 190001  Jammu and Kashmir, India
+content	Personal	+9 1—9906662190/ +9 1-7006724007
+content	Others	*** THANK YOU ***

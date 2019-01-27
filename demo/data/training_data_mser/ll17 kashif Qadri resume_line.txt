@@ -1,0 +1,100 @@
+content	Personal	KASHIF KAWSAR QADRI                                                 : skqadri90@gmail.com
+content	Work/Experience	Test Engineer
+content	Personal	 +91-8971785396, 9419068166
+content	Summary/Objective	To achieve excellence in working in an organization where I can contribute and utilize
+header	Label	Objective:
+content	Summary/Objective	the knowledge and skills acquired for my career growth.
+header	Label	Profile:
+content	Work/Experience	  1  year  and  9  months  of  IT  experience  in  Manual/Automation  Testing  (Java-
+content	Knowledge/Skill	Selenium).
+content	Work/Experience	  Experience in Writing Scripts for Manual test cases.
+content	Knowledge/Skill	  Good Exposure of Automation Testing Life Cycle(ATLC)
+content	Knowledge/Skill	  Good Knowledge on manual/Black Box testing.
+content	Knowledge/Skill	  Good Knowledge in handling Environment (ST, UAT and production)
+content	Knowledge/Skill	  Good  exposure  to  the  all  phases  of  Software  Development  Life  Cycle  (SDLC),
+content	Knowledge/Skill	Software Test Life Cycle (STLC).
+content	Work/Experience	  Experience in Functional testing, Regression testing, System testing, Web application
+content	Work/Experience	testing, defect tracking and generating defect report.
+content	Work/Experience	  Experience in the analysis, design, development, implementation of testing life cycle
+content	Work/Experience	  Experience in writing test scenarios, test cases, test plans based on requirements.
+content	Work/Experience	  Hands on experience in Quality Center (QC).
+content	Knowledge/Skill	  Good knowledge in SQL queries.
+content	Knowledge/Skill	  Group Functions, Sub-queries, Joins, Correlated sub-queries.
+content	Label	Professional Experience:
+content	Work/Experience	  Working as “Software Engineer” in IBM India Pvt Ltd, Bangalore from February 2017
+content	Label	Qualification:
+content	Education/Qualification/Workshop	B. Tech- M.Tech Integrated from Lovely Professional University(ECE),
+content	Education/Qualification/Workshop	Punjab Jalandhar in 2015 with 6.53 CGPA.
+content	Education/Qualification/Workshop	10th from JKBOSE with 80%.
+content	Education/Qualification/Workshop	12th from JKBOSE with 61.8%.
+header	Label	Software Skills:
+content	Knowledge/Skill	  Programming Languages : Groovy Script, Core Java.
+content	Knowledge/Skill	     Database
+content	Knowledge/Skill	     Frame works                     : Wordpress.
+content	Knowledge/Skill	     Scripting skills
+content	Knowledge/Skill	: SQL (ORACLE 10G)
+content	Knowledge/Skill	: Automation(Katalon Studio, Java-Selenium)
+content	Label	Automation Testing:
+content	Work/Experience	  Experience in developing test scripts in Katalon Studio.
+content	Knowledge/Skill	  Having good knowledge in writing test suits for mobile/web automation using
+content	Knowledge/Skill	Katalon Studio.
+content	Knowledge/Skill	  Well versed in API testing using Postman and SoapUI.
+content	Work/Experience	  Experience in developing selenium framework using Core Java.
+content	Knowledge/Skill	  Knowledge on Handled Dynamic Objects using Xpath expressions.
+content	Knowledge/Skill	  Good  on  writing  scripts,  TestNG  &  Annotation,  Remote  WebDriver,  Locators,
+content	Knowledge/Skill	Hub and Nodes.
+content	Knowledge/Skill	  Well versed in Selenium Grid and Jenkins tool.
+content	Knowledge/Skill	  Actively involved in preparing of Test Data and using Apache POI.
+content	Work/Experience	  Having Experience on Page Object Model, Handling Multiple Elements.
+content	Work/Experience	  Expertise in Frame work design & Frame work Implementation.
+content	Label	Core Java Concepts:
+content	Knowledge/Skill	  Good  knowledge  in  Methods,  Constructor,  Objects,  Method  Overloading  and
+content	Knowledge/Skill	Overriding.
+content	Knowledge/Skill	  Expertise in Abstract Class, Inheritance.
+content	Knowledge/Skill	  Good Explorer in Typecasting and polymorphism.
+content	Knowledge/Skill	  Having knowledge in Collection.
+content	Label	Manual Testing:
+content	Work/Experience	  Good Experience in SDLC and STLC.
+content	Work/Experience	  Hands on Experience in Smoke, Regression Testing, Functional, Integration, System
+content	Knowledge/Skill	Testing, Adhoc Testing, Compatibility Testing.
+content	Work/Experience	  Experience in Writing, Execution of Test case.
+content	Knowledge/Skill	  Good knowledge of Acceptance Testing, Exploratory Testing, I18N, L10N Testing.
+content	Knowledge/Skill	SQL Concepts:
+content	Knowledge/Skill	  Good Explorer in SQL queries.
+content	Knowledge/Skill	  Knowledge in sub queries and co-related queries.
+content	Label	QC Exposure: Project
+content	Knowledge/Skill	  Expertise in writing test cases and execution of test cases in QC.
+content	Knowledge/Skill	  Proficient in logging and tracking of defects using QC.
+content	Knowledge/Skill	  Good understanding of QC admin activities.
+content	Label	Work Experience: Project#1
+content	Project	Title                 : myAOTS
+content	Knowledge/Skill	Environment      : Java, windows
+content	Project	Team Size        : 4
+content	Project	Description      :  AOTS  (AT&T  One  Ticketing  System  –myAOTS)  –  a  front  end  tool  which
+content	Label	Roles and Responsibilities:
+content	Knowledge/Skill	Understanding the application thoroughly with help of HLD document.
+content	Work/Experience	Involved  in  Functionality  testing,  Integration  testing  and  Regression  testing,
+content	Knowledge/Skill	Compatibility testing.
+content	Knowledge/Skill	Writing the test cases for Requirement.
+content	Knowledge/Skill	Writing Automation Scripts for Manual test cases.
+content	Knowledge/Skill	Execution of Automation Scripts using TestNG.
+content	Knowledge/Skill	Running Scripts in Parallel Execution using Selenium Grid.
+content	Knowledge/Skill	Coordinating with Test Lead and Development Team for Bug Fixing.
+content	Work/Experience	Involved in Analyzing Test Results, Reporting and Tracking Defects.
+content	Work/Experience	Participated in Retrospect meeting.
+content	Work/Experience	Participated in Standup call & Scrum Meeting.
+header	Label	Personal Details:
+content	Label	Date of Birth
+content	Label	Sex
+content	Label	Marital Status
+content	Label	Languages Known
+content	Label	Permanent Address
+content	Personal	Kashmir 190006.
+content	Personal	: Male.
+content	Personal	: Single.
+content	SpokenLanguage	: English, Urdu, Hindi.
+content	Personal	: 112, Bagh-i-Usman Coloney Gulab Bagh Srinagar Jammu and
+content	Label	knowledge.
+content	Others	Place: Srinagar
+content	Others	Date:  25-11-2018
+content	Name	KASHIF KAWSAR QADRI

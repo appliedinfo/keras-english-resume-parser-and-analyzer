@@ -1,0 +1,62 @@
+content	Name	Syed
+content	Name	Faseh
+content	Name	Hashmi
+content	Summary/Objective	To succeed in an environment of growth and excellence and earn a job which provides me job satisfaction and self development and
+content	Personal	where I can utilize my skills and knowledge efficiently for achieving personal as well as organizational goals.
+header	Label	Personal Info
+header	Label	Education
+content	Label	Address
+content	Education/Qualification/Workshop	B.Tech
+content	Personal	Chattabal, Srinagar, J&K
+content	Label	. Branch:
+content	Education/Qualification/Workshop	Computer Science and Engineering
+content	Education/Qualification/Workshop	Islamic University of Science and Technology
+content	Label	- Institution:
+content	Personal	Phone
+content	Education/Qualification/Workshop	- Aggregate CGPA: 7.54
+content	Personal	9796572879
+content	Label	E-mail
+content	Education/Qualification/Workshop	12th (Science with Mathematics)
+content	Education/Qualification/Workshop	2012
+content	Personal	hashmi2faseh25yed@gmail.com
+content	Education/Qualification/Workshop	Iqbal Memorial Institute, Bemina, Srinagar
+content	Label	. Institution:
+content	Label	. Percentage:
+content	Education/Qualification/Workshop	77.4
+content	Personal	Date of birth
+content	Personal	13-05—1995
+content	Education/Qualification/Workshop	10th (Matriculation)
+content	Education/Qualification/Workshop	Linton Hall School, Rajbagh, Srinagar
+header	Label	Interests
+content	Label	. Institution:
+content	Education/Qualification/Workshop	86.4
+content	Label	. Percentage:
+content	Interest/Hobby	Reading Tech Blogs
+header	Label	Technical Skills
+content	Knowledge/Skill	Programming
+content	Knowledge/Skill	Java SE
+content	Interest/Hobby	Gaming
+content	Knowledge/Skill	C#
+content	Label	Languages
+content	Knowledge/Skill	HTML
+content	SpokenLanguage	English
+content	Knowledge/Skill	CSS
+content	SpokenLanguage	Urdu
+content	Knowledge/Skill	Bootstrap
+content	SpokenLanguage	Kashmiri
+content	Label	Final Year Project
+content	Project	Marriage Planning And Cost Estimation
+header	Label	Qualities
+content	Trait	Quick learner and ability to work under pressure.
+content	Trait	Ability to work individually as well as in group environment.
+content	Trait	Open to learning new technologies.
+content	Trait	Adapting fast to changes.
+content	Trait	Good verbal and written communication skills.
+header	Label	Training
+content	Certification	6 weeks training in Core Java from Computer Wizard, Srinagar, J&K
+content	Certification	6 weeks training in Web Development from LogicHub Software Solutions,
+content	Personal	Srinagar, J&K
+header	Label	Extracurricular Activities
+content	Trait	Winner of Kashmir Cyber Games Championship, Season 1, held by
+content	Work/Experience	LoudBeetle.in
+content	Interest/Hobby	Played Cricket and Rugby for the the school team.

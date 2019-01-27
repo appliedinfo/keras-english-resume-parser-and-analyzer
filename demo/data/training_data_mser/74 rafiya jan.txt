@@ -1,0 +1,29 @@
+content	Personal	(+91) 7006323155 rafiyajan2012@gmail.com.
+content	Summary/Objective	To pursue a career where hard work, commitment and contribution drives the growth of the individual and the organization.
+header	Label	Objective
+content	Trait	Ability to work effectively under stress with an initiative to undertake Challenging assignmentsl believe in doing the work honesty and sincerely.
+content	Trait	I take my responsibilities very seriously & exercise effective leadership to facilitate team work.
+header	Label	Competencies
+content	Trait	Problem solving capability, good grasping power, systematic efforts.
+content	Trait	Ability to adapt to Change.
+content	Education/Qualification/Workshop	M.Tech IT from Central University of Kashmir with 78% marks (Session 2016-18). B.Tech Cse from Baba Ghulam Shah University with 72.06% marks (Session 2011- 15).  12th in PCMB stream with 72% marks.  10th from Standard Public School with 77.6 % marks.
+header	Label	Educational Qualiﬁcation
+header	Label	Major projects
+content	Project	[1]. Title: Social Emoticon Prediction. Organization: CU Kashmir. Duration: Three months. Project description: Research Project (Social Emoticon Prediction).
+header	Label	Projects
+content	Project	[2]. Title: Sentiment Analysis Using Svm Project description: Determine sentiments using different features.
+content	Project	[3]. Title: Time-Table Management System. Organization: BGSBUniversity. Duration: Three months. Project description: Time table for BGSBUniversity.
+content	Work/Experience	1) Summer internship: Asp.netC0urse Organization: Taqwa Technologies. Duration: 45 days.
+header	Label	Trainings
+content	Certification	2) Course: Asp.net. Organization: National It Solutions. Duration: 3 months.
+content	Personal	(+91) 7006323155 rafiyajan2012@gmail.com.
+content	Publication	[1]. PRE-PROCESSING OF SOCIAL MEDIA POSTS (UGC APPROVED JOURNAL).  [2]. SOCIAL EMOTION PREDICTION: A REVIEW OF SENTIMENT ANALYSIS TECHNIQUES USED IN SOCIAL NETWORKS (UGC APPROVED JOURNAL).  [3]. EMOTION MINING USING SEMANTIC SIMILARITY (SCOPUS INDEXED JOURNAL).
+header	Label	Publications
+content	Knowledge/Skill	Natural Language Processing Deep Learning  Microsoft Office  Java  Asp.net  C#  HTML
+header	Label	Technical Skills
+content	Label	Date of Birth: Nationality:  Marital Status: Permanent Address:
+content	Personal	12 November 1992.  Indian  Single  Sangeen Darwaza Hawal, Srinagar, J&K India 190011.  English, Urdu and Kashmiri.
+header	Label	Personal Details
+content	Label	Language Proficiency
+content	Others	I hereby declare that the above information is true to the best of my knowledge.
+content	Name	Rafiya Jan

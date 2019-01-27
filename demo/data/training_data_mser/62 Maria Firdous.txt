@@ -1,0 +1,43 @@
+content	Personal	Jan Mohalla, Lalbazar, Srinagar, J &K
+content	Name	MARIA FIRDOUS
+content	Education/Qualification/Workshop	ELECTRONICS AND COMMUNICATION
+content	Personal	(+91) 8491 897824
+content	Education/Qualification/Workshop	ENGINEER ACADEMIC QUALIFICATIONS
+content	Personal	mariaﬁrdous @ maﬁcom
+content	Education/Qualification/Workshop	(2013-
+header	Label	OBJECTIVE
+content	Education/Qualification/Workshop	B.TECH. IN ELECTRONICS & COMMUNICATION ENGG. UNIVERSITY OF KASHMIR, SRINAGAR, J & K Graduated With B.TECH., in electronics and communication engineering  discipline from University of Kashmir, Srinagar, J &K and secured a percentage of 82.23%.  IAn4 A\
+content	Summary/Objective	Dedicated and motivated electronics and communication engineering professional looking for an opportunity to work in creatively challenging environment and utilize my technical abilities and skills towards achieving the goals of the organization.
+content	Education/Qualification/Workshop	(2012)
+content	Education/Qualification/Workshop	HIGHER SECONDARY (HSC)  SCIENCE (Non Medical)  Completed the higher secondary or Class 12th from Mallinson Girls Hr. Secondary School, Srinagar affiliated to the J ammu and Kashmir state board of school education With 93.4% (Distinction).
+content	Education/Qualification/Workshop	(2010)
+header	Label	WORK SKILLS & SOFTWARE PROFICIENCY
+content	Education/Qualification/Workshop	SECONDARY SCHOOL (SSC) SCIENCE Completed the secondary school or Class 10th from Mallinson Girls Hr.  Secondary School, Srinagar affiliated to the J ammu and Kashmir state board of school education With 93.6% (Distinction).
+content	Knowledge/Skill	MMMB IIIII SMmo IIIII  RF PLANNING  TOOL (ATOLL) wmmL IIIII 'mMT IIIII  RF DRIVE TEST TOOL (TEMS) CISCO PACKET TRACER  wmwmslllll mwwn IIIII Mwmn IIII  POWERPOINT I'll
+content	Knowledge/Skill	MATLAB
+content	Knowledge/Skill	SAP2000
+header	Label	TECHNICAL EXPERIENCE & PROJECTS
+content	Knowledge/Skill	RF PLANNING TOOL (ATOLL)
+content	Work/Experience	TRAINEE ENGINEER  BSNL, BRBRAITT, JABALPUR, INDIA  Completed Advanced vocational training in Mobile Telecommunication and learned about latest technologies, software programs like RF planning tool (ATOLL), WinFIOL, TEMS(RF drive test tool), Telnet and various hardware equipments required for Mobile Communication in different geographical areas and at BSCs and MSCs.
+content	Knowledge/Skill	WINFIOL
+content	Knowledge/Skill	TELN ET
+header	Label	SOLID WORKS
+header	Project	ACADEMIC PROJECT  Secure and reversible data-hiding scheme for healthcare system using magic rectangle and a new interpolation technique  A very high capacity and secure medical image information embedding scheme capable of hiding Electronic Patient Record (EPR) imperceptibly in greyscale medical images for healthcare application Where reversibility and security is ensured using a watermark.
+content	Knowledge/Skill	MS WORD
+content	Knowledge/Skill	MS EXCEL
+content	Knowledge/Skill	MS POWERPOINT
+header	Label	LANGUAGE PROFICIENCY
+content	Project	ACADEMIC PROJECT/SEMINAR  CLAYTRONICS  An abstract future concept that combines nano- scale robotics and computer science to create individual nano-scale computers called Claytronic atoms, or Catoms and introduces a new and yet to be explored branch of technology, “The Programmable Matter” that enables us to control and manipulate 3D physical artifacts.
+content	SpokenLanguage	ENGLISH
+content	SpokenLanguage	HINDI
+content	SpokenLanguage	URDU
+content	SpokenLanguage	KASHMIRI
+header	Label	STRENGTHS
+content	Trait	VVVVVV  Excellent Interpersonal and Communication skills. Ability to work in a team.  Hardworking.  Punctual.  Determinate and disciplined.  Willing to learn and adapt to new skills.
+header	Label	PERSONAL PROFILE
+content	Label	Name :  DOB :  Father’s Name : Gender :  Present Address : Permanent Address :
+content	Personal	Maria Firdous  05/07/1993  Firdous Ahmad J 00  Female  Jan Mohalla, Lalbazar, Srinagar, J ammu & Kashmir - Jan Mohalla, Lalbazar, Srinagar, J ammu & Kashmir -
+content	Personal	190023 190023
+meta	Label	REFERENCES:
+content	Personal	Place: Srinagar
+content	Name	Maria Firdous

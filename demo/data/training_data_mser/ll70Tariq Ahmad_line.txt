@@ -1,0 +1,58 @@
+content	Name	Tariq Ahmad sheikh
+header	Label	Career Objective
+content	Summary/Objective	Looking towards to achieve a challenging, dynamic and responsible position in an environment where I can Contribute my skills acquired during my period of experience that strives for overall Development of the Organization and myself., Being Part of a team having will to learn, would like to work in a condition that increase my strengths, ultimately leading to the value additions and organizational Goals To achieve a challenging, dynamic and responsible position in an environment where I can Contribute my skills acquired during my period of experience that strives for overall Development of the Organization and myself.
+header	Label	Summary
+content	Work/Experience	Having Overall 1 year and 7 month of experience in Installations, Deployments, Maintenance and Troubleshooting in Infrastructure as Linux, VMware VSphere/ESX System Maintenance VMware VSphere ESXi and vSAN.
+header	Label	Technical Skills
+content	Knowledge/Skill	Administration of VMware ESX, ESXi Servers using vCenter Server.
+content	Knowledge/Skill	Configuring High Availability (HA), Distributed Resource Scheduler (DRS), Distributed Power Management (DPM) and vNetwork Distributed Switch (VDS).
+content	Knowledge/Skill	Configuring and management of Datastore using vSAN (FC SAN, iSCSI SAN and NFS-based).
+content	Knowledge/Skill	vSAN: Deploy and Manage
+content	Work/Experience	Documented the client's existing infrastructure, technological assets and capabilities using tools like VMware Operations manager.
+content	Knowledge/Skill	Supporting virtual Infrastructure comprising of 500+ VMware ESX/ESXi servers.
+content	Work/Experience	Migration and consolidation of Physical and Virtual Servers from one datacenter to other datacenter using VMware vCenter Converter Plate Spin Migrate.
+content	Work/Experience	Installed, Configured and administered ESX 5.0/5.1/5.5/6.0/6.5 on HP Blade servers using HP onboard administrator for the HP Blade C7000 chassis & enclosures.
+content	Knowledge/Skill	Creation of standard Virtual Machines and templates for VMware ESX, Lab Manager & Workstation.
+content	Work/Experience	Responsible for Backup/recovery strategy of all ESX servers. Planning and implementing fault tolerance and strategies for backup and restoring files on the network.
+content	Knowledge/Skill	Operating System
+content	Knowledge/Skill	VMware VSphere/ESXi
+content	Knowledge/Skill	Red Hat Linux
+content	Knowledge/Skill	Hypervisor
+content	Knowledge/Skill	Microsoft Windows
+content	Label	Professional Details
+content	Label	Engagement History
+content	Label	Working Experience
+content	Work/Experience	Organization: Wipro Limited
+content	Work/Experience	Designation: Project Engineer
+content	Work/Experience	Duration: 30th March 2017 to Till Date
+header	Label	Roles and Responsibilities
+content	Work/Experience	As a team member, I am responsible for providing solution as per below mentioned critical matrix.
+content	Knowledge/Skill	Installation, configuration, and administration of VMware ESXi and VMware virtual center.
+content	Knowledge/Skill	Installation, Configuration, Administration and troubleshooting for VMware ESX servers.
+content	Knowledge/Skill	Creation and deletion of Snapshots of Virtual Machines.
+content	Knowledge/Skill	Hot and Cold Cloning of Virtual Machines.
+content	Knowledge/Skill	P2V, V2V using VMware Converter.
+content	Knowledge/Skill	Move Virtual Machines between Host (VMotion) and Datastore (SVMotion) as per requirement.
+content	Knowledge/Skill	Creating Clusters for High Availability and Dynamic Resource Scheduling.
+content	Knowledge/Skill	Adding and Removing hosts from clusters.
+content	Knowledge/Skill	Creation of Virtual Switches, Ports and Port groups (Management Network, VMkernel for VMotion & Virtual Machine).
+content	Knowledge/Skill	Creating vmfs Datastores by using the LUNs assigned by SAN.
+content	Knowledge/Skill	Creating and managing Virtual Machines and Deploy VM from Templates.
+content	Knowledge/Skill	VM resources allocation and deallocation
+content	Knowledge/Skill	Install VM tools in Guest OS/VM
+content	Knowledge/Skill	Troubleshooting on All Unix OS relates to OS performance, NIC card, Network issue
+content	Knowledge/Skill	OS level troubleshooting based on all physical or virtual production or pre-production servers.
+content	Knowledge/Skill	Working on Volume manager like LVM, SVM & Vxvm on all Unix box.
+content	Knowledge/Skill	Troubleshooting User Login problems and Server Booting Problems in Linux OS.
+header	Label	Academic Profile
+header	Label	Education
+content	Education/Qualification/Workshop	MCA (Master of computer Applications ) completed from Visvesvaraya Technological University (Karnataka)
+content	Knowledge/Skill	VSP - HCI (Hyper-Converged Infrastructure 2017)
+content	Knowledge/Skill	VTSP - HCI (Hyper-Converged Infrastructure 2017)
+header	Label	Personal Details
+content	Personal	Father’s Name: GH Mohammad Sheikh
+content	Personal	Sex: Single
+content	Personal	Marital Status: Married
+content	SpokenLanguage	Language: English, Hindi, Urdu
+content	Personal	Nationality: Indian
+content	Personal	Passport: Yes (Valid upto 21/12/2026)

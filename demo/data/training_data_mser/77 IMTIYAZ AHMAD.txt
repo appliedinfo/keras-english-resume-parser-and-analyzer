@@ -1,0 +1,9 @@
+content	Name	IMTIYAZ
+header	Name	AH MAD
+content	Personal	emmoimtiya22914@gmail.com Pehloo, Brane, Nishat, Srinagar. +919086969634, +918082595181.
+content	Summary/Objective	My objective is to work in a company where I can develop my LT and management skills for the mutual benefit of myself as well as for the company.
+content	Education/Qualification/Workshop	, WM  2010 Matriculation (81 .40%)
+content	Education/Qualification/Workshop	2012 Matriculation (84.40%)
+content	Education/Qualification/Workshop	K¢  2016 graduation (64%, BBA)
+content	Work/Experience	2018 GNIIT(software development), Digital marketing.
+content	Knowledge/Skill	Php  MySQL  Asp.net  Sql database Jquery  Ajax  Html  Management skills

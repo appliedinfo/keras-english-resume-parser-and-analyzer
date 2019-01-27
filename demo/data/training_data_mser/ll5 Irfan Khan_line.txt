@@ -1,0 +1,79 @@
+content	Name	IRFAN AHMAD KHAN                Contact: (+91)7006415719/9796950599
+content	Work/Experience	Software Developer                               E-Mail: khanirfankhan.99@gmail.com
+content	Personal	Srinagar, J&K
+content	Summary/Objective	Aspired to Pursue Career Opportunities in Software Engineering with an
+content	Summary/Objective	Organization where I can Effectively Contribute my Skills as Software Professional.
+header	Label	Career Objective
+content	Summary/Objective	To work and evolve in a technologically driven environment where my skills and
+content	Summary/Objective	efforts are put to action to yield fruitful outcomes for the organization.
+header	Label	Profile Summary
+content	Trait	 A logical, analytical thinker with excellent organisational skills
+content	Work/Experience	 Coordinating client’s needs, customization, software-related issue of clients
+content	Trait	to provide solutions in adherence to delivery schedules
+content	Knowledge/Skill	 Good understanding of PHP , SQL and Database concepts
+content	Trait	Instrumental in preparing solutions by determining and designing system
+content	Trait	 Wanted to serve organization with honesty and full efficiency to make the
+content	Trait	Quick learner, Ready to adapt to new technologies.
+content	Trait	 Have good communication and aptitude skills
+header	Label	TECHNICAL SKILLS
+content	Knowledge/Skill	Have good knowledge on C, C++, C#, PHP, SQL.
+content	Knowledge/Skill	Web Technologies: HTML, CSS, Bootstrap, JavaScript, Jquery.
+content	Knowledge/Skill	Database: MySQL,  SQL Server.
+header	Label	Academic Details
+content	Education/Qualification/Workshop	Standard Institution
+content	Education/Qualification/Workshop	MCA
+content	Education/Qualification/Workshop	BCA
+content	Education/Qualification/Workshop	12TH
+content	Others	Year
+content	Work/Experience	2014-2017
+content	Education/Qualification/Workshop	KASHMIR UNIVERSITY
+content	Education/Qualification/Workshop	ISLAMIA COLLEGE
+content	Education/Qualification/Workshop	S.P HIGHER SECONDARY 2009
+content	Education/Qualification/Workshop	Computer
+content	Education/Qualification/Workshop	70%
+content	Education/Qualification/Workshop	Applications
+content	Education/Qualification/Workshop	Computer
+content	Education/Qualification/Workshop	Applications
+content	Education/Qualification/Workshop	Non-Medical
+content	Education/Qualification/Workshop	69.09%
+content	Education/Qualification/Workshop	62.26%
+header	Label	Work Experiance  :
+content	Work/Experience	Web Developer at LogicParadise Software Limited.
+content	Work/Experience	(Time Duration:From May 2018 to Present)
+header	Label	Academic Project:
+content	Label	PROJECT #1 (2017)
+content	Project	Title                             :     Rental kart
+content	Work/Experience	Team Size                   :      3
+content	Knowledge/Skill	 Application Tools       :     XAMPP Server
+content	Knowledge/Skill	 Database                     :      MS-SQL Server 2008
+content	Knowledge/Skill	 Operating Systems      :     WINDOWS 7
+content	Work/Experience	 Role                              :    Backend developer
+content	Knowledge/Skill	Technology Used        :     MySql,PHP,Html,Css,JavaScript
+content	Project	Description: -   An online platform that can be used for lending products and
+content	Label	PROJECT #2 (2016)
+content	Publication	 Submitted a research paper on Iris Recognition System.
+content	Publication	 DESCRIPTION: - This paper delivers a iris coding method for effective
+content	Label	PROJECT #3 (2014)
+content	Project	Title                             :    Developed inventory management system
+content	Work/Experience	Team Size                   :        1
+content	Knowledge/Skill	 Application Tools       :        XAMPP Server
+content	Knowledge/Skill	 Database                     :        MS-SQL Server 2008
+content	Knowledge/Skill	 Operating Systems     :        WINDOWS 7
+content	Knowledge/Skill	Technology Used       :       PHP, Mysql ,javascript
+content	Label	Description:   -
+content	Project	Inventory   management   software is   a software_system for   tracking inventory levels
+content	Label	PROJECT #4(2013)
+content	Project	Title                          :       Inventory System
+content	Work/Experience	Team Size                :        4
+content	Knowledge/Skill	 Application Tools    :      VB platform
+header	Knowledge/Skill	 Database                  :     MS-SQL Server 2008
+content	Knowledge/Skill	 Operating Systems  :     Windows XP
+content	Work/Experience	 Role                        :      Backend developer
+content	Project	Description :- :Developed inventory System for Gadget Point Mobile Store.
+content	Label	Hobbies
+content	Interest/Hobby	Reading books, Exploring new softwares
+content	Interest/Hobby	Driving, Playing Cricket
+header	Label	LANGUAGES
+content	SpokenLanguage	English
+content	SpokenLanguage	Urdu
+content	SpokenLanguage	Kashmiri

@@ -1,0 +1,15 @@
+content	Personal	ARWA TARIQ arwatariq78@gmai|.com | +91 96224 55231
+content	Summary/Objective	CAREER OBJECTIVES  Self-motivated and hardworking fresher seeking for an opportunity to work on a position where i could constantly learn, contribute and grow along with the organization
+content	Work/Experience	SKILLS  0 Language: C, CoreJava 0 Database: MySQL  0 Web Technology: HTML
+content	Education/Qualification/Workshop	EDUCATION  UNIVERSITY OF KASHMIR  SSM COLLEGE OF ENGINEERING AND TECHNOLOGY B.E (ELECTRONICS AND COMMUNICATION)
+content	Education/Qualification/Workshop	67.7% 2018
+content	Education/Qualification/Workshop	Govt. Girls Higher Secondary School (Srinagar) 12TH (JKBOSE)
+content	Education/Qualification/Workshop	69% 2013
+content	Education/Qualification/Workshop	JK PUBLIC HIGH SCHOOL 10th (JKBOSE)
+content	Education/Qualification/Workshop	78% 2011
+content	Project	PROJECTS  Globally Voice Controlled Home Automation System (Team of 5)  0 Designed a Voice Controlled Home Automation System using Arduino Uno.  O Leveraged DTMF technology for accuracy and speed.  0 Integrated the Geetech Arduino Voice Recognition Module into the system.  Q Included security features such as access control and alarm system.  0 Added sensors to aid automatic operation of lights.  Technologies used: C, Arduino Uno, Geetech Voice Recognition, DTMF Technology
+content	Work/Experience	AssethSE3 - Preva Systems Pvt Ltd  0 AssetWISE3 is an enterprise Application developed for managing as well as tracking the Asset in the warehouse.  Q Enabled auto refresh (60sec) for the live inventory reports.  Technologies used: Java, Eclipse IDE, HTML
+content	Certification	INDUSTRIAL TRAINING  Four week training from Bharat Sanchar Nigam Limited (BSNL) (May, 2017) Topics covered:  Mobile communication system  Digital Switching System.  Transmission of information using Optical Fiber Cables and Receiving it using Optical Detector  Working and Structure of Optical Fiber.  Joining Optical fiber Cables.
+content	Others	DECLARATION  I hereby certify that the above furnished information is correct and true to the best of my knowledge.
+header	Personal	Place: Bangalore
+content	Name	Arwa Tariq

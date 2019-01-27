@@ -280,6 +280,7 @@ class SegmentText(object):
 
         i = 0
         j = 0
+        
         while i < bb.shape[0]:
             j = i + 1
             if not j < bb.shape[0]:

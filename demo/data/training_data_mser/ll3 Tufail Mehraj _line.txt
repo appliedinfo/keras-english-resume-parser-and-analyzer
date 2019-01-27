@@ -1,0 +1,43 @@
+content	Name	Tufail  M ehraj
+header	Label	Professional Summary
+header	Label	Personal info
+content	Label	Phone:
+content	Personal	(700) 613-5031
+content	Label	Email:
+content	Personal	tufailmsg@gmail.com
+content	Label	Address:
+content	Personal	BTM 2nd stage 15th main 21st
+content	Personal	cross #152 3rd ﬂoor, BENGALURU,
+content	Personal	Karnataka 560076
+header	Label	Skills
+content	Knowledge/Skill	Angular
+content	Knowledge/Skill	Ruby On Rails
+content	Knowledge/Skill	JavaScript
+content	Knowledge/Skill	HTML
+content	Knowledge/Skill	CSS
+content	Knowledge/Skill	Git
+content	Knowledge/Skill	API's
+content	Knowledge/Skill	SQL
+content	Work/Experience	Hands-on, successful Software Engineer with veriﬁable success working in teams
+content	Work/Experience	in delivering appropriate technology solutions for web and mobile products.
+content	Knowledge/Skill	Comprehensive knowledge of platform development, enterprise architecture, agile
+content	Knowledge/Skill	methodologies, cloud services, and web-based applications.  Innovative change
+header	Label	Employment history
+content	Work/Experience	Software Developer, BitlaSoft. Banglore, Karnataka
+content	Project	The objective to develop web and mobile application for online Cargo and Ticket
+content	Project	Modify existing software to correct errors, to adapt it to new hardware, or to
+content	Project	upgrade interfaces and improve performance.
+content	Work/Experience	Direct software programming and development of documentation.
+content	Work/Experience	Monitor functioning of equipment to ensure system operates in conformance
+content	Work/Experience	Research, test, or verify proper functioning of software patches and ﬁxes.
+header	Label	PROJECTS:
+content	Project	1) Cargo Simply:
+content	Project	The objective was to develop web and mobile application for online Cargo booking.
+content	Knowledge/Skill	• Crew Trip Report, GST Report, Notiﬁcations Tab, Lr History Filtration based on Lr
+content	Project	2) Ticket Simply:
+content	Project	Client Project: redBus
+header	Label	Education
+content	Education/Qualification/Workshop	Kashmir University, Srinagar, Jammu and Kashmir
+content	Education/Qualification/Workshop	Master of Science, Information Technology, Jun. 2016
+content	Education/Qualification/Workshop	Islamia College of Science and Commerce, Srinagar, Jammu and
+content	Education/Qualification/Workshop	Bachelor of Science, Electronics, Mar. 2014

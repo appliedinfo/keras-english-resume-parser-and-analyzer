@@ -1,0 +1,55 @@
+content	Name	Bisma Shakeel
+content	Personal	Permanent Address: Munawarabad, Srinagar
+content	Personal	Present Address: Bemina, Srinagar
+content	Personal	E-mail:  Bismakhan2080@gmail.com
+content	Personal	Contact No:  +919796170343,  +919622427583
+header	Label	Career Objective:
+content	Summary/Objective	To obtain a responsible, challenging and awarding position in an organisation with an
+header	Summary/Objective	established track record where my skills, abilities and technical abilities can be utilized. I
+content	Summary/Objective	would like to be a part of an organisation where I could use and enhance my knowledge and
+content	Summary/Objective	talent for the development of both the organisation and myself.
+header	Label	Technical Skills:
+content	Knowledge/Skill	Languages :                     C , C++ , Core Java , C#, Spring MVC, Spring Boot, Hibernate
+content	Knowledge/Skill	•  Web Technologies :       HTML ,CSS, Bootstrap
+content	Knowledge/Skill	•  Database :                       SQL Server, MYSQL
+content	Knowledge/Skill	•  Operating System :        Windows XP / 7 / 8 / 10
+content	Knowledge/Skill	•  Packages :                        Microsoft Office 2003, 2007, 2010, 2013, 2016
+header	Label	Work Experience:
+content	Work/Experience	Software Engineer: GreyDelta Inc. | May 2018-Present.
+content	Work/Experience	Developed REST Services for Security System and Inventory Management System using
+content	Knowledge/Skill	Spring Boot, Maven and MYSQL.
+content	Work/Experience	Software Engineer:  National IT Solutions | Dec 2017-April 2018.
+content	Work/Experience	Worked on school, college, hospital, front office projects using ASP.NET and MsSQL.
+header	Label	Education:
+content	Education/Qualification/Workshop	•  Bachelor of Engineering in Computer Science & Engineering (2013-2017) From SSM
+content	Education/Qualification/Workshop	College of Engineering & Technology under the affiliation of University of Kashmir.
+content	Education/Qualification/Workshop	•  3 Year Diploma in Computer Science & Engineering (2010-2013) From Govt.
+content	Education/Qualification/Workshop	Polytechnic for Women under the affiliation of State Board of Technical Education
+content	Education/Qualification/Workshop	•  Matriculation (10th) : State Board of School Education (Jammu And Kashmir) From
+content	Education/Qualification/Workshop	CPM High School.
+content	Education/Qualification/Workshop	Industrial Training & Certification:
+content	Education/Qualification/Workshop	•  8 weeks training on java SE7 programming from RationalTabs Technologies Pvt. Ltd.
+content	Education/Qualification/Workshop	•  Bluemix Enablement Session  Cloud Computing From IBM.
+content	Label	Academic Project:
+content	Project	•  Title: Online Food Ordering System
+content	Work/Experience	Language Used: .NET & SQL Server.
+content	Project	•  Description: Online Food Ordering System is a web portal intended for online
+content	Others	ordering of food. This portal helps a customer visiting the website to make his choice
+content	Work/Experience	•  Role: Designing of customer panel and admin panel, database connectivity.
+content	Trait	Interpersonal Skills:
+content	Trait	•  Ability to rapidly build relationship and setup trust.
+content	Trait	•  Ability to cope up with different situations.
+header	Label	Personal Details:
+content	Name	Name:                                                                           Bisma Shakeel
+content	Personal	Father’s Name:                                                           Mr. Shakeel Ahmad
+content	Personal	Date Of Birth:                                                              5th May 1995
+content	Personal	Gender:                                                                        Female
+content	Personal	Marital Status:                                                            Single
+content	Personal	Nationality:                                                                  Indian
+content	SpokenLanguage	Languages:                                                                   English, Urdu
+content	Trait	Strength:                                                                      Hardworking, Punctual
+content	Label	Declaration:
+content	Others	I hereby declare that the above mentioned information is correct up to my knowledge and I
+content	Others	bear the responsibility for the correctness of the above mentioned particulars.
+content	Personal	Place: Srinagar J&K
+content	Name	Bisma Shakeel

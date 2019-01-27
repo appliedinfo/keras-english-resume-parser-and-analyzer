@@ -1,0 +1,22 @@
+content	Name	TOYEEBA FAYAZ
+content	Personal	Hyderpora, ,
+content	Personal	7006567889 | Khantoyeeba24@gmail.com
+content	Label	EXPERIENCE
+content	Work/Experience	Fairdeal motors srinagar
+content	Work/Experience	CRO
+content	Label	EDUCATION
+content	Education/Qualification/Workshop	IQBAL INSTITUTE OF TECHNOLOGY AND MANAGEMENT
+content	Education/Qualification/Workshop	BCA 9.333
+header	Label	TECHNICAL SKILLS
+content	Work/Experience	Website developer
+content	Label	ACHIEVEMENTS & AWARDS
+content	Certification	Certiﬁcate of php & mysql course from nielet
+header	Label	PERSONAL PROFILE
+content	Label	Date of Birth
+content	Label	Marital Status
+content	Label	Nationality
+content	SpokenLanguage	Known Languages : English, urdu,kashmiri
+content	Personal	: 14/08/1995
+content	Personal	: Single
+content	Personal	: Indian
+content	Name	TOYEEBA FAYAZ

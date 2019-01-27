@@ -1,0 +1,52 @@
+content	Name	SAHIL AYOUB DAR
+content	Education/Qualification/Workshop	B.Tech: civil engineering  Email:sahﬂdar1859@gmaﬂ.com Contact No.: +919469001656
+content	Personal	Contact No.
+header	Label	Objective
+content	Summary/Objective	To do my task with full dedication as a part of an organization with sincerity and be a learner throughout my life is my major professional objective that always gives me the strength to work much harder than yesterday. To excel in academics and research, that encourages learning abilities and competitive skills and to do my work with utmost
+content	Summary/Objective	abilities and competitive commitment and honesty.
+header	Label	Educational Qualification
+content	Education/Qualification/Workshop	College/ School
+content	Education/Qualification/Workshop	Level
+content	Education/Qualification/Workshop	Board
+content	Education/Qualification/Workshop	GPA/ Mark
+content	Education/Qualification/Workshop	University
+content	Education/Qualification/Workshop	Baba Ghulam shah Badshah University Rajouri (J & K).
+content	Education/Qualification/Workshop	School Engineering technology
+content	Education/Qualification/Workshop	B.tech (Civil Engineering)
+content	Education/Qualification/Workshop	81.2 %
+content	Education/Qualification/Workshop	and sainik
+content	Education/Qualification/Workshop	Jammu an Kashmir saini school  manasbal kmr.
+content	Education/Qualification/Workshop	Central board C  secondary education New Delhi
+content	Education/Qualification/Workshop	2012
+content	Education/Qualification/Workshop	12th
+content	Education/Qualification/Workshop	69.2 %
+content	Education/Qualification/Workshop	and sainik
+content	Education/Qualification/Workshop	Jammu an Kashmir saini school  manasbal kmr.
+content	Education/Qualification/Workshop	Central  secondary New Delhi
+content	Education/Qualification/Workshop	board of education
+content	Education/Qualification/Workshop	10th
+content	Education/Qualification/Workshop	2010
+content	Education/Qualification/Workshop	7.4
+header	Label	Areas of Interest
+content	Knowledge/Skill	Water Resources Engineering Structural Engineering Environmental Engineering
+header	Project	Projects
+content	Project	B.Tech Project.  Precipitation, Infiltration and Runoff analysis of upper Jhelurn basin (J 81 K)
+content	Certification	Industrial Training.  Summer Training for six weeks at vessu Quazigund for construction of Additional transit accommodation for Kashmiri pandits.
+content	Trait	Achievements.  1St position in debate on Gandhi jayanti celebrations.  1St position in high jump on annual sports meet.  3rd position in debate on Iqbal day celebrations.  Member Institution of Civil Engineers UK.  Affiliate Member American Society Of Civil Engineers ASCE  Awarded certificate of appreciation for active participation and support. Swachhta pakhwada (1St to 15th November 2016) BGSBU Rajouri.  Awarded certificate of appreciation on Independence Day Celebrations 2010.
+content	Label	Research Papers.
+content	Publication	International Journal  “Use of Horse Hair as fiber reinforcement in concrete” International Journal of Advanced Research.(June(30)issue, VOL 3(2015) ).ISSN NO 2520-5437
+content	Knowledge/Skill	Computer Proficiency > Applications-MS Office. > Complete working knowledge in internet applications. > CAD.
+content	Trait	Core Competencies > Good communication skills.
+content	Trait	> Good convincing power, ability to deal with people diplomatically.
+content	Trait	> Good leadership qualities. > Creative and practical approach. > Willingness to learn and work smart.
+content	Trait	Extracurricular activities  Attended Combined Annual Training camp of National Cadet Corps (17th August 2009 to 27‘h August 2009).  Attended Combined Annual Training camp of National Cadet Corps(6‘h May to 15th May 2011).  Attended workshop on ART EDUCATION (23ml of June to 30 June 2010). Participated in National Handwriting and Colouring Contest 2009.  Participated in Independence day celebrations 2006,2007,2008,2009,2010,2011. Participated in Republic day celebrations 2006,2007,2008,2009,2010,2011. Debates, Seminars and Painting.  News paper reading, Mountaineering, Sports.  Play an active role in organizing different awareness programmes under National Service Scheme.
+content	Label	Personal Profile: Date of Birth: Fathers Name: Linguistic Ability: Marital status: Nationality: Religion:  Postal address:
+content	Personal	06/11/1994.  Mohd Ayoub Dar.  English, Urdu, Kashmiri, Hindi. Unmarried.  Indian.  Islam. K-Kalan Bijbehara Anantnag J &K 192401
+header	Label	References
+content	Personal	1. Vaseern Shahnaz. Head and Assistant professor Civil engineering SOET  Baba Ghularn Shah Badshah University Raj ouri J & K Mobile. 9906337001
+content	Personal	2. Nasir Ahmad Rather. Assistant professor Baba Ghulam Shah Badshah University Raj ouri J & K Mobile. 9906677123
+content	Personal	E-Mail:sahildar1859@gmai|.com
+content	Personal	Mobile: 9469001656, 7006239104.
+content	Personal	Address for Correspondence
+content	Personal	Civil Engineering Department  School of Engineering and technology BGSB University  Rajouri 185234 J&K INDIA
+content	Name	(SAHIL AYOUB DAR)

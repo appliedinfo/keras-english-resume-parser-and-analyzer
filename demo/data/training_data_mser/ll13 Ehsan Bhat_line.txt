@@ -1,0 +1,39 @@
+content	Name	Ahsan Bin Tariq
+content	Personal	Batamaloo, J&K
+content	Personal	Contact No. +91-9682671387
+header	Label	GOVERNING QUALITIES :
+content	Trait	 Having Good communication skills and a quick learner.
+content	Trait	 Willing to learn new things and motivates people very well.
+content	Trait	   Logical, analytical and computational skills.
+content	Trait	   Flexible to work individual as well as in team.
+content	Trait	   Proficient in maintaining the existing program with implementation of new techniques.
+header	Label	EDUCATION:
+content	Label	Degree
+content	Education/Qualification/Workshop	BCA Graduate
+content	Education/Qualification/Workshop	10th
+content	Education/Qualification/Workshop	12th
+content	Knowledge/Skill	PHP MY Sql
+content	Label	Experience
+content	Education/Qualification/Workshop	Board
+content	Education/Qualification/Workshop	Kashmir University
+content	Education/Qualification/Workshop	JK BOSE
+content	Education/Qualification/Workshop	JK BOSE
+content	Education/Qualification/Workshop	Nielet
+content	Others	Year
+content	Work/Experience	Worked as Executive Engineer at Sntpl
+content	Work/Experience	Worked at tata motors as sales executive
+content	Work/Experience	Presently working at Jamkash NEXA as Social Media Executive (IT)
+header	Label	PERSONAL DETAILS:
+content	Label	Fathers Name:
+content	Label	Date of Birth:
+content	Label	Permanent Address:
+content	Label	Marital Status:
+content	Label	Sex:
+content	Label	Language Proficiency:
+content	Personal	Nationality:                                       Indian
+content	Name	Tariq Ahmed Bhat
+content	Personal	31 March 1994
+content	Personal	Batamaloo sgr.
+content	Personal	Single
+content	Personal	male
+content	SpokenLanguage	English, Hindi, Urdu and Kashmiri

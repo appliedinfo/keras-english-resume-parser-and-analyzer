@@ -1,0 +1,28 @@
+content	Personal	ISHFAQ HUSSAIN  (C/O] Address: MOBILE: Email:
+content	Personal	BATAMALOO SRINAGAR 9906507972/7006213687 (ratherashfaq88@gmail.com]
+content	Summary/Objective	A Great Believer In Hardworking, Looking For An Opportunity To Render Services By Utilizing Skills For Effective Accomplishment Of The Organization Objectives, To Have Professional Growth By Doing Best And Getting Best From The Industry.
+content	Work/Experience	ALFURQAN COMPUTERS Website. ASIAN THANG—TA FEDERATION Website.  JAMMU & KASHMIR THANG-TA ASSOCIATION Website. RBS Travels Website with CMS (WWW.rbstravels.com]  Fajr construction Company Website and CMS (WWW.Fajrcon.co] Golden Harvest Tours And Travels Website with CMS (www.goldenharvesttravels.com1  Ahmad Couture Fashion Website with CMS lwww.AhmadCouture.com1 Travel hunks website with CMS (www. travelhunks. com |  Quick News Service Website (www. qnskashmir. corn 1  10.K Kader Exports Pvt. Ltd. Erp Software (www. kelp. pg-erp. com]  raft Ind1a Pa er M111 Er Software www.ci m 1. -er .com              omﬁowewwr‘
+content	Project	ONLINE COLLEGE MANAGEMENT SYSTEM (MCA PROIECT) ONLINE VISIT MONITERING SYSTEM  ONLINE FRUITIQUE MANAGEMENT PORTAL  ONLINE GRIEVENCE PORTAL FOR NIELIT  STUDENT EVENT MANAGER CUM COMMUNICATOR SYSEM Online Examination System
+content	Work/Experience	Data Migration Developer Working as a database Migration developer at BQE Rengrath Srinagar  Techcurve Software Solutions Worked as Senior software Developer as techcurve Software solutions more than 1 Year  PNG Software Enterprise Solutions Working as Senior software Developer as PNG Software Enterprise Solutions
+content	Education/Qualification/Workshop	MASTER OF COMPUTER APPLICATIONS (MCA) Indira Gandhi National Open University 2015  Bachelor of ARTS Govt. Degree College Bemina 2011
+content	Education/Qualification/Workshop	2011
+content	Education/Qualification/Workshop	ADVANCED DIPLOMA IN COMPUTERS (A-LEVEL) National Institute Of Electronics And Information Technology (NIELIT) 2014  ASP.NET National Institute Of Electronics And Information Technology (NIELIT) 2014  POST GRADUATE DIPLOMA IN COMPUTER SCIENCE (PGDCA) Indira Gandhi National Open University 2013  ONE YEAR DIPLOMA IN COMPUTER APPLICATIONS (DCA) Excellent Computer Institute Batamaloo Srinagar.  COMPUTER COURSE FINANCIAL ACCOUNTING USING TALLY (CCFA) Alfurqan Computers Rambagh Payeen Srinagar.  COURSE ON COMPUTER CONCEPTS (CCC) National Institute Of Electronics And Information Technology (NIELIT)
+content	Education/Qualification/Workshop	J Two week ISTE Workshop on Computer Networking conducted by IIT Bombay-2014. \/ Android & Robotics workshop Conducted by N-Vision IIT Hyderabad-2014.
+content	Knowledge/Skill	WEB DESIGNING
+content	Knowledge/Skill	WEB DEVELOPMENT
+content	Knowledge/Skill	6‘6‘6‘6‘  ASP.NET / MVC C-Sharp. lava Swings  Php Development
+content	Knowledge/Skill	HTML 5 / CSS 3 IavaScript / IQuery / AIAX
+content	Knowledge/Skill	DATABASES
+content	Knowledge/Skill	MOBILE APP DEVELOPMENT
+content	Knowledge/Skill	SQL Server 2008 R2/ Server 2012. SQLITE Database
+content	Knowledge/Skill	Android / SQLite.
+content	Personal	ISHFAQ HUSSAIN RATHER  11-MARCH-1988
+content	Personal	GH MOHAMMAD RATHER
+header	Personal	S/O: PHONE: EMAIL:
+content	Label	Name:
+header	Personal	D.0.B: ADDRESS:
+content	Personal	(+91] 9906507972/7006213687 (ratherashfaq88@gmail.com]  [rgulzar2@gmail.com]
+content	Personal	Batamaloo Srinagar [Kashmir]
+content	Others	The truthfulness ofthe details furnished above is assured to the best of my knowledge and belief proves for the above furnished details would be produced at the time of interview declare that above given information is true and to the best of my Knowledge
+content	Name	Ishtag Hussain
+content	Personal	Date: 10-NOV-2018

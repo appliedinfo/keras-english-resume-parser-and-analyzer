@@ -202,7 +202,7 @@ class SegmentText(object):
 
 
             i=img3[y:y+y2,x:x+x2]
-            _,i =cv2.threshold(i,120,255,cv2.THRESH_BINARY)
+            _,i =cv2.threshold(i,200,255,cv2.THRESH_BINARY)
             # i = cv2.adaptiveThreshold(i,255,cv2.ADAPTIVE_THRESH_GAUSSIAN_C,cv2.THRESH_BINARY,11,2)
             # i = cv2.threshold(i,127,255,cv2.THRESH_BINARY+cv2.THRESH_OTSU)[1]
 

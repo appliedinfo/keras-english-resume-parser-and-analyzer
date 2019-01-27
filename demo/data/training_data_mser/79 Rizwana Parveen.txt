@@ -1,0 +1,22 @@
+content	Label	CURRICULUM VITAE
+meta	Personal	Cell :9622995408  RIZWANA PARVEEN  Permanent Address  Leh - Ladakh  Correspondent Address  Habak Naseem Bagh Sgr.  Personal Data  Name : Rizwana Parveen  Sex : Female  Languages Known: Urdu, English, Hindi Kashmiii, Ladakhi.  Hobbies Reading Books.  Interacting with the different people.
+content	Summary/Objective	Objective Seeking a teaching position Where training and skills in active teaching  methodologies Will be full utilized in order to provide students with a  positive learning experience.
+header	Label	Academic Qualiﬁcation
+content	Education/Qualification/Workshop	B.C.A
+content	Education/Qualification/Workshop	Through “University of Kashmir”
+header	Label	Areas of Specialization
+content	Trait	Classroom Management and interpersonal skills.
+content	Trait	Guidance and Counseling
+content	Trait	Personality Development
+content	Trait	Strength     9  v Positive attitude.
+content	Trait	Leadership Skills.
+content	Trait	Always Ready to Learn any new skill in technical as well as in
+content	Trait	Punctu a1.
+content	Trait	Smart worker.
+content	Trait	Flexible.
+header	Label	DECLARATION
+content	Others	I hereby declare that the information furnished above is true to the best of my knowledge and belief.
+header	Label	PERSONAL STATEMENT
+content	Summary/Objective	I want to become an asset of your organization where I will be working by utilizing all my capabilities  & Knowledge with honesty, sincerity & dedication.
+content	Personal	Signature
+content	Name	Rizwana Parveen

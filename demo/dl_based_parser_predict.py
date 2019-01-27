@@ -8,6 +8,9 @@ def main():
     from keras_en_parser_and_analyzer.library.dl_based_parser import ResumeParser
     from keras_en_parser_and_analyzer.library.utility.io_utils import read_pdf_and_docx
 
+    from keras_en_parser_and_analyzer.library.classifiers.cnn import WordVecCnn
+
+
     from read import read_pdfs
 
 
@@ -19,12 +22,18 @@ def main():
         print('parsing file: ', file_path)
 
         parser = ResumeParser()
+
+        # for WordVecCnn
+        parser.line_label_classifier = WordVecCnn()
+        parser.line_type_classifier = WordVecCnn()
+        
+
         parser.load_model(current_dir + '/models')
         parser.parse(file_content) # line_type and line_labels are predicted within this method
-        print(parser.raw)  # print out the raw contents extracted from pdf or docx files
+        # print(parser.raw)  # print out the raw contents extracted from pdf or docx files
 
-        if parser.unknown is False:
-            print(parser.summary())
+        # if parser.unknown is False:
+        #     print(parser.summary())
 
         print('++++++++++++++++++++++++++++++++++++++++++')
 

@@ -1,0 +1,35 @@
+content	Name	Junaid Nazir
+content	Personal	R/o Dadi Kadal Tanki Pora, Srinagar
+content	Personal	juni.nazir7777@gmail.com
+content	Personal	+91-9797214421
+header	Label	OBJECTIVE
+content	Summary/Objective	To obtain a rewarding and challenging position as Software
+content	Summary/Objective	Developer in IT infrastructure where I can use my proficiency
+content	Summary/Objective	and skills for the benefit of the company. My educational
+content	Summary/Objective	qualification, broad exposure and product knowledge should
+content	Summary/Objective	help me in doing the job efficiency.
+header	Label	EXPERIENCE
+content	Work/Experience	• Fresher
+header	Label	COURSES
+content	Education/Qualification/Workshop	.NET Specialization (Logic Hub Software Solutions)
+content	Education/Qualification/Workshop	HTML5 / CSS3/Bootstrap (Logic Hub Software Solutions)
+header	Label	EDUCATION
+content	Education/Qualification/Workshop	BE CSE (2014-2018)
+content	Education/Qualification/Workshop	BE (To Be Completed On December 2018)
+content	Education/Qualification/Workshop	SSM College Of Eng and Tech
+content	Education/Qualification/Workshop	(Kashmir University)
+content	Education/Qualification/Workshop	HIGHER SECONDARY                              Non-Medical(Passed by 86.4%)
+content	Education/Qualification/Workshop	PART -II (12TH) (2013)
+content	Education/Qualification/Workshop	MATRICULATION (Passed by 88.8%)
+content	Education/Qualification/Workshop	SECONDARY
+content	Education/Qualification/Workshop	EDUCATION (10TH) (2011)
+content	Education/Qualification/Workshop	SCHOOL
+header	Label	SKILLS
+content	Knowledge/Skill	• HTML5, CSS3,Bootstrap
+content	Knowledge/Skill	• C#, ASP.NET WebForms,Java Script
+content	Knowledge/Skill	• SQL, ADO.NET
+header	Label	Project Done
+content	Project	• Trek De Kashmir (Done by Itself )
+content	Work/Experience	Technology used asp.net with c# and Sql server
+content	Others	Declaration: I affirm that the information presented above is true and
+content	Others	best to my knowledge and I promise to authenticate the same by presenting

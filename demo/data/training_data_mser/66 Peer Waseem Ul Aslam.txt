@@ -1,0 +1,82 @@
+content	Name	Peer Waseem Ul Aslam
+content	Personal	Cell: + 91 7006447745
+content	Personal	India waseemaslam70@gmail.c om
+content	Work/Experience	Professional Summary > Around 8 years of experience in IT. l have been working in the areas of analysis,  design, development, testing and implementation, maintenance/support. > Extensive experience in the analysis, development and maintenance of Accounting, Financial  Software > Technology experience spans from client server to web technology mainly Microsoft and  RDBMS including Microsoft SQL Server, JAVA, PL/SQL/DATAWAREHOUSE/ETL and good exposure  to CRM systems.
+content	Work/Experience	Experience in managing development projects for US customers Current responsibilities include developing new procedures for data migration
+content	Trait	Core Competencies  - Excellent Team Management skills and proven ability to talk both the IT and end—user language.  0 Ability to build and lead team individually and get things done with efﬁcient cycle time  0 Strong analytical and problem solving skills, computer proﬁciency and good grasping power  - Capacity to work even in extreme stress and always willing to put in extra time and effort  0 Good inter-personal and communication skills.  0 Ability to work collaboratively.
+header	Label	Education
+content	Education/Qualification/Workshop	Master of Computer Application from IUST, India, 2011
+header	Label	Technical Skills
+content	Knowledge/Skill	Programming languages: C, C#, VB, SQL, PL/SQL, JAVA.
+header	Label	Scripting languages:
+content	Knowledge/Skill	Bash Shell Scripting, HTML, CSS.
+content	Knowledge/Skill	Databases:
+content	Knowledge/Skill	TOAD PL/SQL, Sybase, MS Excel, MS Access, SQL Server (all versions).
+content	Knowledge/Skill	UNIX, Windows (XP/98/2000/Vista).
+content	Knowledge/Skill	Operating systems:
+content	Knowledge/Skill	Web Development: Microsoft FrontPage,
+content	Knowledge/Skill	.Net, WordPress, Magneto.
+content	Knowledge/Skill	Data Analytic Tools:
+content	Knowledge/Skill	Power BI, Microsoft SSIS, SSARS, SSAS, Excel.
+content	Knowledge/Skill	Crystal Reports, Data Reports.
+content	Knowledge/Skill	Reports:
+content	Knowledge/Skill	Deployment Tool: PowerSheII.
+header	Label	Employment Details
+content	Work/Experience	2011 Sr. Software Engineer
+content	Work/Experience	Organization BQE Software Inc, India
+header	Work/Experience	Professional Experience
+content	Work/Experience	At BQE Software Inc.
+content	Work/Experience	Data Migration from TimeSlips Accounting Software  The Giannuzzi Group, LLP, RIM DESIGN, RICK BALB, jHM, KURT FISCHER, SPACE ARCHITECTS PLANNERS, ZBETA - Lakeside Environmental  4  Team Lead  Microsoft SQL Server, SSIS, Access, Excel
+content	Project	Project name: Client:
+content	Label	Team size Role Tool
+content	Project	We had to migrate the data from TimeSlips database to our own database, which is designed in SQL Server. The data parts involved in this migration were matching the Work in Progress Data and Accounts Receivables data in our software (BiIIQuick).
+content	Label	Responsibilities
+content	Work/Experience	I have been working with customer in gathering business requirements for data migration needs.  I was working with subject matter experts and project team to identify, deﬁne, collate, document and communicate the data migration requirements. I prepared the data migration plans including migration risk, milestones, quality and business sign-off details.  Managed assigned risks and monitor potential impacts as part of the data migration plan.  We did develop the best practice, processes, and standards for effectively  carrying out data migration activities. Performing source system data analysis in order to manage source to target  data mapping. This part is always critical so resources from the team very  utilized on this part actively. The team performed migration and testing of static data and transaction data  from TimeSlips system to BillQuick, after this part we created exception reports.
+content	Knowledge/Skill	Microsoft SQL Server 2008, Microsoft Access, Excel. Microsoft Data Tools, Microsoft Import / Export Programs, T-SQL, C#, ODBC Drivers. Installing SQL Server on Clients Server and conﬁguring Firewalls.
+content	Project	This project was ﬁnished on time with 100% customer satisfaction. The ideal part is customer was up and running in two months with minimum down time.
+content	Work/Experience	Payment Import from .csv ﬁles  SCHLISSEL OSTROW KARABATOS POEPPLEIN & FISHER PLLC 3  Team Lead  Microsoft Windows Forms, C#, SQL, .NET
+content	Label	Project name: Client:  Team size Role  Tool
+content	Project	We created a form-based application, which will let the user select the ﬁles (.csv and .xls) and import them into their Accounting Software. These ﬁles contained the payments, which had a predeﬁned Column Names. Initially we had to import the  data from different .csv, .xls ﬁles into the database and then gradually from other databases as well.
+content	Label	Responsibilities
+content	Work/Experience	I designed the application with an agile approach, time to time some modiﬁcation could have been applied for integration of new features.  This application had different forms; one of the form had been designed to locate the ﬁles (.xls and .csv) and another to connect to the SQL Database. I had written a separate class for connecting to the database.  The application also generated a report on successful or unsuccessfully import.
+content	Project	For applying the payments to the speciﬁc invoices, we had to identify the invoices and structure a new logic while identifying and applying them. We also handled many cases like the over payment, retainer and credits.
+content	Knowledge/Skill	Microsoft Windows Forms, C#, SQL, .NET.
+content	Work/Experience	Kaufman Holmes  3  Team Lead  Microsoft SQL Server, T-SQL, Database Mail, Windows Task Scheduler
+content	Work/Experience	We had to create multiple triggers based on almost 50 conditions to ﬁre an email to the project manager whose email would have been stored in the application. We had to schedule this in windows task scheduler on daily basis as the client had  express edition of SQL Server that does not had SQLJobs. The core logic of this was entirely application dependent.
+content	Label	Responsibilities
+content	Trait	Managing the Team
+content	Work/Experience	Looking into the overall progress of the project, maintaining the delays due to communication.
+content	Work/Experience	Creating Conditions for ﬁring the email.
+content	Work/Experience	Conﬁguring the Windows Task Scheduler on Client Server, testing the trigger in accordance with the speciﬁcation provided.
+content	Work/Experience	Microsoft SQL Server, T-SQL, Database Mail, Windows Task Scheduler
+content	Label	Project name: Client:  Team size Role  Tool
+content	Knowledge/Skill	Data Migration to Core  Homegrown Software  5  Senior Programmer (Second Lead)  C#, .NET, API, Microsoft SQL Server; T-SQL
+content	Project	In this project, we had to migrate all our legacy data from different databases into one database. We call it the “Mother of all Databases", our products range from web, desktop and mobile apps. The procedure for this migration was to create dummy database in between source and destination databases. This dummy database was a replication of the source database; the reason is we cannot alter the data in source, as it is an actual true copy of the client. There are two versions of these projects one, which is web, and another, which is desktop. Everything was handled through so that there was no manual prepare work needed for the client to migrate the database.
+content	Label	Responsibilities
+content	Knowledge/Skill	Creating stored procedures, queries and functions.
+content	Knowledge/Skill	Created Win Forms to select the database and connect to it. Once the connection was established, C# code and SQL Commands created database scheme to hold the data.
+content	Knowledge/Skill	API calls made us to retrieve the data from different sources, once the data was in destination; checks made to complete the migration procedure.
+content	Project	We also created HTML Reports for metrics; this metric gave the information of the data, which was migrated.
+content	Knowledge/Skill	.NET, API, Microsoft SQL Server, T—SQL
+content	Knowledge/Skill	C#,
+content	Project	This was lengthy project and giving extra hours to complete the work has always served well. I  acquired knowledge regarding api programming and integration between web and form based applications.
+content	Work/Experience	Migration to BillQuick  Year Wise  Homegrown Software  jan 2011-Dec 2015  5  Junior Programmer VB, Access, SQL Server; T-SQL
+content	Label	Project name: Versions: Client:  Peﬁod  Team size Role  Tool
+content	Project	In this project, we had to migrate all our clients from our existing products to our new Product. Creating of new database structures, models, tables, stored procedures, views and other backend items. Initially we had a very big team comprising of 20 members in the backend. After the completion of the 65% of the work, the team was reduced to 8 members only. Despite this fact we completed the design and development part of the databases involved in this project. It was quite a success.
+content	Label	Responsibilities
+content	Knowledge/Skill	Creating Diagrams, Tables, Stored Procedures, Views and Functions.
+content	Project	It was complete set of relational algebra coming into the play as we had to design new cases for relationship due the module complexity of Project Management in USA. We had to consider all the possible ways for operational quality of this hug database structure which was evolving day by day.
+content	Knowledge/Skill	VB, Access, SQL Server, T—SQL
+header	Label	Certiﬁcation
+content	Certification	.NET Certiﬁcation
+content	Others	Global Talent Track (G'l'l'). www.gttconnect.com
+content	Certification	SQL Certiﬁcation
+content	Education/Qualification/Workshop	Islamic University of Science and Technology www.islamicuniversity.edu.in
+content	Certification	CCNA
+content	Certification	CCNA Netmetric Solutions Under the supervision of Mr. Khawar Bhutt (CCIE)
+header	Label	Awards and Recognitions
+header	Label	Awards
+content	Certification	‘A’ Grade in .NET Certiﬁcation from G'l'l'.
+content	Trait	Top trainee among the trainee group of fundamentals.
+content	Trait	Got Employee of the Month Award 2 Times for my outstanding work.
+content	Certification	Got Certiﬁcate of Appreciation after completing 5 years in the Company

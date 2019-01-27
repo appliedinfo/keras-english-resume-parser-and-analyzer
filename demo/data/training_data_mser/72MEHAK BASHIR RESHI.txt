@@ -1,0 +1,31 @@
+content	Name	MEHAK BASHIR RESHI
+content	Personal	Emailrmehakrcshi179@gmail.com
+content	Personal	Address: J &K, India.
+content	Personal	Phone:
+content	Personal	+91—7006492121
+header	Label	CADEED OBJECTIVE :
+content	Summary/Objective	To be a part in empowering the world with technology by applying skills and knowledge.
+header	Label	DEDSONAL SKILLS:
+content	Trait	Good verbal and personal communication skills. Passion for constant improvement  Quick and Self—learning ability  Adaptability  Skilled in Time Management  Collaborative Work and Leadership
+header	Label	EDUCATION:
+content	Education/Qualification/Workshop	Bachelor of Engineering (2013—2017) > Computer Science And Engineering > University of Kashmir, North Campus. > Passed with first class.
+content	Education/Qualification/Workshop	> J K Board of School Education, J &K > Passed with Distinction
+content	Education/Qualification/Workshop	Matriculation (2011) > J K Board of School Education, J &K > Passed with Distinction.
+header	Label	TECHNICAL SKILLS:
+content	Knowledge/Skill	C, C++, JAVA, Android, HTML, CSS, Bootstrap.
+content	Knowledge/Skill	Programming Languages: Database: MYS QL.
+content	Label	DDOJ ECTS :
+content	Work/Experience	Lead And r Did Developer: Intelligent travel planner (An Android App) — College Project
+content	Work/Experience	I have been involved in development and designing of a native android app in which I had the role of front—end designer . We used MYSQL as a database at the web server and PHP to fetch data from the database.
+header	Label	INDUSTDIAL TDAINING:
+content	Certification	Three months training in Advance java, Php, J sp, Servlet, bootstrap from Rooman Technologies Bangalore. Two months training in Core Java from IAC Software Solutions, Srinagar.  One month training in “Open Source Web Technologies” from National Institute of Technical Teacher’s  Training and Research, Chandigarh.
+header	Label	EXDEDIENCE:
+content	Work/Experience	Worked as Software Engineer with IT SUPPORT DESK pvt ltd Bangalore
+content	Work/Experience	from 01—01—18t010—07—18.
+header	Label	HOBBIES:
+content	Interest/Hobby	Web Designing  Reading religious literature Internet Surfing  Reading blogs
+header	Label	DEDSONAL DETAILS :
+content	Personal	Date of Birth — 05 May, 1994  Marital Status — Single  Languages Known — English, Hindi, Urdu, Kashmiri.  Permanent Address — Lal Bazar Botshah Mohalla, J ammu And Kashmir -
+content	Personal	- 190023.
+header	Label	Declaration:
+content	Others	I declare that all the above mentioned facts and figures are true to my knowledge and belief.

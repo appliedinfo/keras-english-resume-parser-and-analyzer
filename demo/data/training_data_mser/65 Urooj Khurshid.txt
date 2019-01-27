@@ -1,0 +1,16 @@
+content	Name	Urooj Khurshid
+content	Personal	Surnaie Mohalla,KaWdara Srinagar, Kashmir 9596269221 Alt-94 1 9005 696 Uroojlala01@gmail.com
+header	Label	OBJECTIVE:
+content	Summary/Objective	T 0 take a challenging role in the ﬁeld of Software Engineering & Web Development and make this world a better place to live.
+content	Education/Qualification/Workshop	Graduate with a Degree in Computer Science And Engineering. Proﬁcient with Java/J2EE, PL/SQL,.Net,PHP, C, C++, WordPress and HTML/Internet.
+header	Label	SUMMARY:
+content	Education/Qualification/Workshop	Bachelor of Technology in Computer Science &Engineering , Dec 2017  University of Kashmir Graduated with a GPA of 7.1
+header	Label	EDUCATION:
+content	Education/Qualification/Workshop	Courses taken included:  Software Engineering Design  Java Development (de Informatics Pvt.Ltd, Codecademy) C/C++ Programming (codecademy)  Object Oriented Development  HTML/CSS (Codecademy, de Informatics Pvt.ltd)  PHP (Codecademy)  MY SQL (de Informatics Pvt Ltd)
+content	Education/Qualification/Workshop	New Convent Hr Sec School Sr. Secondary, J&K Bose (%)
+content	Education/Qualification/Workshop	2010-2012 84.87
+content	Education/Qualification/Workshop	New Convent School 2010-2012 Secondary School, J&K Bose (%) 83.21
+content	Work/Experience	Web Development Internship, December 2015 to March 2016 Software Developer - E resolute , Srinagar, November 2017—present
+header	Label	EXPERIENCE:
+content	Project	Project : Audio Steganography Framework : J2EE Platform of logic : JAVA ' Created user interface using HTML/CSS and J avaScript. ° Created Database for storing data on SQL SERVER. JAVA, C/C++,WordPress, HTML/CSS, Python, .Net, PHP, PL/SQL
+content	Label	Languages:

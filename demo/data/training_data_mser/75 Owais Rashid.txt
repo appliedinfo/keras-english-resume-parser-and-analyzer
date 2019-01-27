@@ -1,0 +1,57 @@
+content	Label	CURRICULUM VITAE
+content	Personal	Name: Owais Rashid Email:_oviumer@gmail.com Telephones: +91-7006452070, 8715031368
+content	Summary/Objective	CAREER OBJECTIVE To work in a challenging atmosphere by exhibiting my skills with utmost sincerity and dedicated smart work for the growth of your esteemed organization.
+header	Label	ACADEMIC QUALIFICATION
+content	Education/Qualification/Workshop	Year of Passing
+header	Label	Qualiﬁcation
+content	Education/Qualification/Workshop	University/boa rd
+content	Education/Qualification/Workshop	Institute
+content	Education/Qualification/Workshop	B.E (Computer Science)
+content	Education/Qualification/Workshop	Kashmir University
+content	Education/Qualification/Workshop	2018
+content	Education/Qualification/Workshop	66.70%
+content	Education/Qualification/Workshop	SSM College of Engineering Green Valley Educational Institution Green Valley Educational Institution
+content	Education/Qualification/Workshop	12th
+content	Education/Qualification/Workshop	2012
+meta	Education/Qualification/Workshop	69%
+content	Education/Qualification/Workshop	JK Board of School Education
+content	Education/Qualification/Workshop	10th
+content	Education/Qualification/Workshop	2010
+content	Education/Qualification/Workshop	85%
+content	Education/Qualification/Workshop	JK Board of School Education
+header	Label	WORK EXPERIENCE
+content	Education/Qualification/Workshop	6 Months.
+header	Label	SKILLS
+content	Certification	CCNA (R&S)
+content	Certification	CCNP (R&S)
+header	Label	EXPERTISE
+content	Knowledge/Skill	RIP, EIGRP, OSPF,BGP, MPLS,VPN GRE,MGRE,|PSEC, ACCESS—LISTS
+content	Knowledge/Skill	SWITCHING, VLAN, L2 & L3 SWITCHING,ROUTER ON STICK, ETHERCHANNEL, STP,VTP,SWITCH SECURITY,
+content	Knowledge/Skill	OSI MODEL, TCP/IP MODEL
+header	Label	INTERESTS
+content	Interest/Hobby	Visiting New places.
+content	Interest/Hobby	Learning about new technologies.
+content	Interest/Hobby	Travelling.
+content	Interest/Hobby	Develop more skills.
+header	Label	HOBBIES
+content	Interest/Hobby	Gardening Hiking and trekking
+header	Label	LINGUISTIC SKILLS
+content	SpokenLanguage	English, Kashmiri, Urdu
+header	Label	SELF APPRAISALS
+content	Trait	Leadership, Punctual and sincere
+content	Trait	Hardworking and Quick learner.
+content	Trait	Taking Risks
+content	Trait	Never give up attitude.
+content	Trait	Motivator
+header	Label	PERSONAL INFORMATION
+content	Personal	Father’s Name: Abdul Rashid Goni
+content	Personal	Date Of Birth
+content	Personal	16January 1995
+content	Personal	Marital Status: Unmarried
+content	Personal	Permanent Address: Gulab Bagh, Zakoora 190006
+content	Personal	,Srinagar , Jammu & Kashmir
+header	Label	Declaration:
+content	Others	I hereby declare that the above mentioned details are true to the best of my knowledge.
+content	Personal	Place: Srinagar
+content	Personal	23 March 2018
+content	Name	Owais Rashid

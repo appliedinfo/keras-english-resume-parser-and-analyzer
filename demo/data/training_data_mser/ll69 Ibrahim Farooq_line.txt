@@ -1,0 +1,57 @@
+header	Label	CURRICULUM VITAE
+content	Name	IBRAHIM FAROOQ MATTOO
+content	Education/Qualification/Workshop	B. Tech (Electronics & Communication)
+content	Personal	Ph. No.7006879903
+content	Personal	Srinagar, J&K
+content	Personal	Email: ibrahimmattoo@gmail.com
+content	Summary/Objective	Continuously   strive   to   achieve   organizational   success   by   focusing   my   energies   on   satisfying   the
+content	Summary/Objective	customer, thereby accomplishing my own career growth.
+header	Label	CAREER OBJECTIVE
+header	Label	WORK EXPERIENCE
+content	Project	Project done for watermarking in medical images.
+content	Work/Experience	 Worked for Simulink & Matlab software.
+content	Work/Experience	 Working function of communication systems.
+content	Work/Experience	 RF engineer in Harpy core private limited which provides technical support to RELIANCE
+content	Label	Role / Function
+content	Knowledge/Skill	4G
+content	Work/Experience	 Done Emf,Installation,Atp11b,Clot
+content	Work/Experience	 Done SCFT for Bhat Mubarak
+content	Work/Experience	 Was working in ORBIS LIFE RESEARCH have a first hand knowledge of MARG software.
+header	Label	EDUCATIONAL QUALIFICATIONS
+content	Education/Qualification/Workshop	 B.   Tech(Electronics   and   Communication)  from   DEPT.   OF   ELECTRONICS   &   IT
+content	Education/Qualification/Workshop	UNIVERSITY OF KASHMIR with First division in 2015.
+header	Label	ACHIEVEMENTS & STRENGTHS
+content	Education/Qualification/Workshop	 Attended three days of workshop for robotics.
+content	Education/Qualification/Workshop	 Attended three days of training program for telecommunication in BSNL.
+content	Trait	 Comprehensive problem solving ability.
+content	Trait	 Ability to handle multiple tasks in high pressure environments and under tight deadlines.
+content	Trait	 Willingness to work and ability to adapt according to the situation.
+content	Trait	Excellent communication and interpersonal skills.
+content	Trait	Passion to learn and meet challenges.
+header	Label	TECHNICAL SKILLS
+content	Knowledge/Skill	Knowledge of MATLAB and SIMULINK.
+content	Knowledge/Skill	 Working knowledge of – MS Word, Outlook, Excel and PowerPoint
+content	Label	PERSONAL INFORMATION
+content	Label	Father’s Name
+content	Label	 Name
+content	Label	 Date of Birth
+content	Label	 Birth place
+content	Label	 Mobile No
+content	Label	 Email
+content	Label	 Nationality
+content	Label	 Religion
+content	Label	PRESENT ADDRESS
+content	Label	Sex
+content	Name	IBRAHIM FAROOQ MATTOO
+content	Name	MOHD FAROOQ MATTOO
+content	Personal	08-NOV-1991
+content	Personal	Srinagar (JAMMU AND KASHMIR)
+content	Personal	+91-7006879903
+content	Personal	:ibrahimmattoo@gmail.com
+content	Personal	MALE
+content	Personal	INDIAN
+content	Personal	ISLAM
+content	Personal	Illahibagh BuchporaSrinagar, J&K - 190006
+content	Others	I hereby declare that the information provided is correct up to my knowledge.
+content	Label	Date:
+content	Name	IBRAHIM FAROOQMATTOO

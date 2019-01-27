@@ -1,0 +1,65 @@
+header	Label	CONTACTS
+content	Personal	mohammadkhwr@gmail.com
+content	Personal	7006496185 , 7289036398
+content	Personal	Srinagar
+content	Name	mohammadkhawar
+content	Label	SKILLS
+content	Knowledge/Skill	SQL
+content	Work/Experience	Customer Support     
+content	Work/Experience	Data Quality     
+content	Work/Experience	Data Migration     
+content	Knowledge/Skill	Unix
+header	SpokenLanguage	LANGUAGES
+content	SpokenLanguage	English
+content	SpokenLanguage	Urdu
+content	SpokenLanguage	Hindi
+header	Label	PERSONAL DETAILS
+content	Label	D.O.B
+content	Label	Gender
+content	Label	Marital Status
+content	Personal	01/05/1989
+content	Personal	Male
+content	Personal	Single
+content	Name	MOHAMMAD KHAWAR
+content	Work/Experience	ASSOCIATE DEVELOPER
+content	Work/Experience	Detail oriented professional with 3+ years of overall experience in GreenPlum Database,
+content	Work/Experience	Hadoop, AD & Computer Troubleshoot. Seeking to take the next career step with
+content	Others	respected organization dedicated to world class quality. Open to learn and apply
+content	Interest/Hobby	emerging technologies.
+header	Label	EXPERIENCE
+content	Work/Experience	June 2017 – August 2018
+content	Work/Experience	ASSOCIATE DEVELOPER
+content	Work/Experience	SERVISCO PVT LTD – YANGON, MYANMAR
+content	Work/Experience	Involved in all phases of software development lifecycle right from gathering business
+content	Work/Experience	requirements from client, configure and design solutions, code review,  development and
+content	Project	Campaign Management Data Mart Offloading and Optimization
+content	Work/Experience	Perform code migration to the production environment after optimizing the existing code,
+content	Work/Experience	identify and replace the existing tables with more efficient tables.
+content	Work/Experience	  Offloading the data contained in three massive schemas from existing system into new
+content	Knowledge/Skill	environment from OS level.
+content	Work/Experience	Testing the code, data checks and validations, tracking the execution time.
+content	Project	BI Optimization and Hadoop Offload
+content	Work/Experience	  Offloading the data from Greenplum database servers into HDFS.
+content	Work/Experience	  Maintaining and verifying data quality in production tables before and after hand-over.
+content	Knowledge/Skill	Execution, debugging and identify potential issues of ETL functions handed over by
+content	Work/Experience	  Monitor and verify program execution, processing variances (e.g. run time, record counts,
+content	Work/Experience	Purging the migrated data on GPDB after testing and validating the data on HDFS.
+content	Work/Experience	APPLICATION SUPPORT
+content	Work/Experience	IBM INDIA PVT LTD – NOIDA, INDIA
+content	Knowledge/Skill	High level application, Active directory and Hardware support.
+content	Project	Implement Incident Management Process to resolve incidents.
+content	Project	  Monitoring & checking the incidents for accuracy & correctness.
+content	Work/Experience	Perform routine reports & escalate any anomaly detected.
+content	Work/Experience	To have regular calls with different/next level teams for new activities/updates,
+content	Work/Experience	documentation & sharing.
+content	Work/Experience	Dec 2015 – Jan 2017
+content	Work/Experience	TECHNICAL SUPPORT EXECUTIVE
+content	Work/Experience	UNOSIS TECHNOLOGIES PVT LTD – NOIDA, INDIA
+content	Work/Experience	Supervising issues regarding Computer Software & Networking.
+content	Work/Experience	Handling customer’s queries & giving solutions with their problems.
+content	Knowledge/Skill	Troubleshooting Software remotely using Net meeting, VNC viewer.
+content	Work/Experience	Nov 2014 – Nov 2015
+header	Label	EDUCATION
+content	Education/Qualification/Workshop	UNIVERSITY OF KASHMIR
+content	Education/Qualification/Workshop	MASTER IN COMPUTER APPLICATIONS
+content	Education/Qualification/Workshop	BACHELOR IN COMPUTER APPLCATIONS

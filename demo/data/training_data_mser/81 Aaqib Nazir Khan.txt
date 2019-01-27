@@ -1,0 +1,42 @@
+content	Personal	Updated: 09-13-2018
+content	Name	Aaqib Nazir Khan
+content	Work/Experience	Software Engineering Professional
+content	Personal	Usmania Colony, Bemina Srinagar, Jammu & Kashmir, India  9469411009 agibkhan060@gmail.com in https://www.|inkedin.com/in/aaqibkhan56
+header	Label	Summary
+content	Work/Experience	Accomplished software engineer specializing in object oriented approaches. Extensive background in life-cycle of Software Development process including requirement gathering, design, coding, testing, debugging and maintenance. Proven track record of designing and implementing software. Full stack frontend designer specializing in front end development of websites. Well versed in numerous programming languages.
+header	Label	Programming Languages/Skills
+content	Knowledge/Skill	C#. NE T H TML/CSS Java Script
+content	Knowledge/Skill	C/C++ MA TLAB Crystal Reports
+content	Knowledge/Skill	Bootstrap OpenGL SSRS
+content	Knowledge/Skill	Visual Basic SOL
+content	Knowledge/Skill	Java PL/SQL
+header	Label	Experience
+content	Work/Experience	March 2018-Present
+content	Work/Experience	Reports Development Coordinator BQE Software Inc.  Kashmir Office, Srinagar.  One on one interaction with the clients for understanding their requirement and creating customized reports from scratch.  Fixing Report issues using crystal reports and Sequel server reporting services (SSRS) on the fly.
+content	Work/Experience	Sept 2017-March 2018
+content	Work/Experience	Data Conversion Consultant BOE Software Inc.  Kashmir Office, Srinagar
+content	Work/Experience	Providing Consultation for Converting Data From Various Software Sources like Axium, De/tek Ajera, De/tek, OfficePro,Sema4,Timeslips to our Native Products.  Writing SOL Procedures/triggers and trying to build Generic SQL Query sets for conversions.
+content	Work/Experience	May 2017 — July 2017
+content	Work/Experience	Web Developer Intern Afamszar SWWEHB SCH/{wag Srinagan Keg/mix:
+content	Work/Experience	Software developed at PG Level:
+content	Project	“Qaleen Designer(C #.NET)” - The most advanced carpet designing software, which is able to meet the design, demands of professional carpet and rug designers. With its comprehensive environment Qaleen Designer helps to write Taleem for any design of our choice and seeing what the design would look like even before the carpet has been made. Besides it helps to generate the Taleem from already existing/modified designs and also generate an intermediate representation of Taleem in the form of colored fonts which  can be interpreted by both novices as well as experts.
+content	Project	“Sentimental analysis of Occupy Wall Street Tweets (MATLAB)” study for classification into positive, negative and neutral tweets.
+content	Project	“Fault Prediction and Detection in Cloud Computing - a Google Cluster case study”- Identifying application failures based on resource usage measurement from Google cluster traces using Recurrent Neural Networks.
+content	Work/Experience	Software’s developed at UG Level:
+content	Project	“University Automation ( Visual Basic 6. 0) ” customized software that automates all phases of university-management for Under Graduate Level.
+header	Label	Education
+content	Education/Qualification/Workshop	Post Graduate in Computer Science with 8.8 C.G.P.A University of Kashmir — Main Campus, Srinagar
+content	Work/Experience	2014 — 2017
+content	Education/Qualification/Workshop	Bachelor in Computer Applications Islamia College of Science & Commerce, Hawal Srinagar.
+content	Work/Experience	2011 — 2013
+content	Education/Qualification/Workshop	Senior Secondary JK B.O.S.E
+content	Education/Qualification/Workshop	2010
+content	Education/Qualification/Workshop	High School JK B.O.S.E
+header	Label	References
+content	Personal	Dr. Muheet Ahmad Butt.  Asst. Professor, Department of Computer Science University of Kashmir.  Dr. Majid Zaman Baba.  Asst. Professor, Directorate of IT & SS  University of Kashmir.
+header	Label	Personal Profile
+content	Label	Name  Fathers Name D.O.B  Gender  Nationality Hobbies  Strength Languages Known Address
+content	Personal	Aaqib Nazir Khan.  Nazir Ahmad Khan.  05-December-1993  Male.  Indian.  Programming, Football, Poetry and Newspaper.  Fast learner, good decision - maker, keen observer and a good listener. Kashmiri, English,Urdu.  Usmania Colony, Bemina, Srinagar.
+content	Others	I hereby declare that all the information furnished above is true and genuine to the best of my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.
+content	Personal	Place: Srinagar
+content	Name	(Aaqib Nazir Khan)

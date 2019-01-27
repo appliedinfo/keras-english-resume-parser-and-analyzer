@@ -1,0 +1,82 @@
+content	Name	Mohammad Taha Hussain
+content	Personal	Bhat +91-9596413223
+content	Personal	Tahabhat70@gmail.com
+content	Personal	www.tahabhat.com
+header	Label	Career Objective
+content	Summary/Objective	Eager to work in a challenging environment to prove my skills and
+content	Summary/Objective	utilize my knowledge to succeed in an environment of growth and
+content	Summary/Objective	excellence and earn a job which provides job satisfaction and self-
+content	Summary/Objective	development   and   helps   me   achieve   personal   as   well   as
+content	Summary/Objective	organizational goals.
+header	Label	Key Skills
+content	Knowledge/Skill	Hard disks, Virtual Networks.
+content	Knowledge/Skill	machines and setting up of availability set, load balancers.
+content	Knowledge/Skill	● Cloud Platform: Azure Administration (IAAS & PAAS)
+content	Knowledge/Skill	●  Working knowledge of Azure cloud computing environment.
+content	Knowledge/Skill	●  Working knowledge of Azure IaaS, Provisioning VM’s, Virtual
+content	Knowledge/Skill	●  Working knowledge of Creating Storage, Backup.
+content	Knowledge/Skill	●  Working knowledge of creating and managing of VM
+content	Knowledge/Skill	● Create and Manage blob, File storage accounts
+content	Knowledge/Skill	●  Working Knowledge of ARM Templates.
+content	Knowledge/Skill	● Working Knowledge of Docker Containers, and setting up of
+content	Knowledge/Skill	● Working Knowledge of Git Source Control, Git Bash, Git
+content	Knowledge/Skill	● Working Knowledge of setting up of CI/CD using Azure
+content	Knowledge/Skill	● Working Knowledge of setting up of CI/CD using Jenkins.
+content	Knowledge/Skill	docker swarm.
+content	Knowledge/Skill	Branching and Branch Policies.
+content	Knowledge/Skill	DevOps build and release pipelines.
+header	Label	Skills
+content	Knowledge/Skill	C#, PowerShell, Azure, Jenkins, Docker, Git, MS Unit Tests
+header	Label	TOOLS
+content	Knowledge/Skill	VS Code, VS 2017, Git Bash, Azure Storage Explorer.
+header	Label	Academic Project
+content	Project	Title:  Embedded Web Server.
+content	Work/Experience	Languages Used:  Java, C in Aurdino.
+content	Work/Experience	Platform Used:  Aurdino Based Platform.
+content	Project	This   Project   presents   a   low   cost   and   flexible
+content	Label	Details:
+content	Knowledge/Skill	controlling/monitoring   system   using   an   embedded   micro-web
+content	Knowledge/Skill	server, with IP connectivity for accessing and controlling devices
+content	Knowledge/Skill	and   appliances   remotely   using   a   web-based   application.   The
+content	Work/Experience	proposed system does not require a dedicated server PC with
+header	Label	Strengths
+content	Trait	• Good communication skills.
+content	Trait	• Good knowledge of Core subjects
+content	Trait	• Ability to grasp the new skills quickly.
+content	Trait	• Hard-working.
+header	Label	Academic Qualification
+content	Label	Degree /
+header	Label	Qualification
+content	Education/Qualification/Workshop	B. Tech (Computer
+content	Education/Qualification/Workshop	Science
+content	Education/Qualification/Workshop	Engineering)
+content	Others	Name of the
+content	Education/Qualification/Workshop	Institute/school
+content	Education/Qualification/Workshop	Islamic University
+content	Education/Qualification/Workshop	of Science and
+content	Education/Qualification/Workshop	Technology
+content	Education/Qualification/Workshop	Islamic University of
+content	Education/Qualification/Workshop	Technology, J&K
+content	Education/Qualification/Workshop	12th(Non-Medical)
+header	Education/Qualification/Workshop	10th
+content	Education/Qualification/Workshop	Fayaz Educational
+content	Education/Qualification/Workshop	Institute
+content	Education/Qualification/Workshop	Fayaz Educational
+content	Education/Qualification/Workshop	Institute
+content	Education/Qualification/Workshop	J&K Board
+content	Education/Qualification/Workshop	J&K Board
+content	Education/Qualification/Workshop	Marks
+content	Education/Qualification/Workshop	Scored
+content	Education/Qualification/Workshop	passing
+content	Education/Qualification/Workshop	64.4% October-
+content	Education/Qualification/Workshop	70%
+content	Education/Qualification/Workshop	76%
+header	Label	Personal Profile
+content	Label	Name
+content	Label	Father’s Name
+content	Personal	10 September 1991.
+content	Label	Date of Birth :
+content	Label	Languages know :
+content	Name	Mohammad Taha Hussain Bhat
+content	Name	Ashaq Hussain Bhat
+content	SpokenLanguage	English, Urdu, Hindi and Kashmiri.

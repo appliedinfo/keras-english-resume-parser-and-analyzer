@@ -1,0 +1,62 @@
+header	Label	C URRIC UL UM VITAE
+content	Name	Junied Khalid Khan
+content	Personal	Phone: 9622539965/ 7006526417 E-mail: J unieddO lkhan @ gmail.com
+header	Label	CAREER OBJECTIVE:
+content	Summary/Objective	To work in a challenging position with an organization that provides opportunities to contribute and learn.
+header	Label	EDUCATIONAL QUALIFICATIONS:
+content	Education/Qualification/Workshop	Exam/Degree
+content	Education/Qualification/Workshop	Board [University
+content	Education/Qualification/Workshop	Year of Passing
+content	Education/Qualification/Workshop	Percentage
+content	Education/Qualification/Workshop	M.Tech(CSE)
+content	Education/Qualification/Workshop	Amity University UP
+content	Education/Qualification/Workshop	2015
+content	Education/Qualification/Workshop	63%
+content	Education/Qualification/Workshop	B.Tech(CSE)
+content	Education/Qualification/Workshop	Baba Ghulam Shah Badshah University, Raj ouri J &K
+content	Education/Qualification/Workshop	2011
+content	Education/Qualification/Workshop	63.81%
+content	Education/Qualification/Workshop	12TH
+content	Education/Qualification/Workshop	J KBOSE
+content	Education/Qualification/Workshop	2006
+content	Education/Qualification/Workshop	61.33%
+content	Education/Qualification/Workshop	10TH
+content	Education/Qualification/Workshop	J KBOSE
+content	Education/Qualification/Workshop	2004
+content	Education/Qualification/Workshop	79.20%
+header	Label	TECHNICAL PROFILE:
+content	Knowledge/Skill	C , C++, J ava,.NET Windows, UniﬂLinux Networking(D-Link Certified)
+content	Knowledge/Skill	Programming Languages OS Other
+header	Label	PROJ ECTS/IN TERN SHIPS
+content	Project	Library Management System (C Language)  Online Examination System (.NET)  Java Training  Implementing Routing in D-Link Layer-3 Switches DGS-3620-28TC Dynamic Resource Allocation In Cloud Computing (CloudSim).
+header	Label	PUBLICATIONS
+content	Publication	Security Issues In Face Recognition-IEEE By J unied khan & Divya Upadhyay
+content	Publication	Web Page Ranking using Machine Learning-[BEE By J unied khan, Arunima Jaiswal & Vij ay Chauhan.  Adaptive Infrastructure as a Service based Resource Allocation Policy in Cloud Computing- Springer By J unied khan & Arunima J aiswal.
+content	Publication	Junied Khalid Khan Published Book titled Microprocessor 8085 with Educreation Publishing 2018, ISBN: 978-1-5457-2311-1
+header	Label	WORK EXPERIENCE
+content	Work/Experience	1. Network Engineer with Sanguine InfoTech Pvt. Ltd. From 1St Oct 2011 to 30th April 2013.My major responsibilities included:  0 Establishing the networking environment by designing system configuration, directing system installation, defining, documenting and enforcing system standards.  0 Maximizing network performance by monitoring performance, troubleshooting network problems and outages.  o Securing network systems by establishing and enforcing policies, and defining and monitoring access.
+content	Work/Experience	2. Trainer in Koenig Solutions Pvt. Ltd. New Delhi from 17th Nov 2015 to 20th May 2016. My responsibilities include instructing trainees on Oracle 11g through one-one session, combined class and LVC (Live Virtual Class).
+header	Label	CURRENT EMPLOYMENT
+content	Work/Experience	Contractual Lecturer in the Department of IT&SS, University Of Kashmir from 01St June 2016. My
+content	Work/Experience	responsibilities include teaching various subjects like DBMS, C, OS, Computer Networks etc. for
+content	Education/Qualification/Workshop	M.Sc. IT Programme.
+header	Label	PERSONAL SKILLS:
+content	Trait	Hard Working Self-Motivated  Quick Learner  Good problem solving skills
+header	Label	PERSONAL PROFILE:
+content	Name	Junied Khalid Khan
+content	Label	Name
+content	Personal	Father’s Name
+content	Name	Khalid Ahmad Khan
+content	Personal	Gender
+content	Personal	Male
+content	Personal	Date of Birth
+content	Personal	24-05-1988
+header	Label	Hobbies:
+content	Interest/Hobby	Debating, Cricket.
+content	SpokenLanguage	English, Hindi, Urdu, Kashmiri & German.
+content	Label	Languages
+content	Personal	Marital Status
+content	Personal	Single
+content	Label	Nationality
+content	Personal	Indian
+content	Personal	Passport No

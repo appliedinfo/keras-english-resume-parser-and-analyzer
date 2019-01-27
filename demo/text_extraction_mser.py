@@ -112,10 +112,10 @@ def mser_image(name):
 
 #     cv2.imwrite(res, imgO)
     # return res
-    cv2.namedWindow('image', cv2.WINDOW_NORMAL)
-    cv2.imshow('image', imgO)
-    cv2.waitKey(0)
-    cv2.destroyAllWindows()
+    # cv2.namedWindow('image', cv2.WINDOW_NORMAL)
+    # cv2.imshow('image', imgO)
+    # cv2.waitKey(0)
+    # cv2.destroyAllWindows()
 
 if __name__=="__main__":
     mser_image(input("Input image name: "))

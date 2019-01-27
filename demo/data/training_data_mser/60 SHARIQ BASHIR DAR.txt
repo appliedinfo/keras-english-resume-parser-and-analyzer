@@ -1,0 +1,22 @@
+content	Personal	SHARIQ BASHIR DAR  RAJOURI KADAL Srinagar-190002, India
+header	Label	SUMMARY
+content	Work/Experience	Software Engineer adept at developing designing and installing software solutions while evaluating operating system feasibility. Committed to technological advancement and excellence in each task completed.  Experience in application development and working under stipulated time frame.  Experience in PHP, Laravel, JavaScript, AJAX, Angular 5, MongoDB, Angular Material Design, ReactJ S, SQL, REST API’s, NodeJ S, Ionic framework (Hybrid mobile App Development).  Ensuring that business requirements and functional specifications for the module coded by me are tested and fulﬁlled before the code is delivered for integration  Analysis and design of databases.  RESTful API design and development. Strong Analytical and Design skills.
+header	Label	EMPLOYMENT
+header	Label	HISTORY
+content	Work/Experience	Lelafe IT Solutions
+content	Work/Experience	To date
+header	Label	EXPERIENCE
+content	Work/Experience	Employer: Lelafe IT Solutions, India
+content	Label	Project:  Client: Role:
+content	Work/Experience	BROSM  Brosm Software Engineer
+content	Project	Description: Brosm is a ﬁrst online Transportation Network of J &K, bringing a solution to daily transportation problems, via different services that could be availed through Mobile application and Web. It  connects more than one thousand drivers, screened them and made them available to travel anywhere in J&K.
+content	Work/Experience	Tasks/Responsibilities: 0 Development of a user-friendly web application for management of cabs and bookings using Laravel framework. Development of web service for user authentication of Brosm users. Upload and download documents of people associated with Brosm. Engineering web development, all layers, from database to services to user interfaces. Design and implementation of Restful API.
+content	Label	Project:  Client: Role:
+content	Project	Airman’s App and Web Application  US Airman Software Engineer
+content	Project	Description: Airman is a mobile app that was developed in ionic framework. It is used by US airmen for applying courses, scholarship and other beneﬁts provided by US air force. In this app forms are being built dynamically. Angular provides us reactive forms that is what we have used in this app. Airman web App is mostly used the management team of Airmen where the are managing at least 5000 applicants at a time. This App has a capability to generate forms for particular applicant uniquely.
+content	Personal	Resume Shariq Bashir Dar Phone: 919469979779 (Cell)
+content	Work/Experience	Tasks/Responsibilities: 0 Development of a user-friendly web application for management of forms. 0 Development of web service for user authentication of users. 0 Upload and download documents of people associated with Airmen. 0 Design and implementation of mobile app.
+header	Label	EDUCATION
+content	Education/Qualification/Workshop	Bachelor of Computer Applications, University of Kashmir, Srinagar, J & K. Master of Computer Applications, University of Kashmir, Srinagar, J & K.
+content	Personal	Shaqu Bashir  June 06, 2018  Email: dshariq8 @ gmail.com Phone: +919469979779 / 7006082511
+content	Personal	Resume Shariq Bashir Dar Phone: 919469979779 (Cell)

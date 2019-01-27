@@ -1,0 +1,40 @@
+content	Personal	Mobile: +91—9149829583 EmailID: dganaie@gmail.com  Web : www.danishahmadullah.com
+content	Name	Danish Ahmadullah
+header	Label	OBJECTIVE:
+content	Summary/Objective	To pursue a challenging career in the industry of Information Technology in an adeptly managed organization that provides excellent opportunity to produce quality software and working for the growth of the company & my own through adopting to new technologies.
+header	Label	PROFESSIONAL SUM MARY:
+content	Work/Experience	1 year and 2 months of IT Experience in developing .Net Applications. Good Knowledge and Experience On Object Oriented Programming. Experience in working with C#.NET, SQL Server 2012 R2.  Experience in developing of Web Applications using Asp.net, MVC 5, Html, and XML. Good Experience in Writing Stored Procedures Experience in ADO.NET Technology.
+header	Label	PROFESSIONAL EXPERIENCE:
+content	Work/Experience	Worked with Tech Mahindra Limited Bangalore from December 2016 to February 2018 as Full Stack Dot Net Developer.  Worked with Thomson Reuters Client via Tech Mahindra as L3 Application Developer. Worked as a Dot Net Developer on a number of Flag Ship Thomson Reuters Products like DataStream, Infobase, Advance, Advance For Office (AFO), Datastream for Office (DFO) and Eikon.  Apart from Development, I was also responsible for Maintaining, Deploying and supporting the above mentioned Products at Client Location (Thomson Reuters).
+header	Label	TECHNICAL SKILLS:
+content	Knowledge/Skill	Win XP/windows 7/8/8.1/10  C#, VB.Net, Python  ASP.NET, ADO.NET, MVC, Entity Framework .NET 2.0 / 3.0/4.0/4.5  Visual Studio 2010/2013/2015.  SQL server 2012 R2  JavaScript
+content	Knowledge/Skill	Operating System Languages Technologies Frame Work  IDE Tools Databases Scripting Language
+header	Label	EDUCATIONAL QUALIFICATIONS:
+content	Education/Qualification/Workshop	B.Tech (74.4 0/0 Marks) in Information Technology and Telecommunication Engineering on 2016 from Baba Ghulam Shah Badshah University, Rajouri, Jammu and Kashmir.
+header	Label	PROJ ECTS PROFI LE
+content	Label	Project # 1:
+content	Project	Title : Datastream, Financial and Risk (FnR). Environment : C#, ASP.NET Web forms, ADO.NET, SQL Server 2012.  Duration : 6 Months Description: Datastream is a powerful financial time series database that enables a user to explore  relationships and trends. The contents of Datastream are: 0 Powerful Annalytical Tools 0 Charting Applications 0 Microsoft Oﬁ‘lce Integration
+content	Work/Experience	Back End Developer in a Team of 8 Members.
+content	Others	Case Studies
+content	Knowledge/Skill	CaseStudy #1:  Title : Diagnostic Center. Environment : C#, ASP.NET Web forms, ADO.NET, SQL Server 2012. Duration : 1 week  Description: This is an ASP.NET web application. This is used by Healthcare Centers to provide all test facilities to registered patients. The diagnostic center has facilities and personnel to conduct all common tests and provide test reports within minimum time periods as mentioned below: 1. blood report (8 hr) urine report (8 hr) lipid profile (8 hr) Thyroid test (16 hr) Ultra sound test (2hr) X ray (2 hr) ECG (0.5 hr) EEG (1 hr)  PONQS’HKPQN
+content	Work/Experience	Full Stack Developer in a team of 2 members.
+content	Label	Highlights of Project:
+content	Project	Implementation of Business Access Layer (BAL) and Data Access Layer (DAL). Complete separation of modules which helps the developer to maintain and manage the application with ease.
+content	Label	CaseStudy #2:
+content	Project	Title Environment Duration
+content	Knowledge/Skill	Online shopping cart.  C#, ASP.NET MVC 5, Entity Framework, SQL Server (DBF) 1 Week
+content	Project	Description: This is an asp.net MVC application. This application allows online shopping customers to accumulate a list of items for purchase, described metaphorically as ”placing items in the shopping cart” or “Add to cart”. Upon checkout, the application typically calculates a total for the order, including shipping and handling and associated taxes, as applicable.
+content	Label	My Role:
+content	Work/Experience	Full Stack Developer in a team of 2 Members.
+content	Label	Highlights of Project:
+content	Project	Implementation of M VC Security by using Owin (Microsoft ’s katana). Password Encryption in the database side by implementing MD5 hash algorithm.
+content	Label	Case Study #3:
+content	Work/Experience	 Airport Application : C# Developer : C#  : 3 Hours  : Visual Studio 2013 Express Edition, Microsoft Windows 7
+content	Project	Description: This is a console application built in C#. This application provides information about both Domestic and International Airports in a Country. The application also provides details like Number of ﬂights an airport receives per day.
+content	Label	My Role:
+content	Work/Experience	Full Stack Developer
+content	Knowledge/Skill	Complete Modularity attained.
+content	Knowledge/Skill	Secondary Skills:- 1. C, C++, Core Java, Python.  2. CCNA Routing and Switching. 3. A+ Computer Hardware.
+header	Label	Personal Detalsz-
+content	Personal	Danish Ahmadullah     Personal: dganaie@gmail.c0m     Home: +91-9149829583     Muloo Shopian Kashmir near Noor Ul Huda Masjid 192303
+content	Label	Name  Email ID  Contact Numbers Address

@@ -1,0 +1,45 @@
+header	Label	CURRICULUM VITAE
+content	Name	Syed Waseem Abbas
+content	Personal	Mobile : +91-7006984910 Email : wasimw3@gmail.com
+content	Summary/Objective	To give my best performance in whatever I do. To help the organization grow through high standards of professional excellence, learning and unceasing team spirit.
+content	Trait	Highly dedicated and enthusiastic Professional. Qualiﬁed up to the MCA with objective to work in a professional organization, assure responsibility and strive for collective growth and development, always keeping organization goals as a priority.
+content	Education/Qualification/Workshop	Participated in various workshops on Drupal, Word Press.
+content	Education/Qualification/Workshop	Master of Computer applications
+content	Work/Experience	2012-2015
+content	Education/Qualification/Workshop	Passed with First Division, 63.40% Agg, from Islamic University (Awantipora)
+content	Education/Qualification/Workshop	of Science And Technology
+content	Education/Qualification/Workshop	Bachlor Of Computer Applications
+content	Work/Experience	2008-2011
+content	Education/Qualification/Workshop	Passed with Second Division, Kashmir , Srinagar
+content	Education/Qualification/Workshop	University Of
+content	Education/Qualification/Workshop	56.61% aggregate,
+content	Education/Qualification/Workshop	Class XII: From JK Board
+content	Work/Experience	2006-2007
+content	Education/Qualification/Workshop	Passed with First Division, 57.16% aggregate, from S.P Higher Secondary, Srinagar
+content	Education/Qualification/Workshop	Class X: From JK Board
+content	Work/Experience	2004-2005
+content	Education/Qualification/Workshop	Passed with Second Division, School, Srinagar
+content	Education/Qualification/Workshop	from Woodland High
+content	Education/Qualification/Workshop	58.20% aggregate,
+content	Work/Experience	Work in developing ONLINE EXAMINATION
+content	Certification	Training for asp.net in HCL New Delhi for 1 1/2 months (Jan 2015 — Feb 2015).\
+content	Work/Experience	Intern at iquasar in it support and website maintenance support (Dec 2017 — march 2018
+content	Knowledge/Skill	Operating Systems : Window 7, Windows8, Windowle, Mac Internet Applications : Proficient in Web - Searching, Net Surfing and Technologies : HTML5, C883, BOOTSTRAP, GITHUB, UNBOUNCE. Areas : Network Support.
+content	Work/Experience	Freelancer Web developer/SEO Expert at GBTECHSOLUTION8247 Duration: May-2018 to Present  Role:  oz. Developing Websites.  4° Maintaining Websites.  oz. On Page and Off Page SEO.
+content	Work/Experience	Intern Web developer at Apexure Srinagar Duration: March 2018 toJune 2018
+content	Knowledge/Skill	Projects on HTML5, C553 and Bootstrap. Developing Landing Pages in Unbounce. Maintaining Websites.  On Page and Off Page SEO.
+header	Label	PASSPORT DETAILS:-
+content	Label	Passport No:
+content	Personal	H3627060
+content	Personal	Srinagar, India
+content	Personal	09/03/2009
+content	Label	Date of Expiry:
+content	Personal	08/03/2019
+content	Interest/Hobby	Reading and creative writing. Playing Indoor games &Bike riding Listening to music.
+content	Personal	Facebook ID
+content	Personal	www.facebook.comlFast00768
+content	Personal	Linkedin
+content	Personal	https:IIin.Iinkedin.comlinlsyed-waseem-bleb74b
+content	Label	Name  Father’s Name Date of Birth Gender Residence
+content	Personal	SYED WASEEM ABBAS  Mr. SYED MUZAFFAR SHAH . 21.11.1987 Male
+content	Personal	Bagh ali mardan khan, nowshera, srinagar

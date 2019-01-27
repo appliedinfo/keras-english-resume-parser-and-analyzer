@@ -58,6 +58,8 @@ class WordVecCnn(object):
         self.vocab_size = self.config['vocab_size']
         self.labels = self.config['labels']
 
+        # print('-'*20,'load model\n\n\n',self.labels,'-'*20)
+
     def create_model(self):
         embedding_size = 100
         self.model = Sequential()
@@ -101,6 +103,12 @@ class WordVecCnn(object):
         self.vocab_size = self.config['vocab_size']
         self.labels = self.config['labels']
 
+        # print(self.config['labels'])
+        print(self.get_config_file_path(model_dir_path))
+        print('-'*20)
+        print(self.config)
+        print('-'*20)
+
         np.save(self.get_config_file_path(model_dir_path), self.config)
 
         self.create_model()
@@ -121,7 +129,7 @@ class WordVecCnn(object):
             ys.append(self.labels[label])
 
         X = pad_sequences(xs, maxlen=self.max_len)
-        print(self.labels)
+        # print(self.labels)
         Y = np_utils.to_categorical(ys, len(self.labels))
 
         x_train, x_test, y_train, y_test = train_test_split(X, Y, test_size=test_size, random_state=random_state)

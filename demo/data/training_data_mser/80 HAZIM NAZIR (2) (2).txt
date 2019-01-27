@@ -1,0 +1,26 @@
+content	Name	HAZIM NAZIR
+content	Label	Email id:
+header	Personal	hazimn2.hn @ gmail.com
+content	Personal	Contact n0.’s :
+content	Personal	98581345 78,88250312 79
+header	Label	Carrier objective:-
+content	Summary/Objective	To obtain a challenging and responsible position, where I can enhance my ability and professional skill which would help me to contribute in the growth of an Organization.
+header	Label	Academia:-
+content	Education/Qualification/Workshop	Zealous learner with highly motivated skills, completed Bachelor’s in Information Technology (B.I.T) batch 2018 from Sri Pratap College, Srinagar eager to learn new technologies and methodologies.  Qualified 12th with non-medical as my stream. Had done schooling from Salfia Muslim Institute, Srinagar.
+header	Label	PERSONALITY TRAITS AND INTEREST:-
+content	Trait	Confident with Good Interpersonal and communication skills Ability to work under pressure, Good Learner
+header	Label	Skills gained:-
+content	Knowledge/Skill	Operating Systems: Windows-98/NT/2000/XP/7/8/8. 1/10 Have learned various programming languages. Tally 9.0 erp Achieved grade “A+” in computer comprising of basics of windows and windows explorer, MS word, MS excel, Power Point and Photoshop.
+header	Label	EXPERIENCE:
+content	Work/Experience	Worked as customer care executive/technical support in Access infrastructure private limited info. Sonwar Srinagar from 01-01-2015 to 06-01-2015. Worked as Investigation manager CMS (Claims  Management System) as well as IT expert at J EHLUM INVESTIGATING SERVICES PVT LTD, Srinagar from 01-08-2017 to 01-09-2018.
+header	Label	Extracurricular activities:-
+content	Interest/Hobby	Participated in various cultural activities in college. Hosted various events in college. Organized and managed various college and school festivals.
+header	Label	Personal details:-
+content	Name	HAZIM NAZIR
+content	Label	D.O.B:- Address:
+content	Personal	- 31-12-1996 Father’s Name : NAZIR AHMED Languages known: a - CHANAPORA, SRINAGAR, Jammu and Kashmir. 190015.
+content	SpokenLanguage	- Kashmiri, English, Hindi.
+content	Personal	- OKHLA VIHAR, JAMIA NAGAR, NEW DELHI.
+header	Label	DECLARATION
+content	Others	I hereby declare that the information furnished above is authentic and complete to the best
+content	Name	(hazim Nazir)

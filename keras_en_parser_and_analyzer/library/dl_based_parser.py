@@ -197,6 +197,8 @@ class ResumeParser(object):
 
                 line_label = self.line_label_classifier.predict_class(sentence=p)
                 line_type = self.line_type_classifier.predict_class(sentence=p)
+                print(p,'->',line_label,'->',line_type)
+                print('-'*20)
                 
                 unknown = True
 

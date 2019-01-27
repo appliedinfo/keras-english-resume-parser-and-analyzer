@@ -1,0 +1,43 @@
+content	Name	Anisa Nazir
+content	Personal	Lal Bazar
+content	Personal	Srinagar
+content	Personal	Jammu
+content	Personal	& kashmir
+content	Personal	Email_id: anisanazir77@gmail.com
+content	Personal	Contact no: 9622878393
+content	Personal	Umer Colony b
+header	Label	Career Objective:
+content	Summary/Objective	To secure a challenging position where I can effectively contribute my
+content	Summary/Objective	skills as software professional. In addition, the scope for personal growth
+content	Summary/Objective	in terms of acquiring new skills and handling challenging tasks are also
+content	Summary/Objective	very critical in my choice of a career.
+header	Label	Educational Qualification:
+content	Education/Qualification/Workshop	 Pursuing Master of Computer Applications(6th semester )in university
+content	Education/Qualification/Workshop	of Kashmir North campus sgr
+content	Education/Qualification/Workshop	 BCA with an aggregate of 68%.
+header	Label	Computer skills:
+content	Knowledge/Skill	 Programming language: C,C++,Java,javascript,php
+content	Knowledge/Skill	 Operating system: windows/xp/7/8/10
+content	Knowledge/Skill	 Database system: MySQL,Oracle,Ms Access
+header	Label	Projects Undertaken:
+content	Project	 Title: Sales Management system for BCA final year (kausar college of
+content	Education/Qualification/Workshop	computer sciences)
+content	Others	 Duration: 2 months
+content	Knowledge/Skill	 Platform: Vb
+header	Label	Professional  traits:
+content	Trait	 Willingness to work in team and hard worker.
+content	Trait	 Disciplined & good etiquette.
+content	Trait	 Good sense of humor.
+content	Trait	 Ability to deal with people.
+content	Trait	 Give my 100% for achieving the goal.
+header	Label	Personal profile:
+content	Name	 Name: Anisa Nazir
+content	Personal	 Father’s Name: Nazir Ahmad Sofi
+content	Personal	 Date of birth: 10 June 1994
+content	Personal	 Gender: Female
+content	Personal	Contact No: 9622878393
+header	Label	Declaration:
+content	Others	I hereby declare that the above mentioned information is correct up to my
+content	Others	knowledge and I bear the responsibility for the correctness of the above
+content	Others	mentioned particular
+content	Name	Nazir

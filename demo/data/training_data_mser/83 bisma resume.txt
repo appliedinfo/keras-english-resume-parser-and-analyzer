@@ -1,0 +1,26 @@
+content	Personal	BISMA DAR Naseeanaghlaneno1 HabbakNaseenwbagh  Srinagar 7889913300 fawzahmohammad@gmail.com
+header	Label	CAREER OBJECTIVE
+content	Trait	Hard-working student (3.5/4.0 GPA) with proven leadership and organizational skills, and minute attention to detail. Seeking to apply my abilities to ﬁll the internship role in your company. lam a dedicated team player who can be relied upon to help your company achieve its goals.
+header	Label	EDUCATION
+content	Education/Qualification/Workshop	University of Kashmir Computer Science and Engineering 75%
+content	Education/Qualification/Workshop	Girls Higher secondary school kothibagh Higher secondary part II 77%
+content	Education/Qualification/Workshop	Gulistan Alfal school Matriculation 80%
+header	Label	EXPERIENCE
+content	Work/Experience	Elance  PHP  Jan 2017 - August 2018 Trainee
+header	Label	TECHNICAL SKILLS
+content	Knowledge/Skill	HTML, CSS, MySQL, Javascript, PHP, Bootstrap. Programming Microsoft ofﬁce
+header	Label	PROJECTS
+content	Project	Online Auction system 90 de  Project was based on PHP . Backend was done by PHP and front end by HTML and 088 with client side validation by JavaScript.
+content	Knowledge/Skill	Web Development In Creative aspects PROGRAMMING
+header	Label	PERSONAL PROFILE
+content	Personal	Date of Birth
+content	Personal	17/11/1995
+content	Personal	Marital Status
+content	Personal	Single  Indian
+content	Label	Nationality  Known Languages
+content	SpokenLanguage	English, Urdu, Kashmiri.  Novelist, cooking.
+content	Label	Hobby
+header	Label	PERSONAL STRENGTHS
+content	Summary/Objective	I am very hard-working person. I worked with my team of 3 people in Btech project for 3 months which was an on-line auction system ...i believe dedication in work ﬁeld is must to achieve any goal.
+header	Label	DECLARATION
+content	Trait	I can work independently using my own initiative as well as part of a team

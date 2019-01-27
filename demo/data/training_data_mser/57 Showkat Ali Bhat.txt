@@ -1,0 +1,24 @@
+content	Personal	showkatali357©gmaiLcom M
+content	Name	Showkat Ali Bhat
+content	Personal	+91-7780889934
+content	Personal	Bangalore, India 9
+content	Personal	linkedin.com/in/showkat—ali-bhat—0a6b85109 in
+content	Summary/Objective	looking For an organization where i can widen my knowledge base and enhance my skills. So, that i can contribute Fully to the growth of organization, while working in an innovative and growth-oriented environment.
+content	Education/Qualification/Workshop	EDUCATION  B.Tech (Computer Science Engineering) Mewar University Rajasthan  2014—2018 Z92 10+2 S P Higher Secondary School 2013 60.33% Courses - Non-medicalwith Information Practice  10th
+header	Label	SKILLS
+content	Knowledge/Skill	Core Java
+content	Knowledge/Skill	JavaScript
+content	Education/Qualification/Workshop	7.92
+content	Education/Qualification/Workshop	10+2  S P Higher Secondary School 2013  Courses |:- Non-medical with  Information Practice
+content	Trait	ACHIEVEMENTS  Winner up of timer ready competition at university level.
+content	Education/Qualification/Workshop	60.33%  1
+content	Trait	Runner up in Robo wars competition at university level.
+content	Education/Qualification/Workshop	10th  J & K Police Public school 2010
+content	Certification	CERTIFICATES  Six week course in Advanced Java From National Institute oF Electronics and Information Technology. (06/2017 — 07/2017)
+content	Project	PERSONAL PROJECTS  Examination System Using Swing and JDBC. (2017)
+content	Certification	Six months course in JAVA from Rooman Technologies (01/2018 — 06/2018)
+content	Project	Web based email system using java, javascript, JSP. (2018)
+content	SpokenLanguage	LANGUAGES English C O O C O
+content	SpokenLanguage	Hindi
+content	SpokenLanguage	Urdu
+header	Label	INTERESTS

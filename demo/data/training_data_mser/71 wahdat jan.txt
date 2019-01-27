@@ -1,0 +1,36 @@
+content	Personal	wahdat.kashmiri@gmail.com M
+content	Personal	wahdatjan  Android developer
+content	Personal	+918493901343 D  Srinagar,jammu & Kashmir 9
+content	Personal	+918493901343
+content	Personal	linkedin.com/in/wahdatkashmiri in
+content	Personal	twitter.com/WahdatKashmiri y
+content	Personal	github.com/wahdatkashmiri33 O
+content	Personal	stackoverFlow.com/user5/8205099/wahdat—kashmiri
+content	Personal	medium.com/@wahdat.kashmiri M
+content	Work/Experience	Working as an Android Application Developer. I have been developing Apps as an amateur developer since 2017.
+content	Work/Experience	WORK EXPERIENCE  Android developer(lntern) Rooman Technologies 08/2018— 11/2018 Bangalore  Advanced vocational Training in Telecom
+header	Label	SKILLS
+content	Personal	Bangalore
+content	Knowledge/Skill	Android architecture components
+content	Education/Qualification/Workshop	Advanced vocational Training in Telecom Workplace/Company 02/2018—03/2018
+content	Project	PATE NTS  Smartphone/RF remote controlled voltage stabilizer Filed(Filed Mar 4, 2016)PATENT NO 201611007646 8'
+header	Label	PERSONAL PROJECTS
+content	Project	Gas leakage detection with vibrating pillow For leakage Notiﬁcation(Filed 10 OCT 2018)PATENT NO 201811037969
+content	Project	IOT BASED SMART GAS LEVEL MONITORING SYSTEM & LEAKAGE DETECTION WITH AUTOMATIC BOOKING (05/2018 — 07/2018)
+content	Project	ONLINE FOOD ORDER APP USING FIREBASE (03/2018—05/2018) l3"
+content	Certification	CERTIFICATES  Android Developer Nanodegree Co created with Google (11/2018 — Present) 8'
+content	Project	TRANSLATIONAL ANDROID APP(PUBLISHED TO PLAYSTORE) (08/2017 — 10/2017) [3‘
+content	Certification	Google India Challenge Scholarship (05/2018 — Present)
+content	Project	FIREBASE FRIENDLY CHAT APP (OS/2018 — 05/2018)
+content	Project	SANDWICH CLUB CODE APP (06/2018 — 06/2018)
+content	Project	Introduction to Modern Application Development (02/2018 — Present) [3'
+content	Project	MULTIDUINO(PUBLISHED TO PLAYSTORE) (01/2017 —o1/2017) 8'
+content	Publication	Paper Presentation on IOT based smart gas monitoring system at a conference on software engineering and data sciences(CoSEDS 2018) University of kashmir (06/2018 — Present) 8'
+content	Project	POPULAR MOVIE APP(PUBLISHED TO PLAYSTORE) (07/2018 — 08/2018) [3'
+content	Project	BAKING APP (09/2018 — 09/2018) 8'
+content	Certification	Certification of participation in the conference on software Engineering and data science (06/2018 — Present) C"
+content	Education/Qualification/Workshop	EDUCATION  Bachelors of Technology in Electronics Communication Engineering  Institute of Technology, University of kashmir 08/2074—07/2078  Android developer Nanodegree
+content	SpokenLanguage	LANGUAGES English . . . . O
+content	SpokenLanguage	Urdu
+content	SpokenLanguage	Hindi
+content	Certification	Android developer Nanodegree  Udacity 05/2078— 77/2018
