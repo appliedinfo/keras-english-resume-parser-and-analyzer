@@ -20,7 +20,7 @@ class SegmentText(object):
         # gray = cv2.GaussianBlur(gray,(5,5),0)
         imgf = gray.copy()
 
-        _, thresh = cv2.threshold(gray, 210, 255, cv2.THRESH_BINARY_INV)
+        _, thresh = cv2.threshold(gray, 170, 255, cv2.THRESH_BINARY_INV)
         thresh = cv2.GaussianBlur(thresh, (5, 5), 11)
 
         _, thresh = cv2.threshold(gray, 180, 255, cv2.THRESH_BINARY_INV)
@@ -154,7 +154,7 @@ class SegmentText(object):
         file_content=[]
         # print('11')
         if len(bboxes) == 0:
-            return file_content
+            return [file_content,[]]
 
 
 
@@ -194,6 +194,8 @@ class SegmentText(object):
 
         img3 = imgO.copy()
         img2 = imgO.copy()
+        bb=[]
+        
         for b in range(len(bboxes)-1,-1,-1):
             # print(b)
             x, y, x2, y2 = bboxes[b]
@@ -219,17 +221,22 @@ class SegmentText(object):
                 if text.startswith(':'):
                     text=text[1:]
                 file_content.append(text)
+                bb.append(bboxes[b])
                 # print(text)
         # cv2.imwrite(name.split('/')[-1],img3)
-        cv2.imwrite(name,img2)
+        # cv2.imwrite(name.replace('.jpg','_sections.jpg'),img2)
+
+        # print('sections mser bboxes:',len(bboxes))
+
+        # print('sections mser bb:',len(bb))
 
 
-        return file_content
+        return (file_content,bb)
 
 
 if __name__=="__main__":
     obj=SegmentText()
-    c=obj.find_segments('data/resume_images/0.jpg')
+    c=obj.find_segments('data/'+f_name+'/resume_images/0.jpg')
     for a in c:
         print(a)
         print('-'*75)

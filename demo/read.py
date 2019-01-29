@@ -27,10 +27,13 @@ def read_pdfs(dir_path, collected=None, command_logging=False, callback=None):
     docx_pdf(dir_path)
     if collected is None:
         collected = dict()
+    collected_bboxes=dict()
+    
     for f in os.listdir(dir_path):
         file_path = os.path.join(dir_path, f)
         if os.path.isfile(file_path):
             contents=[]
+            bboxes=[]
             # txt = []
             # if f.lower().endswith('.docx'):
             #     if command_logging:
@@ -49,20 +52,32 @@ def read_pdfs(dir_path, collected=None, command_logging=False, callback=None):
                     print('extracting text from pdf: ', file_path)
                 # txt = pdf_to_text(file_path)
                 # print(os.getcwd())
-                for x in os.listdir('data/resume_images'):
-                    os.remove('data/resume_images/'+x)
+                # for x in os.listdir('data/resume_images'):
+                #     os.remove('data/resume_images/'+x)
                 print(file_path)
-                pdfimg.convert(file_path)
-                file_list = os.listdir('data/resume_images/')
+                if not os.path.exists('data/resume_images/'+f[:-4]+'/'):
+                    os.mkdir('data/resume_images/'+f[:-4]+'/')
+                pdfimg.convert(file_path,f[:-4])
+                file_list = os.listdir('data/resume_images/'+f[:-4]+'/')
                 file_list.sort()
                 # print(type(file_list))
+                bb=dict()
                 for x in file_list:
 
-                    txt=seg.find_segments('data/resume_images/'+x)
-                    contents.extend(txt)
+                    txt,bbox=seg.find_segments('data/resume_images/'+f[:-4]+'/'+x)
+                    if txt==[]:
+                        print('empty')
+                    else:
+                        contents.extend(txt)
+                        # print('\n\n\n',x,'\n\n\n')
+                        bb[x[:-4]]=bbox
+
+                    # print('txt :', len(txt),'bb: ',len(bb))
                 # print(contents)
                 # print('length : ',len(contents))
-
+                
+                # bboxes.append(bb)
+            # print('contents: ',len(contents))
 
                 
             if contents is not None and len(contents) > 0:
@@ -71,10 +86,12 @@ def read_pdfs(dir_path, collected=None, command_logging=False, callback=None):
                     callback(file_name, file_path, contents)
                     # callback(len(collected), file_path, contents)
                 collected[file_path] = contents
+                collected_bboxes[file_path]=bb
+                # print('\n\n\n\n\n',bboxes,'\n\n\n\n\n')
         elif os.path.isdir(file_path):
             read_pdfs(file_path, collected, command_logging, callback)
 
-    return collected
+    return (collected,collected_bboxes)
 
 
 

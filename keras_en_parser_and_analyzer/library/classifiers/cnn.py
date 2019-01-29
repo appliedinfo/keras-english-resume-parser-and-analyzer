@@ -104,10 +104,10 @@ class WordVecCnn(object):
         self.labels = self.config['labels']
 
         # print(self.config['labels'])
-        print(self.get_config_file_path(model_dir_path))
-        print('-'*20)
-        print(self.config)
-        print('-'*20)
+        # print(self.get_config_file_path(model_dir_path))
+        # print('-'*20)
+        # print(self.config)
+        # print('-'*20)
 
         np.save(self.get_config_file_path(model_dir_path), self.config)
 

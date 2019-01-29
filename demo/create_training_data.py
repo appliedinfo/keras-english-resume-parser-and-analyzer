@@ -204,7 +204,7 @@ def main():
 
     # method 2 (mser)
     training_data_dir_path = current_dir + '/data/training_data_mser'
-    collected = read_pdfs(data_dir_path, command_logging=True, callback=lambda index, file_path, file_content: {
+    collected,bboxes = read_pdfs(data_dir_path, command_logging=True, callback=lambda index, file_path, file_content: {
         gui_annotate(training_data_dir_path, index, file_path, file_content)
     })
 

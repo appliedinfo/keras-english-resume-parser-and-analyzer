@@ -1,0 +1,42 @@
+content	Name	Talib ZaZ
+content	Work/Experience	Software Engineer
+content	Personal	mtalibzaz®gmaiLcom l Sk Colony Sector 1, Qamarwari l Srinagar, Jammu and Kashmir, 190010 I +91 990 669 6262
+header	Label	Summary
+content	Summary/Objective	Self-motivated, hardworking and energetic software engineer with nearly 1 year experience, seeking for an opportunity to work in a challenging environment to hone my skills as a developer.
+header	Label	Educann
+content	Education/Qualification/Workshop	University of Kashmir, Srinagar Btech CSE, Graduated
+content	Education/Qualification/Workshop	Tyndale Biscoe School, Srinagar Higher Secondary, Graduated
+header	Label	Emptoyment History
+content	Work/Experience	Cenedex Software Solutions  .Net Intern January 2018 - . started learning basics of .net and worked on company's MVC project called GateHouse. . worked on bug fixes and mostly Ul fixes of the product. . used jQuery and ajax extensively.
+content	Work/Experience	Graphic Weave Software Engineer Intern . was hired as trainee and learnt various technologies. . created several mini-projects which were reviewed by the senior developer.
+content	Work/Experience	Graphic Weave Back-end Developer
+content	Work/Experience	Hired as back-end programmer to build the projects and write server side code for web and mobile applications. I work on distributed systems employing micro services architecture and continuous integration. I build the project from scratch use Make to build the projects and dockerize them so that they can be easily deployed on the server.
+content	Project	Eve ntackle |An event management portal
+content	Work/Experience	Developed the entire admin panel for the system. Implemented Iris web framework in Go and designed server in GrathL.  Used MySQL and ArangoDB clients for Go to store the data in database.  Used Amplitude analytics for statistics and analysis.  The overall project is distributed and in order to communicate with other servers i used RPC client for Golang called gRPC-Go.
+content	Work/Experience	. Used Oliver-elastic, elastic search client for Go for searching purposes. 0 Dockerized the admin panel and deployed the same on digital ocean server. 0 Also helped the front-end team with code integration in Vuejs.
+content	Project	Lingva App | Mobile App
+content	Work/Experience	wrote the server side code for the mobile application in Go using Gorilla mux router and GrathL server. The app enables the parents to get their wards school reports and various notifications from school / teacher. Used the GORM library in Golang to store the app data in MySQL database.
+content	Project	Eventackle App | Mobile App
+content	Work/Experience	currently working on mobile app for Eventackle Web. Developed the entire project from scratch using Iris Framework and qugen grathL library. Fetched data from web app servers using gRPC.
+header	Label	Languages and Technotogies
+content	Knowledge/Skill	Golang
+content	Knowledge/Skill	GrathL
+content	Knowledge/Skill	JavaScript
+content	Knowledge/Skill	inhk
+content	Knowledge/Skill	Vuejs
+content	Knowledge/Skill	SQL
+content	Knowledge/Skill	ArangoDB
+content	Knowledge/Skill	Red is
+content	Knowledge/Skill	RethinkDB
+content	Knowledge/Skill	Docker
+content	Knowledge/Skill	****
+content	Knowledge/Skill	gRPC
+content	Knowledge/Skill	***
+content	Knowledge/Skill	Linux OS
+content	Knowledge/Skill	inhk
+content	Knowledge/Skill	ElasticSearch
+content	Label	Web Presence
+content	Personal	Linked In
+content	Personal	https://vwvw.|inkedin.com/in/ta|ib-zazj
+content	Personal	Github
+content	Personal	httpszllgithub.com/talibzaz

@@ -184,6 +184,31 @@ class ResumeParser(object):
             return text
         return None
 
+
+
+    def go_predict(self, texts):
+        # self.raw = [text.replace('\t',' ') for text in texts]
+        predictions=[]
+        print(len(texts))
+        for p in texts:
+            # p=p.replace('\t',' ')
+            p=p.replace('-'," ")
+            # print('line -->',p)
+            line_label=''
+            if len(p) > 1: #originally >10
+                # print('line <->',p)
+                # s = word_tokenize(p.lower())
+
+                line_label = self.line_label_classifier.predict_class(sentence=p)
+                line_type = self.line_type_classifier.predict_class(sentence=p)
+                # print(p,'->',line_label,'->',line_type)
+                print(line_type, ' -> ',line_label,' -> \n',p)
+                print('-'*20)
+
+            predictions.append(line_label)
+        return predictions
+
+
     def parse(self, texts, print_line=False):
         self.raw = [text.replace('\t',' ') for text in texts]
         
@@ -197,7 +222,8 @@ class ResumeParser(object):
 
                 line_label = self.line_label_classifier.predict_class(sentence=p)
                 line_type = self.line_type_classifier.predict_class(sentence=p)
-                print(p,'->',line_label,'->',line_type)
+                # print(p,'->',line_label,'->',line_type)
+                print(line_type, ' -> ',line_label,' -> \n',p)
                 print('-'*20)
                 
                 unknown = True

@@ -1,0 +1,32 @@
+content	Name	FAHEEM FAROOQ
+content	Personal	Address: Badshah Nagar Natipora, Srinagar
+content	Personal	Contact No: +919596626262
+content	Personal	Email Address: fahiiibhatt@gmail.com
+header	Label	CAREER OBJECTIVE
+content	Summary/Objective	To become a reliable Network Engineer who will be able to assist the company or organization towards achieving its mission and goals by improving my overall efficiency.
+header	Label	PERSONAL QUALITIES
+content	Trait	Excellent logical, analytical and computational skills.  Open minded to learn , understand new concepts and Technologies. Strong motivational and leadership skills.  Well developed and effective communication skills.  Ability to work under pressure.
+header	Label	TECHNICAL SKILLS
+content	Knowledge/Skill	Troubleshooting.  Organizational skills.  Problem solving skills.  Innovative thinking.  Excellent knowledge of IP Addressing, Administrating subnets and various routing  models.  Sound knowledge of 031 and TCP/IP Model. Sound knowledge of LAN Technologies like- Ethernet, Switching, VLAN, Access and Trunk portS
+header	Label	TRAINING
+content	Knowledge/Skill	CORE JAVA
+content	Certification	Successfully completed 45 days training in Core Java at HCL CDC Delhi [South Ex).
+header	Label	ACADEMIC QUALIFICATION
+content	Education/Qualification/Workshop	B-TECH IN CSE FROM UNIVERSITY OF KASHMIR NORTH CAMPUS DELINA,
+content	Personal	BARAMULLA, ]&K
+content	Education/Qualification/Workshop	TOTAL MARKS: 4-649 / 8000.
+content	Education/Qualification/Workshop	10+2 NEW CONVENT HIGHER SECONDARY SCHOOL (IKBOSE)
+content	Education/Qualification/Workshop	MARKS PERCENTAGE OF 75.2%
+content	Education/Qualification/Workshop	CLASS 10 OAK HILL INSTITUTE OF EDUCATION
+content	Education/Qualification/Workshop	MARKS PERCENTAGE OF 72.4%
+header	Label	ACADEMIC PROJECTS
+content	Project	Programming Language Converter
+header	Label	PERSONAL DETAIL
+content	Name	Full name: Faheem Farooq
+content	Personal	Date of Birth: 10-05-1992
+content	Personal	Father's Name: Mohammad Farooq Bhat
+meta	Personal	Permanent Address: Badshah Nagar Natipora, Srinagar
+content	Personal	Martial Status: Single
+content	SpokenLanguage	Language Known: English, Urdu, Hindi
+header	Label	PROCLAMATION
+content	Others	I FAHEEM FAROOQ, hereby declare that the information and particulars furnished above are true and correct to the best of my knowledge and belief.

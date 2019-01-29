@@ -1,0 +1,23 @@
+content	Personal	NOSHABA  Email ID: noshabawani @ gmail.com Contact no: 8825032908  Date of Birth : 01-Apr-1995     Looking for the best opportunity in an esteemed organization where I would be able to utilize and enhance my potential while being resourceful, innovative and flexible.
+header	Label	TSNo. | QUALIFICATION
+header	Label	INSTITUTE
+content	Education/Qualification/Workshop	YEAR OF PASSING T
+content	Education/Qualification/Workshop	AGGREGATE % CGPA
+content	Education/Qualification/Workshop	B.Tech(C.S.E)
+content	Education/Qualification/Workshop	Islamic University of Science and Technology Awantipora,J&K     Girls Higher Secondary School Srinagar,J&K     Jehlum Public School
+content	Education/Qualification/Workshop	78.6%
+content	Education/Qualification/Workshop	12°
+content	Education/Qualification/Workshop	2012
+content	Education/Qualification/Workshop	72.4%
+content	Education/Qualification/Workshop	75.2%
+content	Education/Qualification/Workshop	10"
+content	Education/Qualification/Workshop	2010
+content	Knowledge/Skill	Programming Languages: C, C++, Core Java , J2EE Web Designing: HTML,PHP, basics of CSS Database: MySQL  Platform : Windows
+content	Project	Minor Project: Tokenizer  Tokenizer tokenizes collection into documents. It tokenizes documents into sections. It tokenizes sections into a set of sentences and tokens.  Tokenization is the process of breaking up a sequence of strings into pieces such as words, keywords, phrases, symbols and other meaningful elements called tokens. Tokens can be individual words, phrases or even whole sentences. In the process of tokenization, some characters like symbols, punctuation marks are discarded. Stop words such as is, a, the, when, etc are also discarded. The list of tokens becomes input for further processing such as parsing and data mining.  Tokenization is used in computer science, where it plays a large part in the process of lexical analysis.
+content	Project	Major Project: Smart Waste Management System We have designed a model for a ‘SMART WASTE MANAGEMENT’ which indicates directly that the dustbin is filled to a certain level by the garbage and cleaning or emptying them is a matter of immediate  concern. This prevents lumping of garbage in the roadside dustbin which ends up giving foul smell and  illness to people In this paper, smart bin is built on a microcontroller based platform Arduino mega board which is interfaced with GSM modem , Ultrasonic sensor ,wifi module and gas sensor. Ultrasonic sensor is placed at the top of the dustbin which will measure the stature of the dustbin. The threshold stature is set as 10cm. Once the garbage reaches the threshold level ultrasonic sensor will trigger the GSM modem which will continuously alert the required authority until the garbage in the dustbin is squashed. Once the dustbin is squashed, people can reuse the dustbin. Similarly gas sensor monitors the concentration of gases emitted from rotten waste .Once the threshold is passed, required authorities will be alerted.
+content	Personal	Address : Karfalli Mohalla,Habba Kadal, Srinagar ,J&K  Language Proficiency: English, Urdu, Kashmiri.  Nationality: Indian  Strengths: Hard working with lots of patience, Adaptability, Optimistic, Persistence and self motivated. Hobbies: Cooking, Drawing, Voluntary work
+content	Certification	Successfully completed training in ‘Open Source Web Technology' from NITTTR, Chandigarh.
+content	Certification	Successfully completed Lifeskills Training conducted by GTT and NASCOM at IUST, J&K.
+content	Certification	Successfully completed one day Digital Marketing Workshop organized by Digital Vidya at IUST, J&K.
+content	Education/Qualification/Workshop	Attended a Workshop of CCNA at IUST J&K
+content	Certification	Successfully completed three months training in ‘Java’ from Dhruv Consultancy Services,Bangalore.
