@@ -67,9 +67,11 @@ class WordVecCnn(object):
         self.model.add(SpatialDropout1D(0.2))
         self.model.add(Conv1D(filters=256, kernel_size=5, padding='same', activation='relu'))
         self.model.add(GlobalMaxPool1D())
+        # self.model.add(Dense(units=128,activation='relu'))
         self.model.add(Dense(units=len(self.labels), activation='softmax'))
 
         self.model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
+        print(self.model.summary())
 
     def predict(self, sentence):
         xs = []

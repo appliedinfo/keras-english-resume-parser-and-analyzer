@@ -11,7 +11,7 @@ def annotate_predictions(bboxes,predictions):
 
     # print(bboxes)
     # print('-'*50)
-    # print(preds)
+    # print(predictions)
 
     for name, preds in predictions.items():
 
